@@ -3,10 +3,6 @@
 % Curator: Mavridis Philippe <@blu256@koyu.space>
 %
 
-% Implementation note:
-%  The bot should prepend published links with '% '
-%  (that is, comment 'em out).
-
 %%%%    I. The Web  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Web-sites
 %% Search engines
