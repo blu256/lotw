@@ -10,13 +10,13 @@
 %%%%    I. The Web  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Web-sites
 %% Search engines
-https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
+% Link of the week 2021/11/15
+% https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
 
 %% Forums
 
 %% Informational
-% Link of the week 2021-11-16 (week 46)
-% https://toastytech.com/guis/index.php Nathan Lineback's legendary GUI gallery.
+https://toastytech.com/guis/index.php Nathan Lineback's legendary GUI gallery.
 https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
 
 %% Web-comics
