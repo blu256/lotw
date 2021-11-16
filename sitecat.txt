@@ -1,7 +1,10 @@
 % Sites/Links Catalog
+% -------------------
+%  Curator: Mavridis Philippe <@blu256@koyu.space>
 %
-% Curator: Mavridis Philippe <@blu256@koyu.space>
-%
+%  Syntax:
+%   * Lines that begin with '%' are comments.
+%   * Each entry begins with the URL, followed by a short single-line description of the link.
 
 %%%%    I. The Web  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Web-sites
