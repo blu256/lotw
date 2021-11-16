@@ -20,6 +20,8 @@ https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing 
 
 %% Web-comics
 https://userfriendly.org UserFriendly is (was?) a legendary cult geeky web-comic about the workers of an ISP in the early 00s.
+https://gpf-comics.com GPF Comics is a bizzare, adventurous and fun web-comic with a geeky touch born withinin the eddies of the cyberspace-time continuum.
+https://nukees.com  Nukees is a web-comic about Gav, a nuclear engineering student and "exasperated cynic-turned-mad-scientist". 
 
 %% Open-source projects
 https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
@@ -28,7 +30,13 @@ https://simutrans.org Simutrans is a free and open-source transport company simu
 %% Fun
 http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
 https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
+http://www.stokely.com/lighter.side/index.html An enormous collection of sysdamin humour, because " sometimes we all need to take a break and laugh at ourselves, our jobs, and our so-called lives".
 
+%% Internet Archive borrowable e-books
+https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
+
+%% Tools
+https://neocities.org/ Neocities lets you create your own website for free. It also hosts a lot of interesting personal and indie websites (yes, the kind that used to prevail before the commercialization of the Web).
 
 %%% Articles
 %% IT
