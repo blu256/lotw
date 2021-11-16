@@ -21,4 +21,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install Mastodon.py
     - name: Generate and post Link of the Week
+      env: # Or as an environment variable
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: python lotw.py
