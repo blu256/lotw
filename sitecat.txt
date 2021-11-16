@@ -13,6 +13,7 @@
 % https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
 
 %% Forums
+% TODO
 
 %% Informational
 https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
@@ -26,11 +27,15 @@ https://nukees.com  Nukees is a web-comic about Gav, a nuclear engineering stude
 %% Open-source projects
 https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
 https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
+https://trinitydesktop.org The Trinity Desktop Environment is a computer desktop environment for Unix-like operating systems with a primary goal of retaining the function and form of traditional desktop computers.
+https://kde.org/ KDE is the community behind the modern Plasma desktop environment for Unix-like operating systems, as well as popular applications such as Krita.
+
 
 %% Fun
 http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
 https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
 http://www.stokely.com/lighter.side/index.html An enormous collection of sysdamin humour, because " sometimes we all need to take a break and laugh at ourselves, our jobs, and our so-called lives".
+https://userinyerface.com/ How difficult can it be to fill out a form on a web site? "User In yer face" is a proof-of-concept of the worst user interface ever designed, which highlights the importance of a good UI design.
 
 %% Internet Archive borrowable e-books
 https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
