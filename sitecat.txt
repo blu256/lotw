@@ -1,0 +1,47 @@
+% Sites/Links Catalog
+%
+% Curator: Mavridis Philippe <@blu256@koyu.space>
+%
+
+% Implementation note:
+%  The bot should prepend published links with '% '
+%  (that is, comment 'em out).
+
+%%%%    I. The Web  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Web-sites
+%% Search engines
+https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
+
+%% Forums
+
+%% Informational
+https://toastytech.com/guis/index.php Nathan Lineback's legendary GUI gallery.
+https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
+
+%% Web-comics
+https://userfriendly.org UserFriendly is (was?) a legendary cult geeky web-comic about the workers of an ISP in the early 00s.
+
+%% Open-source projects
+https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
+https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
+
+%% Fun
+http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
+https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
+
+
+%%% Articles
+%% IT
+https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
+https://joelondoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
+
+%%%%   II. Smolnet  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Resources (capsules/gopherholes/gemlogs)
+gemini://astrobotany.mozz.us/ Astrobotany is a collective textual virtual garden. You can plant others' plants, post on the message board, get badges and a lot more!
+
+
+%% Articles
+%% TODO
+
+%%%%  III. Other protocols (FTP, IRC, ...)  %%%%%%
+% TODO
