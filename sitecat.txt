@@ -46,7 +46,7 @@ https://joelondoftware.com/2000/04/26/designing-for-people-who-have-better-thing
 %%%%   II. Smolnet  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Resources (capsules/gopherholes/gemlogs)
 gemini://astrobotany.mozz.us/ Astrobotany is a collective textual virtual garden. You can plant others' plants, post on the message board, get badges and a lot more!
-
+gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a twist. It's not based on a feed list it periodically checks, but instead takes feed URLs as user input and puts them in a queue.
 
 %% Articles
 %% TODO
