@@ -16,7 +16,8 @@
 % TODO
 
 %% Informational
-https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
+% Link of the week 2021-11-22 (week 47)
+% https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
 https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
 
 %% Web-comics
