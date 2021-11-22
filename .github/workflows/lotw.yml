@@ -3,7 +3,7 @@ name: Post link of the week
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 21 * * 1"
+    - cron: "55 20 * * 1"
 
 jobs:
   deploy:
