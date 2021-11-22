@@ -33,7 +33,8 @@ https://kde.org/ KDE is the community behind the modern Plasma desktop environme
 
 
 %% Fun
-http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
+% Link of the week 2021-11-22 (week 47)
+% http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
 https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
 http://www.stokely.com/lighter.side/index.html An enormous collection of sysdamin humour, because " sometimes we all need to take a break and laugh at ourselves, our jobs, and our so-called lives".
 https://userinyerface.com/ How difficult can it be to fill out a form on a web site? "User In yer face" is a proof-of-concept of the worst user interface ever designed, which highlights the importance of a good UI design.
