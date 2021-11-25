@@ -38,6 +38,8 @@ http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows 
 https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
 http://www.stokely.com/lighter.side/index.html An enormous collection of sysdamin humour, because " sometimes we all need to take a break and laugh at ourselves, our jobs, and our so-called lives".
 https://userinyerface.com/ How difficult can it be to fill out a form on a web site? "User In yer face" is a proof-of-concept of the worst user interface ever designed, which highlights the importance of a good UI design.
+https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photography contest bringing you the most hilarious and amazing animal pictures from the natural world.
+
 
 %% Internet Archive borrowable e-books
 https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
