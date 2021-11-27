@@ -46,6 +46,7 @@ https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K.
 
 %% Tools
 https://neocities.org/ Neocities lets you create your own website for free. It also hosts a lot of interesting personal and indie websites (yes, the kind that used to prevail before the commercialization of the Web).
+https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 
 %%% Articles
 %% IT
