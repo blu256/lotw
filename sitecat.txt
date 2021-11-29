@@ -42,7 +42,8 @@ https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photograp
 
 
 %% Internet Archive borrowable e-books
-https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
+% Link of the week 2021-11-29 (week 48)
+% https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
 
 %% Tools
 https://neocities.org/ Neocities lets you create your own website for free. It also hosts a lot of interesting personal and indie websites (yes, the kind that used to prevail before the commercialization of the Web).
