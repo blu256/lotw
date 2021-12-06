@@ -53,6 +53,7 @@ https://distrochooser.de/en This is probably the best Linux distribution picker 
 %% IT
 https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
 https://joelondoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
+https://www.technologizer.com/2010/03/29/microsoft-bob/ The tragical story of Microsoft BOB and social computer interfaces which failed to become the next big thing.
 
 %%%%   II. Smolnet  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Resources (capsules/gopherholes/gemlogs)
