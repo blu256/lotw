@@ -11,6 +11,7 @@
 %% Search engines
 % Link of the week 2021/11/15
 % https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
+https://www.searx.space SearX is a powerful and FOSS metasearch engine which can be hosted by anyone. Searx.space provides an up-to-date list with public SearX instances which can be accessed by anyone.
 
 %% Forums
 % TODO
@@ -25,6 +26,7 @@ https://userfriendly.org UserFriendly is (was?) a legendary cult geeky web-comic
 https://gpf-comics.com GPF Comics is a bizzare, adventurous and fun web-comic with a geeky touch born withinin the eddies of the cyberspace-time continuum.
 % Link of the week 2021-12-20 (week 51)
 % https://nukees.com  Nukees is a web-comic about Gav, a nuclear engineering student and "exasperated cynic-turned-mad-scientist". 
+https://peppercarrot.com Pepper&Carrot is a wonderful, exiting and carefully crafted free and open-source web-comic made by @davidrevoy@framapiaf.org made entirely with Free Software.
 
 %% Open-source projects
 https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
@@ -68,4 +70,4 @@ gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a tw
 %% TODO
 
 %%%%  III. Other protocols (FTP, IRC, ...)  %%%%%%
-% TODO
+https://mirrors.ocf.berkeley.edu/kde/events/Multi_Media_Market_2000/mmm2-9.jpg A reminder that GNOME and KDE can be good friends ;-)
