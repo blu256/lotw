@@ -29,6 +29,7 @@ https://gpf-comics.com GPF Comics is a bizzare, adventurous and fun web-comic wi
 % https://nukees.com  Nukees is a web-comic about Gav, a nuclear engineering student and "exasperated cynic-turned-mad-scientist". 
 % Link of the week 2022-01-03 (week 01)
 % https://peppercarrot.com Pepper&Carrot is a wonderful, exiting and carefully crafted free and open-source web-comic made by @davidrevoy@framapiaf.org made entirely with Free Software.
+https://amphibian.com Amphibian.com is a funny and geeky comic about frogs running a technology company. It's heavy on technical puns.
 
 %% Open-source projects
 https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
