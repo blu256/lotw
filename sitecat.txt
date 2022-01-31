@@ -19,7 +19,8 @@ https://www.searx.space SearX is a powerful and FOSS metasearch engine which can
 %% Informational
 % Link
 https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
-https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
+% Link of the week 2022-01-31 (week 05)
+% https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
 
 %% Web-comics
 % Link of the week 2022-01-17 (week 03)
