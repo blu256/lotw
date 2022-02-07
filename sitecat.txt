@@ -77,4 +77,5 @@ gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a tw
 %% TODO
 
 %%%%  III. Other protocols (FTP, IRC, ...)  %%%%%%
-https://mirrors.ocf.berkeley.edu/kde/events/Multi_Media_Market_2000/mmm2-9.jpg A reminder that GNOME and KDE can be good friends ;-)
+% Link of the week 2022-02-07 (week 06)
+% https://mirrors.ocf.berkeley.edu/kde/events/Multi_Media_Market_2000/mmm2-9.jpg A reminder that GNOME and KDE can be good friends ;-)
