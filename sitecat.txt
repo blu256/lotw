@@ -34,7 +34,8 @@ https://amphibian.com Amphibian.com is a funny and geeky comic about frogs runni
 
 %% Open-source projects
 https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
-https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
+% Link of the week 2022-02-14 (week 07)
+% https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
 % Link of the week 2021-12-13 (week 50)
 % https://trinitydesktop.org The Trinity Desktop Environment is a computer desktop environment for Unix-like operating systems with a primary goal of retaining the function and form of traditional desktop computers.
 % Link of the week 2021-12-06 (week 49)
