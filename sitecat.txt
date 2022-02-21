@@ -25,7 +25,8 @@ https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
 %% Web-comics
 % Link of the week 2022-01-17 (week 03)
 % https://userfriendly.org UserFriendly is (was?) a legendary cult geeky web-comic about the workers of an ISP in the early 00s.
-https://gpf-comics.com GPF Comics is a bizzare, adventurous and fun web-comic with a geeky touch born withinin the eddies of the cyberspace-time continuum.
+% Link of the week 2022-02-21 (week 08)
+% https://gpf-comics.com GPF Comics is a bizzare, adventurous and fun web-comic with a geeky touch born withinin the eddies of the cyberspace-time continuum.
 % Link of the week 2021-12-20 (week 51)
 % https://nukees.com  Nukees is a web-comic about Gav, a nuclear engineering student and "exasperated cynic-turned-mad-scientist". 
 % Link of the week 2022-01-03 (week 01)
