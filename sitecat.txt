@@ -50,7 +50,8 @@ https://haiku-os.org HaikuOS is a project of a personal single-user operating sy
 https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
 % Link of the week 2021-12-27 (week 52)
 % http://www.stokely.com/lighter.side/index.html An enormous collection of sysdamin humour, because " sometimes we all need to take a break and laugh at ourselves, our jobs, and our so-called lives".
-https://userinyerface.com/ How difficult can it be to fill out a form on a web site? "User In yer face" is a proof-of-concept of the worst user interface ever designed, which highlights the importance of a good UI design.
+% Link of the week 2022-02-28 (week 09)
+% https://userinyerface.com/ How difficult can it be to fill out a form on a web site? "User In yer face" is a proof-of-concept of the worst user interface ever designed, which highlights the importance of a good UI design.
 https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photography contest bringing you the most hilarious and amazing animal pictures from the natural world.
 
 
