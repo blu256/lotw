@@ -11,7 +11,8 @@
 %% Search engines
 % Link of the week 2021/11/15
 % https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
-https://www.searx.space SearX is a powerful and FOSS metasearch engine which can be hosted by anyone. Searx.space provides an up-to-date list with public SearX instances which can be accessed by anyone.
+% Link of the week 2022-03-21 (week 12)
+% https://www.searx.space SearX is a powerful and FOSS metasearch engine which can be hosted by anyone. Searx.space provides an up-to-date list with public SearX instances which can be accessed by anyone.
 
 %% Forums
 % TODO
