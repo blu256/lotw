@@ -34,7 +34,8 @@
 % Link of the week 2022-01-03 (week 01)
 % https://peppercarrot.com Pepper&Carrot is a wonderful, exiting and carefully crafted free and open-source web-comic made by @davidrevoy@framapiaf.org made entirely with Free Software.
 https://amphibian.com Amphibian.com is a funny and geeky comic about frogs running a technology company. It's heavy on technical puns.
-https://xkcd.com xkcd is a well-known scientific web-comic which is occasionally heavy on maths. The creator, Randall Munroe, is also the author of the 'What If?' book series.
+% Link of the week 2022-03-28 (week 13)
+% https://xkcd.com xkcd is a well-known scientific web-comic which is occasionally heavy on maths. The creator, Randall Munroe, is also the author of the 'What If?' book series.
 
 %% Open-source projects
 https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
