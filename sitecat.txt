@@ -43,6 +43,7 @@ https://haiku-os.org HaikuOS is a project of a personal single-user operating sy
 % https://trinitydesktop.org The Trinity Desktop Environment is a computer desktop environment for Unix-like operating systems with a primary goal of retaining the function and form of traditional desktop computers.
 % Link of the week 2021-12-06 (week 49)
 % https://kde.org/ KDE is the community behind the modern Plasma desktop environment for Unix-like operating systems, as well as popular applications such as Krita.
+https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meetings for free, so you can start a meeting without an account straight from your browser, without the 40-minute time limit of a well-known proprietary alternative.
 
 
 %% Fun
@@ -64,12 +65,15 @@ https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photograp
 %% Tools
 https://neocities.org/ Neocities lets you create your own website for free. It also hosts a lot of interesting personal and indie websites (yes, the kind that used to prevail before the commercialization of the Web).
 https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
+https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
+https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications. 
 
 %%% Articles
 %% IT
 https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
 https://joelondoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
 https://www.technologizer.com/2010/03/29/microsoft-bob/ The tragical story of Microsoft BOB and social computer interfaces which failed to become the next big thing.
+https://idlewords.com/talks/website_obesity.htm Wonder in what ways the modern web sucks? Here's one talk on the problem of website obesity.
 
 %%%%   II. Smolnet  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Resources (capsules/gopherholes/gemlogs)
