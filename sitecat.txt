@@ -29,7 +29,8 @@ https://neocities.org/ Neocities lets you create your own website for free. It a
 ; https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
 https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
 https://joelondoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
-https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
+; Link of the week 2022-04-11 (week 15)
+; https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
 ; Link of the week 2022-04-04 (week 14)
 ; https://idlewords.com/talks/website_obesity.htm Wonder in what ways the modern web sucks? Here's one talk on the problem of website obesity.
 https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
