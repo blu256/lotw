@@ -34,7 +34,8 @@ https://joelondoftware.com/2000/04/26/designing-for-people-who-have-better-thing
 ; https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
 ; Link of the week 2022-04-04 (week 14)
 ; https://idlewords.com/talks/website_obesity.htm Wonder in what ways the modern web sucks? Here's one talk on the problem of website obesity.
-https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
+; Link of the week 2022-04-25 (week 17)
+; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
 https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications. 
 
 % Computers/FOSS
