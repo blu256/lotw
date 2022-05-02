@@ -66,7 +66,8 @@ http://motherfuckingwebsite.com A satirical piece that advocates for lightweight
 https://winworldpc.com/home "WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. We offer information, media and downloads for a wide variety of computers and operating systems."
 
 % Computers/Publications
-https://slashdot.org/ Does it even need an introduction? Slashdot is the legendary news site "for nerds" which features a good dose of hand-picked IT, technology and science news.
+; Link of the week 2022-05-02 (week 18)
+; https://slashdot.org/ Does it even need an introduction? Slashdot is the legendary news site "for nerds" which features a good dose of hand-picked IT, technology and science news.
 ; Link of the week 2022-04-18 (week 16)
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
 
