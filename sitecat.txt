@@ -59,7 +59,8 @@ https://how-i-experience-web-today.com/ "How I experience the Web today" is an i
 ; Link of the week 2022-02-28 (week 09)
 ; https://userinyerface.com/ How difficult can it be to fill out a form on a web site? "User In yer face" is a proof-of-concept of the worst user interface ever designed, which highlights the importance of a good UI design.
 https://www.technologizer.com/2010/03/29/microsoft-bob/ The tragical story of Microsoft BOB and social computer interfaces which failed to become the next big thing.
-gemini://astrobotany.mozz.us/ Astrobotany is a collective textual virtual garden. You can plant others' plants, post on the message board, get badges and a lot more!
+; Link of the week 2022-05-09 (week 19)
+; gemini://astrobotany.mozz.us/ Astrobotany is a collective textual virtual garden. You can plant others' plants, post on the message board, get badges and a lot more!
 ; Link of the week 2022-02-07 (week 06)
 ; https://mirrors.ocf.berkeley.edu/kde/events/Multi_Media_Market_2000/mmm2-9.jpg A reminder that GNOME and KDE can be good friends ;-)
 http://motherfuckingwebsite.com A satirical piece that advocates for lightweight websites and semantics against (poor) and superfluous web-design. (Contributed by @hacknorris@mastodon.social)
