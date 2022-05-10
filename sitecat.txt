@@ -72,6 +72,10 @@ https://winworldpc.com/home "WinWorld is an online museum dedicated to the prese
 ; Link of the week 2022-04-18 (week 16)
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
 
+% Computers/Privacy
+https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
+https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
+
 % Fun/Web-Comics
 ; Link of the week 2022-01-17 (week 03)
 ; https://userfriendly.org UserFriendly is (was?) a legendary cult geeky web-comic about the workers of an ISP in the early 00s.
@@ -91,9 +95,12 @@ http://www.antarcticfire.org Even Antarctica needs its own fire department!
 % Fun/LOL
 https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photography contest bringing you the most hilarious and amazing animal pictures from the natural world.
 
-% Ebooks
+% Computers/UX
 ; Link of the week 2021-11-29 (week 48)
 ; https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
+
+% Books/Ebooks
+https://jessmahler.com/where-to-buy-ebooks-other-than-amazon/ An article by @jessmahler@wandering.shop which suggests (e-)book resellers –mainly in US but also across the world– as alternatives to Amazon. (Contributed by @KelsonV@wandering.shop)
 
 % People
 ; Link of the week 2022-01-24 (week 04)
