@@ -1,10 +1,10 @@
 #!/bin/env python3
-# --------------------------------
-# Name:       Link of the Week Bot
-# Programmer: blu.256
-# Version:    2.0
-# Date:       2022/04/02
-# --------------------------------
+# ------------------------------------
+# Link of the Week Bot 2.0
+# by @blu256@koyu.space
+#
+# Released to the Public Domain.
+# ------------------------------------
 
 from os       import environ
 from random   import choice

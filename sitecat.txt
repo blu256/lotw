@@ -1,6 +1,6 @@
 ; Sites/Links Catalog
 ; -------------------
-;  Curator: Mavridis Philippe <@blu256@koyu.space>
+;  Curator:  @blu256@koyu.space
 ;
 ;  Syntax:
 ;   * Lines that begin with ';' are comments.
