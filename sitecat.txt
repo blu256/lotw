@@ -47,7 +47,8 @@ https://haiku-os.org HaikuOS is a project of a personal single-user operating sy
 ; Link of the week 2021-12-06 (week 49)
 ; https://kde.org/ KDE is the community behind the modern Plasma desktop environment for Unix-like operating systems, as well as popular applications such as Krita.
 https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meetings for free, so you can start a meeting without an account straight from your browser, without the 40-minute time limit of a well-known proprietary alternative.
-https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
+; Link of the week 2022-05-23 (week 21)
+; https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
 https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 
 % Computers/Fun
