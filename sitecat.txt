@@ -94,7 +94,8 @@ https://amphibian.com Amphibian.com is a funny and geeky comic about frogs runni
 ; https://xkcd.com xkcd is a well-known scientific web-comic which is occasionally heavy on maths. The creator, Randall Munroe, is also the author of the 'What If?' book series.
 
 % Fun/Bizzare
-http://www.antarcticfire.org Even Antarctica needs its own fire department!
+; Link of the week 2022-06-13 (week 24)
+; http://www.antarcticfire.org Even Antarctica needs its own fire department!
 
 % Fun/LOL
 https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photography contest bringing you the most hilarious and amazing animal pictures from the natural world.
