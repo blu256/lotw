@@ -7,6 +7,11 @@
 ;   * Lines that begin with '%' denote categories in a hierarchical structure.
 ;   * Each entry begins with the URL, followed by a short single-line description of the link.
 
+% Art/Catalogs
+https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
+http://artchive.com/ Artchive is a virtual gallery of important art works. It includes more than 2,000 scans from over 200 different artists, as well as lots of special features ("exhibits").
+https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
+
 % Computers/Internet/Search engines
 ; Link of the week 2021/11/15
 ; https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
@@ -38,7 +43,8 @@ https://joelondoftware.com/2000/04/26/designing-for-people-who-have-better-thing
 ; Link of the week 2022-04-25 (week 17)
 ; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
 ; Link of the week 2022-05-30 (week 22)
-; https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications. 
+; https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications.
+https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
 
 % Computers/FOSS
 https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
@@ -92,6 +98,16 @@ https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the
 https://amphibian.com Amphibian.com is a funny and geeky comic about frogs running a technology company. It's heavy on technical puns.
 ; Link of the week 2022-03-28 (week 13)
 ; https://xkcd.com xkcd is a well-known scientific web-comic which is occasionally heavy on maths. The creator, Randall Munroe, is also the author of the 'What If?' book series.
+https://crfh.net/ College Roomies from Hell!!! is a web-comic that depicts the lives of six college students attending college somewhere in the US. Forced out of their dormitory by a gas leak explosion, they move into an apartment building near their college, where they come across various supernatural events.
+https://egscomics.com/ El Goonish Shive is a strange comic about a group of teenagers and the bizarre, often supernatural, situations that they face. Includes a continuing storyline with non-linear joke comics on the side. WARNING: Often ignores the laws of Physics.
+
+% Radio
+https://websdr.org/ A WebSDR is a Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously. WebSDR.org provides a catalog of such receivers on the Web.
+https://short-wave.info/ Short-wave.info is a database of all the short wave broadcasts being transmitted by the majority of the world's international radio stations. Effectively, it allows you to check the reception of a short-wave frequency in any corner of the world. It also contains essential practical knowledge related to short-wave radio.
+
+% Fun/Games/Interactive Fiction
+https://twinery.org/ Twine is an online tool for creating simple, hypertextual, interactive and nonlinear stories. Twine publishes directly to HTML, so you can post your work nearly anywhere. Anything you create with it is completely free to use any way you like, including for commercial purposes. 
+https://ifdb.org/ The Interactive Fiction Database is an IF game catalog and recommendation engine. IFDB is a Wiki-style community project: members can add new game listings, write reviews, exchange game recommendations, and more.
 
 % Fun/Bizzare
 ; Link of the week 2022-06-13 (week 24)
