@@ -3,13 +3,18 @@ The **Link of the Week Bot** (short: Link Bot, or LOTW) is a Mastodon bot which 
 
 The official bot instance is [@linkoftheweek@botsin.space](https://botsin.space/@linkoftheweek).
 
+**Contributions are welcome.**
+
 ## Contributing
 Send in your links (and short descriptions of them) to the bot account ([@linkoftheweek@botsin.space](https://botsin.space/@linkoftheweek)), me ([@blu256@koyu.space](https://koyu.space/@blu256)) or create a PR with your proposed additions to `sitecat.txt`.
+
+The submission process is very easy. Your link(s) have to be approved to comply with the rules (see below) before they can be added to the catalog, but it's highly likely that your link(s) will be added to the catalog the same day.
 
 Code contributions are also welcome.
 
 ## Content policy
-Your link(s) have to be approved before they can be merged into the `sitecat.txt` file.
+
+**tl;dr** Just use your sense of reason on what content is interesting and not disturbing.
 
 Things you should keep in mind when submitting links:
 
