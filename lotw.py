@@ -9,6 +9,7 @@
 from os       import environ
 from random   import choice
 from datetime import datetime as dt
+import re
 
 try:
   from mastodon import Mastodon
@@ -77,10 +78,14 @@ for line in enumerate(lines):
 # Pick a random link
 lotw = choice(entries)
 
-# Pick appropriate tags
+# Pick tags based on category
 tags = ["lotw"]
+for c in reversed(category):
+  tags.append(c.strip().lower())
+
+# Pick appropriate tags based on protocol
 if lotw['link'].startswith("http"):
-  tags += ["web", "www"]
+  tags += ["web"]
 
 elif lotw['link'].startswith("gemini"):
   tags += ["gemini"]
@@ -89,11 +94,16 @@ elif lotw['link'].startswith("gemini"):
 for t in enumerate(tags):
   tags[t[0]] = "#" + t[1]
 
+# Pick out hashtags from description
+tags += re.findall(r"#[A-Za-z0-9_]*", lotw['desc'])
+
+# Compose the toot
 message  = f"📎 Link of the week: {lotw['link']}\n"
 message += f"📂 Category: {lotw['cat']}\n"
 message += f"\n{lotw['desc']}\n\n"
 message += " ".join(tags)
 
+# Post it!
 if not DEBUG_SKIP_MASTODON:
   client.toot(message)
 else:
