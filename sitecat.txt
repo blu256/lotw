@@ -6,58 +6,42 @@
 ;   * Lines that begin with ';' are comments.
 ;   * Lines that begin with '%' denote categories in a hierarchical structure.
 ;   * Each entry begins with the URL, followed by a short single-line description of the link.
+;
+; Also:
+; - Alphabetic ordering should be applied to categories.
+; - First-level categories should be denoted in a "header" comment.
 
-% Art/Catalogs
+;;
+;;  Arts
+;;
+
+% Arts/Fine Arts
 https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
 http://artchive.com/ Artchive is a virtual gallery of important art works. It includes more than 2,000 scans from over 200 different artists, as well as lots of special features ("exhibits").
 https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
 
-% Computers/Internet/Search engines
-; Link of the week 2021/11/15
-; https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
-; Link of the week 2022-03-21 (week 12)
-; https://www.searx.space SearX is a powerful and FOSS metasearch engine which can be hosted by anyone. Searx.space provides an up-to-date list with public SearX instances which can be accessed by anyone.
+% Arts/Music/Making
+https://www.djingpro.com DJingPro is all about the art of being a DJ. It offers free articles and tutorials written by DJs, for DJs.
 
-% Computers/Internet/Feeds
-; Link of the week 2022-03-14 (week 11)
-; gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a twist. It's not based on a feed list it periodically checks, but instead takes feed URLs as user input and puts them in a queue.
-gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist: it groups a post with the posts that reply or link to it. This helps you find related posts and conversations very easily.
 
-% Computers/Internet/Tools
-https://neocities.org/ Neocities lets you create your own website for free. It also hosts a lot of interesting personal and indie websites (yes, the kind that used to prevail before the commercialization of the Web).
+;;
+;;  Books
+;;
 
-% Computers/History
-; Link of the week 2022-03-07 (week 10)
-; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
+% Books
+https://jessmahler.com/where-to-buy-ebooks-other-than-amazon/ An article by @jessmahler@wandering.shop which suggests (e-)book resellers –mainly in US but also across the world– as alternatives to Amazon. (Contributed by @KelsonV@wandering.shop)
 
-% Computers/Programmers
-; Link of the week 2022-01-31 (week 05)
-; https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
-; Link of the week 2022-06-06 (week 23)
-; https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
-https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
-; Link of the week 2022-04-11 (week 15)
-; https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
-; Link of the week 2022-04-04 (week 14)
-; https://idlewords.com/talks/website_obesity.htm Wonder in what ways the modern web sucks? Here's one talk on the problem of website obesity.
-; Link of the week 2022-04-25 (week 17)
-; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
-; Link of the week 2022-05-30 (week 22)
-; https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications.
-https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
+% Books/Sci-Fi/Trivia
+https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-griff-rhys-jones Douglas Adams is the author behind The Hitchhiker's Guide to the Galaxy. Here are some unpublished poems that he wrote as a student for a literary society.
 
-% Computers/FOSS
-https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
-; Link of the week 2022-02-14 (week 07)
-; https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
-; Link of the week 2021-12-13 (week 50)
-; https://trinitydesktop.org The Trinity Desktop Environment is a computer desktop environment for Unix-like operating systems with a primary goal of retaining the function and form of traditional desktop computers.
-; Link of the week 2021-12-06 (week 49)
-; https://kde.org/ KDE is the community behind the modern Plasma desktop environment for Unix-like operating systems, as well as popular applications such as Krita.
-https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meetings for free, so you can start a meeting without an account straight from your browser, without the 40-minute time limit of a well-known proprietary alternative.
-; Link of the week 2022-05-23 (week 21)
-; https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
-https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
+
+;;
+;;  Computers
+;;
+
+% Computers/AI
+https://gpt3.website/ A collection of links which show various curious uses of the GPT-3 model. Warning: contains links to Twitter.
+https://web.archive.org/web/20110425191843/http://www.stanford.edu/group/SHR/4-2/text/dialogues.html Some colorful dialogues between some early AI NLPs/chat bots and human beings. Starring the poetic Racter, the lesser-known Parry and the mythical Eliza programs.
 
 % Computers/Fun
 ; Link of the week 2022-01-10 (week 02)
@@ -76,15 +60,123 @@ http://motherfuckingwebsite.com A satirical piece that advocates for lightweight
 ; Link of the week 2022-05-16 (week 20)
 ; https://winworldpc.com/home "WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. We offer information, media and downloads for a wide variety of computers and operating systems."
 
+% Computers/Internet/Search engines
+; Link of the week 2021/11/15
+; https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
+; Link of the week 2022-03-21 (week 12)
+; https://www.searx.space SearX is a powerful and FOSS metasearch engine which can be hosted by anyone. Searx.space provides an up-to-date list with public SearX instances which can be accessed by anyone.
+
+% Computers/Internet/Feeds
+; Link of the week 2022-03-14 (week 11)
+; gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a twist. It's not based on a feed list it periodically checks, but instead takes feed URLs as user input and puts them in a queue.
+gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist: it groups a post with the posts that reply or link to it. This helps you find related posts and conversations very easily.
+
+% Computers/Internet/Tools
+https://neocities.org/ Neocities lets you create your own website for free. It also hosts a lot of interesting personal and indie websites (yes, the kind that used to prevail before the commercialization of the Web).
+
+% Computers/Games/Simulators
+; Link of the week 2022-02-14 (week 07)
+; https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
+
+% Computers/Games/Strategies
+https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
+
+% Computers/Games/Interactive Fiction
+https://twinery.org/ Twine is an online tool for creating simple, hypertextual, interactive and nonlinear stories. Twine publishes directly to HTML, so you can post your work nearly anywhere. Anything you create with it is completely free to use any way you like, including for commercial purposes. 
+https://ifdb.org/ The Interactive Fiction Database is an IF game catalog and recommendation engine. IFDB is a Wiki-style community project: members can add new game listings, write reviews, exchange game recommendations, and more.
+
+% Computers/History
+; Link of the week 2022-03-07 (week 10)
+; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
+
+% Computers/Linux
+https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
+https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
+
+% Computers/Privacy
+https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
+https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
+
+% Computers/Development
+; Link of the week 2022-01-31 (week 05)
+; https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
+; Link of the week 2022-06-06 (week 23)
+; https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
+https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
+; Link of the week 2022-04-11 (week 15)
+; https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
+; Link of the week 2022-04-25 (week 17)
+; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
+https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
+
+% Computer/Development/Web
+; Link of the week 2022-04-04 (week 14)
+; https://idlewords.com/talks/website_obesity.htm Wonder in what ways the modern web sucks? Here's one talk on the problem of website obesity.
+; Link of the week 2022-05-30 (week 22)
+; https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications.
+https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/ You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
+https://meiert.com/en/blog/minimal-web-development/ A short guide to the philosophy of minimal web development.
+
 % Computers/Publications
 ; Link of the week 2022-05-02 (week 18)
 ; https://slashdot.org/ Does it even need an introduction? Slashdot is the legendary news site "for nerds" which features a good dose of hand-picked IT, technology and science news.
 ; Link of the week 2022-04-18 (week 16)
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
 
-% Computers/Privacy
-https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
-https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
+% Computers/Software/Communication
+https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meetings for free, so you can start a meeting without an account straight from your browser, without the 40-minute time limit of a well-known proprietary alternative.
+
+% Computers/Software/Desktop
+; Link of the week 2021-12-13 (week 50)
+; https://trinitydesktop.org The Trinity Desktop Environment is a computer desktop environment for Unix-like operating systems with a primary goal of retaining the function and form of traditional desktop computers.
+; Link of the week 2021-12-06 (week 49)
+; https://kde.org/ KDE is the community behind the modern Plasma desktop environment for Unix-like operating systems, as well as popular applications such as Krita.
+
+% Computers/Software/Internet
+https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
+
+% Computers/Software/OS
+https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
+; Link of the week 2022-05-23 (week 21)
+; https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
+
+% Computers/UX
+; Link of the week 2021-11-29 (week 48)
+; https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
+
+
+;;
+;;  Education
+;;
+
+% Education/Opinion
+https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real-life experience of a university professor who witnessed how his students cheated on online tests via group chat — and how he managed to put an end on it.
+
+
+;;
+;;  Environment
+;;
+
+% Environment/Sustainability
+https://ploum.net/the-computer-built-to-last-50-years/ An opinion piece on how to create the long-standing computer that will save your attention, your wallet, your creativity, your soul and the planet.
+
+
+;;
+;;  Fun
+;;
+
+% Fun/Bizzare
+; Link of the week 2022-06-13 (week 24)
+; http://www.antarcticfire.org Even Antarctica needs its own fire department!
+
+% Fun/LOL
+https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photography contest bringing you the most hilarious and amazing animal pictures from the natural world.
+
+% Fun/Radio
+; Link of the week 2022-01-24 (week 04)
+; gemini://m0yng.uk/ @M0YNG@mastodon.radio is a radio amateur (callsign M0YNG) in Gloucestershire. They are also a member of the Cheltenham Amateur Radio Association. Their content is also accessible via Gopher, HTTP and over the Tor network.
+https://websdr.org/ A WebSDR is a Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously. WebSDR.org provides a catalog of such receivers on the Web.
+https://short-wave.info/ Short-wave.info is a database of all the short wave broadcasts being transmitted by the majority of the world's international radio stations. Effectively, it allows you to check the reception of a short-wave frequency in any corner of the world. It also contains essential practical knowledge related to short-wave radio.
 
 % Fun/Web-Comics
 ; Link of the week 2022-01-17 (week 03)
@@ -100,29 +192,5 @@ https://amphibian.com Amphibian.com is a funny and geeky comic about frogs runni
 ; https://xkcd.com xkcd is a well-known scientific web-comic which is occasionally heavy on maths. The creator, Randall Munroe, is also the author of the 'What If?' book series.
 https://crfh.net/ College Roomies from Hell!!! is a web-comic that depicts the lives of six college students attending college somewhere in the US. Forced out of their dormitory by a gas leak explosion, they move into an apartment building near their college, where they come across various supernatural events.
 https://egscomics.com/ El Goonish Shive is a strange comic about a group of teenagers and the bizarre, often supernatural, situations that they face. Includes a continuing storyline with non-linear joke comics on the side. WARNING: Often ignores the laws of Physics.
-
-% Radio
-https://websdr.org/ A WebSDR is a Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously. WebSDR.org provides a catalog of such receivers on the Web.
-https://short-wave.info/ Short-wave.info is a database of all the short wave broadcasts being transmitted by the majority of the world's international radio stations. Effectively, it allows you to check the reception of a short-wave frequency in any corner of the world. It also contains essential practical knowledge related to short-wave radio.
-
-% Fun/Games/Interactive Fiction
-https://twinery.org/ Twine is an online tool for creating simple, hypertextual, interactive and nonlinear stories. Twine publishes directly to HTML, so you can post your work nearly anywhere. Anything you create with it is completely free to use any way you like, including for commercial purposes. 
-https://ifdb.org/ The Interactive Fiction Database is an IF game catalog and recommendation engine. IFDB is a Wiki-style community project: members can add new game listings, write reviews, exchange game recommendations, and more.
-
-% Fun/Bizzare
-; Link of the week 2022-06-13 (week 24)
-; http://www.antarcticfire.org Even Antarctica needs its own fire department!
-
-% Fun/LOL
-https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photography contest bringing you the most hilarious and amazing animal pictures from the natural world.
-
-% Computers/UX
-; Link of the week 2021-11-29 (week 48)
-; https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
-
-% Books/Ebooks
-https://jessmahler.com/where-to-buy-ebooks-other-than-amazon/ An article by @jessmahler@wandering.shop which suggests (e-)book resellers –mainly in US but also across the world– as alternatives to Amazon. (Contributed by @KelsonV@wandering.shop)
-
-% People
-; Link of the week 2022-01-24 (week 04)
-; gemini://m0yng.uk/ @M0YNG@mastodon.radio is a radio amateur (callsign M0YNG) in Gloucestershire. They are also a member of the Cheltenham Amateur Radio Association. Their content is also accessible via Gopher, HTTP and over the Tor network.
+http://hackles.org/ Hackles is an old classic in web-comics. A cast of animals work in a tech company and get into all kinds of funny situations.
+http://newshounds.keenspot.com Newshounds is a classic web-comic about animal reporters who work for a television station. Hilarity ensues as they deal with the exciting routine of a news reporter.
