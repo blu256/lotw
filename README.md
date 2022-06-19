@@ -1,7 +1,9 @@
-# 🔗 Link of the Week Bot
-The **Link of the Week Bot** (short: Link Bot, or LOTW) is a Mastodon bot which posts one random link per week  from a manually-curated list. The link can be practically anything: a website, an article, a Gemini capsule,  an IRC link, a file on an FTP server...
+# 🔗 Links of the Week Bot
+The **Links of the Week Bot** (short: Link Bot, or LOTW) is a Mastodon bot which posts one random link per run from a manually-curated list. The link can be practically anything: a website, an article, a Gemini capsule,  an IRC link, a file on an FTP server...
 
 The official bot instance is [@linkoftheweek@botsin.space](https://botsin.space/@linkoftheweek).
+
+It was meant to be run once a week (hence the Link Of The Week name) but the official instance is currently experimenting with a Mon-Wed-Fri schedule.
 
 **Link submissions and other contributions are welcome.**
 
