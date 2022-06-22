@@ -46,7 +46,8 @@ https://web.archive.org/web/20110425191843/http://www.stanford.edu/group/SHR/4-2
 % Computers/Fun
 ; Link of the week 2022-01-10 (week 02)
 ; http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
-https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
+; Link of the week 2022-06-22 (week 25)
+; https://how-i-experience-web-today.com/ "How I experience the Web today" is an imitation of a "modern" web-site — with all the negatives that can come out of over-using client-side scripting.
 ; Link of the week 2021-12-27 (week 52)
 ; http://www.stokely.com/lighter.side/index.html An enormous collection of sysdamin humour, because " sometimes we all need to take a break and laugh at ourselves, our jobs, and our so-called lives".
 ; Link of the week 2022-02-28 (week 09)
