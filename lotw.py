@@ -67,7 +67,8 @@ for line in enumerate(lines):
         'line': i,
         'link': ls[0],
         'desc': " ".join(ls[1:]),
-        'cat' : "no category" if category is None else " » ".join(category)
+        'cat' : category,
+        'cats': "no category" if category is None else " » ".join(category)
       }
     )
 
@@ -80,8 +81,8 @@ lotw = choice(entries)
 
 # Pick tags based on category
 tags = ["lotw"]
-for c in reversed(category):
-  tags.append(c.strip().lower())
+for c in reversed(lotw['cat']):
+  tags.append(c.strip().lower().replace('-','').replace(' ',''))
 
 # Pick appropriate tags based on protocol
 if lotw['link'].startswith("http"):
@@ -99,7 +100,7 @@ tags += re.findall(r"#[A-Za-z0-9_]*", lotw['desc'])
 
 # Compose the toot
 message  = f"📎 Link of the week: {lotw['link']}\n"
-message += f"📂 Category: {lotw['cat']}\n"
+message += f"📂 Category: {lotw['cats']}\n"
 message += f"\n{lotw['desc']}\n\n"
 message += " ".join(tags)
 
