@@ -91,7 +91,8 @@ https://ifdb.org/ The Interactive Fiction Database is an IF game catalog and rec
 ; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
 
 % Computers/Linux
-https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
+; Link of the week 2022-06-24 (week 25)
+; https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
 
 % Computers/Privacy
