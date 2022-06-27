@@ -138,7 +138,8 @@ https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meet
 https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
 
 % Computers/Software/OS
-https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
+; Link of the week 2022-06-27 (week 26)
+; https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
 ; Link of the week 2022-05-23 (week 21)
 ; https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
 
