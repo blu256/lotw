@@ -97,7 +97,8 @@ https://fishshell.com Fish is a fully-equipped command line shell (like bash or 
 
 % Computers/Privacy
 https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
-https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
+; Link of the week 2022-06-29 (week 26)
+; https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
 
 % Computers/Development
 ; Link of the week 2022-01-31 (week 05)
