@@ -15,13 +15,22 @@
 ;;  Arts
 ;;
 
+% Arts
+https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
+
 % Arts/Fine Arts
 https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
 http://artchive.com/ Artchive is a virtual gallery of important art works. It includes more than 2,000 scans from over 200 different artists, as well as lots of special features ("exhibits").
 https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
 
+% Arts/Music
+gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
+
 % Arts/Music/Making
 https://www.djingpro.com DJingPro is all about the art of being a DJ. It offers free articles and tutorials written by DJs, for DJs.
+
+% Arts/Photography
+https://photographylife.com/learn-photography If you are just starting out in photography or just want to improve your shooting skills, this page contains articles with useful and easy to understand tutorials.
 
 
 ;;
@@ -42,6 +51,9 @@ https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-gr
 % Computers/AI
 https://gpt3.website/ A collection of links which show various curious uses of the GPT-3 model. Warning: contains links to Twitter.
 https://web.archive.org/web/20110425191843/http://www.stanford.edu/group/SHR/4-2/text/dialogues.html Some colorful dialogues between some early AI NLPs/chat bots and human beings. Starring the poetic Racter, the lesser-known Parry and the mythical Eliza programs.
+https://www.aiweirdness.com AI Weirdness is a humorous blog run by @janellecshane@wandering.shop about "the sometimes hilarious, sometimes unsettling ways that machine learning algorithms get things wrong".
+https://paint.wtf An online painting competition where the jury who picks the best drawings is... an AI.
+https://craiyon.com Craiyon (successor of DALL·E mini) is an online service which uses an AI model to draw images from the text you provide it.
 
 % Computers/Fun
 ; Link of the week 2022-01-10 (week 02)
@@ -60,6 +72,13 @@ https://www.technologizer.com/2010/03/29/microsoft-bob/ The tragical story of Mi
 http://motherfuckingwebsite.com A satirical piece that advocates for lightweight websites and semantics against (poor) and superfluous web-design. (Contributed by @hacknorris@mastodon.social)
 ; Link of the week 2022-05-16 (week 20)
 ; https://winworldpc.com/home "WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. We offer information, media and downloads for a wide variety of computers and operating systems."
+https://tildeverse.org/ The tildeverse is a loose association of like-minded tilde communities. Tildes are public access unix machines where you get an account with shell access and interact with other users via text-mode. The tildeverse offers other services too, like IRC, NNTP and a BBS.
+https://github.com/reyk/systemd-openbsd systemd-openbsd is a geeky joke game by @reyk@bsd.network which was taken too far. It's a systemd-style init for OpenBSD which "implements the most important features that are commonly expected from Linux' systemd" (some examples mentioned in the README are randomly rebooting and deleting files). The goal of the game is to ensure that the system is working continuously and reliably and get as high a score as possible.
+
+% Computers/Fun/Epic quotes ; don't overdo with this category
+https://bash.org/ Bash.org is a well-known quote database based on user-submitted epic quotes from IM chats.
+https://bash.org/?244321 Don't send your passwords to anyone. Even if they claim the only thing they see is stars.
+https://bash.org/?870063 A battle rap competition between two geeks on IRC.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021/11/15
@@ -78,6 +97,7 @@ https://neocities.org/ Neocities lets you create your own website for free. It a
 % Computers/Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
 ; https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
+https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
 
 % Computers/Games/Strategies
 https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
@@ -111,6 +131,7 @@ https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-thing
 ; Link of the week 2022-04-25 (week 17)
 ; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
 https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
+https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 
 % Computer/Development/Web
 ; Link of the week 2022-04-04 (week 14)
@@ -138,11 +159,16 @@ https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meet
 % Computers/Software/Internet
 https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
 
+% Computers/Software/Writing
+https://pandoc.org Pandoc is a free and open-source document converter, widely used as a writing tool (especially by scholars) and as a basis for publishing workflows with support for a lot of document formats (from Markdown to Microsoft Word and from Emacs org-mode to HTML presentations).
+
 % Computers/Software/OS
 ; Link of the week 2022-06-27 (week 26)
 ; https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
 ; Link of the week 2022-05-23 (week 21)
 ; https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
+https://serenityos.org/ SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems. Roughly speaking, the goal is a marriage between the aesthetic of late-1990s productivity software and the power-user accessibility of late-2000s *nix.
+https://www.freebsd.org/ FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
 
 % Computers/UX
 ; Link of the week 2021-11-29 (week 48)
@@ -152,6 +178,9 @@ https://vivaldi.com Vivaldi is a modern browser designed to resemble the old ven
 ;;
 ;;  Education
 ;;
+
+% Education
+https://www.cia.gov/the-world-factbook/ CIA's World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
 
 % Education/Opinion
 https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real-life experience of a university professor who witnessed how his students cheated on online tests via group chat — and how he managed to put an end on it.
