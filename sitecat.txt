@@ -183,7 +183,8 @@ https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meet
 https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
 
 % Computers/Software/Writing
-https://pandoc.org Pandoc is a free and open-source document converter, widely used as a writing tool (especially by scholars) and as a basis for publishing workflows with support for a lot of document formats (from Markdown to Microsoft Word and from Emacs org-mode to HTML presentations).
+; Link of the week 2022-06-30 (week 26)
+; https://pandoc.org Pandoc is a free and open-source document converter, widely used as a writing tool (especially by scholars) and as a basis for publishing workflows with support for a lot of document formats (from Markdown to Microsoft Word and from Emacs org-mode to HTML presentations).
 
 % Computers/Software/OS
 ; Link of the week 2022-06-27 (week 26)
