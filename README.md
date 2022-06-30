@@ -1,13 +1,15 @@
-# 🔗 Links of the Week Bot
-The **Links of the Week Bot** (short: Link Bot, or LOTW) is a Mastodon bot which posts one random link per run from a manually-curated list. The link can be practically anything: a website, an article, a Gemini capsule,  an IRC link, a file on an FTP server...
+# 🔗 Link of the Day Bot
+The **Links of the Day Bot** (short: Link Bot, or LOTD) is a Mastodon bot which posts one random link per run from a manually-curated list. The link can be practically anything: a website, an article, a Gemini capsule,  an IRC link, a file on an FTP server...
 
 The official bot instance is [@linkoftheweek@botsin.space](https://botsin.space/@linkoftheweek).
 
-It was meant to be run once a week (hence the Link Of The Week name) but the official instance is currently experimenting with a Mon-Wed-Fri schedule.
+It used to run once a week (hence the old Link Of The Week name) but the official instance is currently posting links daily.
 
 **Link submissions and other contributions are welcome.**
 
 ## Submitting links
+Links can be to any sort of content that is interesting, accessible through any popular Internet protocol (HTTP, Gemini, Gopher, FTP etc.)
+
 The submission process is very easy. Your link(s) have to be approved to comply with the rules (see below) before they can be added to the catalog, but it's highly likely that your link(s) will be added to the catalog the same day.
 
 You can send your links in one of the following ways:
