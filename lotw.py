@@ -99,7 +99,7 @@ for t in enumerate(tags):
 tags += re.findall(r"#[A-Za-z0-9_]*", lotw['desc'])
 
 # Compose the toot
-message  = f"📎 Link of the week: {lotw['link']}\n"
+message  = f"📎 Link of the day: {lotw['link']}\n"
 message += f"📂 Category: {lotw['cats']}\n"
 message += f"\n{lotw['desc']}\n\n"
 message += " ".join(tags)
@@ -112,8 +112,8 @@ else:
 
 # Comment out the link
 if not DEBUG_DO_NOT_COMMENT:
-  timestamp = dt.now().strftime("%Y-%m-%d (week %W)")
-  lines.insert( lotw['line'], "; Link of the week {}\n".format(timestamp) )
+  timestamp = dt.now().strftime("%Y-%m-%d")
+  lines.insert( lotw['line'], "; Link of the day {}\n".format(timestamp) )
   lines[ lotw['line']+1 ] = "; " + lines[ lotw['line']+1 ]
 
   # Write the file back
