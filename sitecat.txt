@@ -95,7 +95,8 @@ https://bash.org/?870063 A battle rap competition between two geeks on IRC.
 gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist: it groups a post with the posts that reply or link to it. This helps you find related posts and conversations very easily.
 
 % Computer/Internet/Fun
-https://jspaint.app A nearly pixel-perfect fully functional imitation of MS Paint from Windows XP for your browser.
+; Link of the day 2022-07-03
+; https://jspaint.app A nearly pixel-perfect fully functional imitation of MS Paint from Windows XP for your browser.
 https://www.smore.com/clippy-js Clippy.js is a full Javascript implementation of Microsoft Agent (AKA Clippy and friends), ready to be embedded in any website.
 https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
 
