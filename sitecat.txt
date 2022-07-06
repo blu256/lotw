@@ -152,7 +152,8 @@ https://projecteuler.net/ Project Euler is a series of challenging mathematical/
 % Computers/Development/Games
 https://script-8.github.io SCRIPT-8 is a fantasy computer for making, sharing, and playing tiny retro-looking games (called cassettes). It's free, browser-based, and open-source. Cassettes are written in JavaScript.
 https://morgan3d.github.io/nano/doc/specification.md.html The nano JAMMER is a fantasy console for tiny games. It is perfect for hobby coding, a game programming course, and tweetjams. The nano integrated development environment is free, runs in a browser, and connects to Google Drive. So, you can turn a few spare minutes on any computer or tablet into productive coding time.
-https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching research and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
+; Link of the day 2022-07-06
+; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching research and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
 
 % Computer/Development/Web
 ; Link of the week 2022-04-04 (week 14)
