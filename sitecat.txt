@@ -104,7 +104,8 @@ https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will 
 
 % Computers/Internet/Services
 https://neocities.org/ Neocities lets you create your own website for free. It also hosts a lot of interesting personal and indie websites (yes, the kind that used to prevail before the commercialization of the Web).
-https://tinytools.directory This is a list of small, free, or experimental tools that might be useful in building your game/website/interactive project. This list has a focus on artful tools and toys that are as fun to use as they are functional.
+; Link of the day 2022-07-10
+; https://tinytools.directory This is a list of small, free, or experimental tools that might be useful in building your game/website/interactive project. This list has a focus on artful tools and toys that are as fun to use as they are functional.
 https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all emojis. It's a definitive resource for emojis and their meanings.
 https://txt.fyi/ txt.fyi is "the dumbest publishing platform on the web. Write something, hit publish, and it's live." Your text is represented in "legible, no-nonsense static hypertext, good for short stories, not-short-enough tweets and adventures and all your numbers station or internet dead drop needs. Here you can scream into the void and know the form of your voice is out there forever".
 
