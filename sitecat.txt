@@ -68,7 +68,8 @@ https://spinfoam-games.itch.io/wordchanter WordChanter is a tool for generating 
 ; http://www.stokely.com/lighter.side/index.html An enormous collection of sysdamin humour, because " sometimes we all need to take a break and laugh at ourselves, our jobs, and our so-called lives".
 ; Link of the week 2022-02-28 (week 09)
 ; https://userinyerface.com/ How difficult can it be to fill out a form on a web site? "User In yer face" is a proof-of-concept of the worst user interface ever designed, which highlights the importance of a good UI design.
-https://www.technologizer.com/2010/03/29/microsoft-bob/ The tragical story of Microsoft BOB and social computer interfaces which failed to become the next big thing.
+; Link of the day 2022-07-12
+; https://www.technologizer.com/2010/03/29/microsoft-bob/ The tragical story of Microsoft BOB and social computer interfaces which failed to become the next big thing.
 ; Link of the week 2022-05-09 (week 19)
 ; gemini://astrobotany.mozz.us/ Astrobotany is a collective textual virtual garden. You can plant others' plants, post on the message board, get badges and a lot more!
 ; Link of the week 2022-02-07 (week 06)
