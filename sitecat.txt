@@ -98,11 +98,12 @@ https://bash.org/?870063 A battle rap competition between two geeks on IRC.
 ; gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a twist. It's not based on a feed list it periodically checks, but instead takes feed URLs as user input and puts them in a queue.
 gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist: it groups a post with the posts that reply or link to it. This helps you find related posts and conversations very easily.
 
-% Computer/Internet/Fun
+% Computers/Internet/Fun
 ; Link of the day 2022-07-03
 ; https://jspaint.app A nearly pixel-perfect fully functional imitation of MS Paint from Windows XP for your browser.
 https://www.smore.com/clippy-js Clippy.js is a full Javascript implementation of Microsoft Agent (AKA Clippy and friends), ready to be embedded in any website.
 https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
+https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
 
 % Computers/Internet/Services
 ; Link of the day 2022-07-11
@@ -141,6 +142,7 @@ https://privacyguide.org/ Privacy Guides is a socially motivated website that pr
 
 % Computers/Retro
 https://www.telnetbbsguide.com/ The Telnet BBS Guide is a catalog of Bulletin Board Systems – «the original Social Network». They list both Dial-Up and Telnet accessible Bulletin Board Systems all over the world. We currently list 1024 BBS and related systems with brief and detailed descriptions and a downloadable text-version listing.
+http://www.cpm.z80.de/index.html The Unofficial CP/M Web Site is the ultimate resource on this legacy operating system, including software and source code for early CP/M versions.
 
 % Computers/Development
 ; Link of the week 2022-01-31 (week 05)
@@ -155,6 +157,7 @@ https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-thing
 ; Link of the day 2022-07-09
 ; https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
 https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
+https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application. 
 
 % Computers/Development/Games
 https://script-8.github.io SCRIPT-8 is a fantasy computer for making, sharing, and playing tiny retro-looking games (called cassettes). It's free, browser-based, and open-source. Cassettes are written in JavaScript.
@@ -207,6 +210,9 @@ https://vivaldi.com Vivaldi is a modern browser designed to resemble the old ven
 https://www.freebsd.org/ FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
 https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
 
+% Computers/Software/Opinions
+https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9 The rise and decline of an undoubtedly legendary web browser, Mozilla Firefox.
+
 % Computers/UX
 ; Link of the week 2021-11-29 (week 48)
 ; https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
@@ -219,7 +225,7 @@ https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux dis
 % Education
 https://www.cia.gov/the-world-factbook/ CIA's World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
 
-% Education/Opinion
+% Education/Opinions
 https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real-life experience of a university professor who witnessed how his students cheated on online tests via group chat — and how he managed to put an end on it.
 
 
@@ -235,7 +241,7 @@ https://ploum.net/the-computer-built-to-last-50-years/ An opinion piece on how t
 ;;  Fun
 ;;
 
-% Fun/Bizzare
+% Fun/Weird
 ; Link of the week 2022-06-13 (week 24)
 ; http://www.antarcticfire.org Even Antarctica needs its own fire department!
 
