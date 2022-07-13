@@ -81,7 +81,8 @@ https://tildeverse.org/ The tildeverse is a loose association of like-minded til
 https://github.com/reyk/systemd-openbsd systemd-openbsd is a geeky joke game by @reyk@bsd.network which was taken too far. It's a systemd-style init for OpenBSD which "implements the most important features that are commonly expected from Linux' systemd" (some examples mentioned in the README are randomly rebooting and deleting files). The goal of the game is to ensure that the system is working continuously and reliably and get as high a score as possible.
 https://tixy.land Tixy is probably the most minimalist creative coding environment. You control the size and color of a 16x16 dot matrix with a single JavaScript function. The input is limited to 32 characters – but there are no limits to your creativity! Includes quite a few amazing demos.
 
-% Computers/Fun/Epic quotes ; don't overdo with this category
+% Computers/Fun/Epic quotes
+; don't overdo with this category
 https://bash.org/ Bash.org is a well-known quote database based on user-submitted epic quotes from IM chats.
 https://bash.org/?244321 Don't send your passwords to anyone. Even if they claim the only thing they see is stars.
 https://bash.org/?870063 A battle rap competition between two geeks on IRC.
