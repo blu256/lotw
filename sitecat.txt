@@ -186,7 +186,8 @@ https://meiert.com/en/blog/minimal-web-development/ A short guide to the philoso
 https://switching.software/ switching.software is a website that is trying to let people know about ethical and easy-to-use alternatives to well-known websites, apps and other software. There associated Fediverse account is: @switchingsoftware@mstdn.swiso.org.
 
 % Computers/Software/Communication
-https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meetings for free, so you can start a meeting without an account straight from your browser, without the 40-minute time limit of a well-known proprietary alternative.
+; Link of the day 2022-07-14
+; https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meetings for free, so you can start a meeting without an account straight from your browser, without the 40-minute time limit of a well-known proprietary alternative.
 
 % Computers/Software/Desktop
 ; Link of the week 2021-12-13 (week 50)
