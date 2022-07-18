@@ -84,7 +84,8 @@ https://tixy.land Tixy is probably the most minimalist creative coding environme
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
 https://bash.org/ Bash.org is a well-known quote database based on user-submitted epic quotes from IM chats.
-https://bash.org/?244321 Don't send your passwords to anyone. Even if they claim the only thing they see is stars.
+; Link of the day 2022-07-18
+; https://bash.org/?244321 Don't send your passwords to anyone. Even if they claim the only thing they see is stars.
 https://bash.org/?870063 A battle rap competition between two geeks on IRC.
 
 % Computers/Internet/Search engines
