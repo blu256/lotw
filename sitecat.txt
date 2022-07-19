@@ -29,7 +29,8 @@ https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and sea
 gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
 
 % Arts/Music/Making
-https://www.djingpro.com DJingPro is all about the art of being a DJ. It offers free articles and tutorials written by DJs, for DJs.
+; Link of the day 2022-07-19
+; https://www.djingpro.com DJingPro is all about the art of being a DJ. It offers free articles and tutorials written by DJs, for DJs.
 
 % Arts/Photography
 https://photographylife.com/learn-photography If you are just starting out in photography or just want to improve your shooting skills, this page contains articles with useful and easy to understand tutorials.
