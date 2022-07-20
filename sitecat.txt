@@ -176,7 +176,8 @@ https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happ
 ; Link of the week 2022-05-30 (week 22)
 ; https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications.
 https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/ You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
-https://meiert.com/en/blog/minimal-web-development/ A short guide to the philosophy of minimal web development.
+; Link of the day 2022-07-20
+; https://meiert.com/en/blog/minimal-web-development/ A short guide to the philosophy of minimal web development.
 ; Link of the day 2022-07-02
 ; https://jdan.github.io/98.css/ 98.css is a "design system for building faithful recreations of old UIs". It is a CSS library for building interfaces that have the look and feel of Windows 98.
 
