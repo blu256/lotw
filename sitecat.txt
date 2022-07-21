@@ -26,7 +26,8 @@ https://www.europeana.eu/en Europeana is a special aggregator that provides you 
 https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
 
 % Arts/Music
-gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
+; Link of the day 2022-07-21
+; gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
 
 % Arts/Music/Making
 ; Link of the day 2022-07-19
