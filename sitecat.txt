@@ -81,7 +81,8 @@ https://spinfoam-games.itch.io/wordchanter WordChanter is a tool for generating 
 http://motherfuckingwebsite.com A satirical piece that advocates for lightweight websites and semantics against (poor) and superfluous web-design. (Contributed by @hacknorris@mastodon.social)
 ; Link of the week 2022-05-16 (week 20)
 ; https://winworldpc.com/home "WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. We offer information, media and downloads for a wide variety of computers and operating systems."
-https://tildeverse.org/ The tildeverse is a loose association of like-minded tilde communities. Tildes are public access unix machines where you get an account with shell access and interact with other users via text-mode. The tildeverse offers other services too, like IRC, NNTP and a BBS.
+; Link of the day 2022-07-22
+; https://tildeverse.org/ The tildeverse is a loose association of like-minded tilde communities. Tildes are public access unix machines where you get an account with shell access and interact with other users via text-mode. The tildeverse offers other services too, like IRC, NNTP and a BBS.
 https://github.com/reyk/systemd-openbsd systemd-openbsd is a geeky joke game by @reyk@bsd.network which was taken too far. It's a systemd-style init for OpenBSD which "implements the most important features that are commonly expected from Linux' systemd" (some examples mentioned in the README are randomly rebooting and deleting files). The goal of the game is to ensure that the system is working continuously and reliably and get as high a score as possible.
 https://tixy.land Tixy is probably the most minimalist creative coding environment. You control the size and color of a 16x16 dot matrix with a single JavaScript function. The input is limited to 32 characters – but there are no limits to your creativity! Includes quite a few amazing demos.
 
