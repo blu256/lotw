@@ -16,8 +16,9 @@
 ;;  Arts
 ;;
 
-% Arts
+% Arts/Web Platforms
 https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
+https://www.newgrounds.com/ Newgrounds is an entertainment platform that hosts user-generated content such as games, films, audio, and artwork. It has hosted some of the most popular games of the Flash era and has played an important role in Internet culture, Internet animation and independent video gaming in particular. Newgrounds has been called a "distinct time in gaming history". The motto of the platform is "EVERYTHING BY EVERYONE".
 
 % Arts/Fine Arts
 https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
@@ -28,6 +29,7 @@ https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and sea
 % Arts/Music
 ; Link of the day 2022-07-21
 ; gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
+https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According to this article, the new numbers on music consumption are very ugly and the creative culture is losing its ability to innovate.
 
 % Arts/Music/Making
 ; Link of the day 2022-07-19
@@ -181,6 +183,7 @@ https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/ You may not us
 ; https://meiert.com/en/blog/minimal-web-development/ A short guide to the philosophy of minimal web development.
 ; Link of the day 2022-07-02
 ; https://jdan.github.io/98.css/ 98.css is a "design system for building faithful recreations of old UIs". It is a CSS library for building interfaces that have the look and feel of Windows 98.
+https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
 
 % Computers/Publications
 ; Link of the week 2022-05-02 (week 18)
