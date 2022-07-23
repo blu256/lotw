@@ -184,7 +184,8 @@ https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/ You may not us
 ; https://meiert.com/en/blog/minimal-web-development/ A short guide to the philosophy of minimal web development.
 ; Link of the day 2022-07-02
 ; https://jdan.github.io/98.css/ 98.css is a "design system for building faithful recreations of old UIs". It is a CSS library for building interfaces that have the look and feel of Windows 98.
-https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
+; Link of the day 2022-07-23
+; https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
 
 % Computers/Publications
 ; Link of the week 2022-05-02 (week 18)
