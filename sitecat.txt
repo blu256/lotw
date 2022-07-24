@@ -163,7 +163,8 @@ https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-thing
 ; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
 ; Link of the day 2022-07-09
 ; https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
-https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
+; Link of the day 2022-07-24
+; https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application. 
 
 % Computers/Development/Games
