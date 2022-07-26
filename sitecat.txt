@@ -91,7 +91,8 @@ https://tixy.land Tixy is probably the most minimalist creative coding environme
 https://bash.org/ Bash.org is a well-known quote database based on user-submitted epic quotes from IM chats.
 ; Link of the day 2022-07-18
 ; https://bash.org/?244321 Don't send your passwords to anyone. Even if they claim the only thing they see is stars.
-https://bash.org/?870063 A battle rap competition between two geeks on IRC.
+; Link of the day 2022-07-26
+; https://bash.org/?870063 A battle rap competition between two geeks on IRC.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021/11/15
