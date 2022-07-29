@@ -78,7 +78,8 @@ https://spinfoam-games.itch.io/wordchanter WordChanter is a tool for generating 
 ; gemini://astrobotany.mozz.us/ Astrobotany is a collective textual virtual garden. You can plant others' plants, post on the message board, get badges and a lot more!
 ; Link of the week 2022-02-07 (week 06)
 ; https://mirrors.ocf.berkeley.edu/kde/events/Multi_Media_Market_2000/mmm2-9.jpg A reminder that GNOME and KDE can be good friends ;-)
-http://motherfuckingwebsite.com A satirical piece that advocates for lightweight websites and semantics against (poor) and superfluous web-design. (Contributed by @hacknorris@mastodon.social)
+; Link of the day 2022-07-29
+; http://motherfuckingwebsite.com A satirical piece that advocates for lightweight websites and semantics against (poor) and superfluous web-design. (Contributed by @hacknorris@mastodon.social)
 ; Link of the week 2022-05-16 (week 20)
 ; https://winworldpc.com/home "WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. We offer information, media and downloads for a wide variety of computers and operating systems."
 ; Link of the day 2022-07-22
