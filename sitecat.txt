@@ -36,7 +36,8 @@ https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According t
 ; https://www.djingpro.com DJingPro is all about the art of being a DJ. It offers free articles and tutorials written by DJs, for DJs.
 
 % Arts/Photography
-https://photographylife.com/learn-photography If you are just starting out in photography or just want to improve your shooting skills, this page contains articles with useful and easy to understand tutorials.
+; Link of the day 2022-07-30
+; https://photographylife.com/learn-photography If you are just starting out in photography or just want to improve your shooting skills, this page contains articles with useful and easy to understand tutorials.
 
 
 ;;
