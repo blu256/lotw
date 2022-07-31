@@ -179,6 +179,7 @@ https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happ
 ; https://morgan3d.github.io/nano/doc/specification.md.html The nano JAMMER is a fantasy console for tiny games. It is perfect for hobby coding, a game programming course, and tweetjams. The nano integrated development environment is free, runs in a browser, and connects to Google Drive. So, you can turn a few spare minutes on any computer or tablet into productive coding time.
 ; Link of the day 2022-07-06
 ; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching research and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
+https://tic80.com/ TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games (contributed by @moddedBear@fosstodon.org).
 
 % Computer/Development/Web
 ; Link of the week 2022-04-04 (week 14)
