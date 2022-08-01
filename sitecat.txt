@@ -264,7 +264,8 @@ https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real
 ;;
 
 % Environment/Sustainability
-https://ploum.net/the-computer-built-to-last-50-years/ An opinion piece on how to create the long-standing computer that will save your attention, your wallet, your creativity, your soul and the planet.
+; Link of the day 2022-08-01
+; https://ploum.net/the-computer-built-to-last-50-years/ An opinion piece on how to create the long-standing computer that will save your attention, your wallet, your creativity, your soul and the planet.
 
 
 ;;
