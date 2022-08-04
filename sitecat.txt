@@ -21,7 +21,7 @@ https://zoomquilt.org/ Zoomquilt is an original Web-based project. It's an infin
 
 % Arts/Web Platforms
 https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
-https://www.newgrounds.com/ Newgrounds is an entertainment platform that hosts user-generated content such as games, films, audio, and artwork. It has hosted some of the most popular games of the Flash era and has played an important role in Internet culture, Internet animation and independent video gaming in particular. Newgrounds has been called a "distinct time in gaming history". The motto of the platform is "EVERYTHING BY EVERYONE".
+https://www.newgrounds.com/ Newgrounds is an entertainment platform that hosts user-generated content such as games, films, audio, and artwork. It has hosted some of the most popular games of the Flash era and has played an important role in Internet culture, Internet animation and independent video gaming in particular.
 
 % Arts/Fine Arts
 https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
@@ -88,7 +88,7 @@ https://spinfoam-games.itch.io/wordchanter WordChanter is a tool for generating 
 ; https://winworldpc.com/home "WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. We offer information, media and downloads for a wide variety of computers and operating systems."
 ; Link of the day 2022-07-22
 ; https://tildeverse.org/ The tildeverse is a loose association of like-minded tilde communities. Tildes are public access unix machines where you get an account with shell access and interact with other users via text-mode. The tildeverse offers other services too, like IRC, NNTP and a BBS.
-https://github.com/reyk/systemd-openbsd systemd-openbsd is a geeky joke game by @reyk@bsd.network which was taken too far. It's a systemd-style init for OpenBSD which "implements the most important features that are commonly expected from Linux' systemd" (some examples mentioned in the README are randomly rebooting and deleting files). The goal of the game is to ensure that the system is working continuously and reliably and get as high a score as possible.
+https://github.com/reyk/systemd-openbsd systemd-openbsd is a geeky joke game by @reyk@bsd.network which was taken too far. It's a systemd-style init for OpenBSD which "implements the most important features that are commonly expected from Linux' systemd" (examples mentioned in the README are randomly rebooting and deleting files). The goal of the game is to ensure that the system is working continuously and get as high a score as possible.
 https://tixy.land Tixy is probably the most minimalist creative coding environment. You control the size and color of a 16x16 dot matrix with a single JavaScript function. The input is limited to 32 characters – but there are no limits to your creativity! Includes quite a few amazing demos.
 https://512pixels.net/projects/default-mac-wallpapers-in-5k/ Default Mac OS 9 and OS X wallpapers, but upscaled to 6K. Why? Because classics never die.
 https://www.raspberrypi.com/ Raspberry Pi is a brand of tiny and affordable computers (some below $5) and "an affordable way to do something useful, or to do something fun". Raspberry Pi computers are reportedly being used "from interactive museum exhibits and schools to national postal sorting offices and government call centres".
@@ -128,7 +128,7 @@ https://neal.fun/ This is a collection of little web games and other fun stuff w
 ; Link of the day 2022-07-10
 ; https://tinytools.directory This is a list of small, free, or experimental tools that might be useful in building your game/website/interactive project. This list has a focus on artful tools and toys that are as fun to use as they are functional.
 https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all emojis. It's a definitive resource for emojis and their meanings.
-https://txt.fyi/ txt.fyi is "the dumbest publishing platform on the web. Write something, hit publish, and it's live." Your text is represented in "legible, no-nonsense static hypertext, good for short stories, not-short-enough tweets and adventures and all your numbers station or internet dead drop needs. Here you can scream into the void and know the form of your voice is out there forever".
+https://txt.fyi/ txt.fyi is "the dumbest publishing platform on the web. Write something, hit publish, and it's live." Here you can scream into the void and know the form of your voice is out there forever".
 
 % Computers/Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
@@ -320,4 +320,4 @@ https://egscomics.com/ El Goonish Shive is a strange comic about a group of teen
 ; Link of the day 2022-08-02
 ; http://newshounds.keenspot.com Newshounds is a classic web-comic about animal reporters who work for a television station. Hilarity ensues as they deal with the exciting routine of a news reporter.
 https://dilbert.com Dilbert is the big classic name of web-comics and the stamp of workplace humour. If you haven't read Dilbert, you're missing out an Office Space climate and probably don't know what (or who) PHB stands for!
-https://garfieldminusgarfield.net Have you ever imagined how the Garfield comic would be without its protagonist? "Garfield Minus Garfield is a site dedicated to removing Garfield from the Garfield comic strips in order to reveal the existential angst of a certain young Mr. Jon Arbuckle. It is a journey deep into the mind of an isolated young everyman as he fights a losing battle against loneliness and depression in a quiet American suburb."
+https://garfieldminusgarfield.net Have you ever imagined how the Garfield comic would be without its protagonist? "Garfield Minus Garfield is a site dedicated to removing Garfield from the Garfield comic strips in order to reveal the existential angst of a certain young Mr. Jon Arbuckle."
