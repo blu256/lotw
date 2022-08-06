@@ -223,7 +223,8 @@ https://switching.software/ switching.software is a website that is trying to le
 https://github.com/NsCDE/NsCDE NsCDE is a retro but powerful UNIX desktop environment which resembles CDE look (and partially feel) but with a more powerful and flexible framework beneath-the-surface, more suited for 21st century unix-like and Linux systems and user requirements than original CDE. The look is quite ambivalent; either you love it or you hate it.
 
 % Computers/Software/Web browsers
-https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
+; Link of the day 2022-08-06
+; https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
 
 % Computers/Software/Writing
 ; Link of the week 2022-06-30 (week 26)
