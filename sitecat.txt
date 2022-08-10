@@ -93,7 +93,8 @@ https://github.com/reyk/systemd-openbsd systemd-openbsd is a geeky joke game by 
 https://tixy.land Tixy is probably the most minimalist creative coding environment. You control the size and color of a 16x16 dot matrix with a single JavaScript function. The input is limited to 32 characters – but there are no limits to your creativity! Includes quite a few amazing demos.
 https://512pixels.net/projects/default-mac-wallpapers-in-5k/ Default Mac OS 9 and OS X wallpapers, but upscaled to 6K. Why? Because classics never die.
 https://www.raspberrypi.com/ Raspberry Pi is a brand of tiny and affordable computers (some below $5) and "an affordable way to do something useful, or to do something fun". Raspberry Pi computers are reportedly being used "from interactive museum exhibits and schools to national postal sorting offices and government call centres".
-https://hackertyper.com/ With this you can pretend you are a true Hollywood movie h4xx0r!g
+; Link of the day 2022-08-10
+; https://hackertyper.com/ With this you can pretend you are a true Hollywood movie h4xx0r!g
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
