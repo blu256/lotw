@@ -17,7 +17,8 @@
 ;;
 
 % Arts
-https://zoomquilt.org/ Zoomquilt is an original Web-based project. It's an infinitely zooming infinite collaborative painting of a fantastic world.
+; Link of the day 2022-08-11
+; https://zoomquilt.org/ Zoomquilt is an original Web-based project. It's an infinitely zooming infinite collaborative painting of a fantastic world.
 
 % Arts/Web Platforms
 https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
