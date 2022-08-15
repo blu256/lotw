@@ -290,7 +290,8 @@ https://www.autocorrectfail.org "This site is a collection of Auto Correct fails
 ; https://www.comedywildlifephoto.com Comedy Wildlife Photo is an annual photography contest bringing you the most hilarious and amazing animal pictures from the natural world.
 ; Link of the day 2022-08-09
 ; https://theuselessweb.com/ The Useless Web is a big collection of totally useless and hilarious one-page websites with the right dose of amusing randomness. Some of the sites of the collection are actually part of this bot's catalog.
-https://potatoortomato.com/ Is this a potato? Or is this a tomato?
+; Link of the day 2022-08-15
+; https://potatoortomato.com/ Is this a potato? Or is this a tomato?
 ; Link of the day 2022-08-07
 ; http://www.ismycomputeron.com/ Is your computer on? This website will tell you!
 
