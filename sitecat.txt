@@ -303,7 +303,8 @@ https://websdr.org/ A WebSDR is a Software-Defined Radio receiver connected to t
 ; https://short-wave.info/ Short-wave.info is a database of all the short wave broadcasts being transmitted by the majority of the world's international radio stations. Effectively, it allows you to check the reception of a short-wave frequency in any corner of the world. It also contains essential practical knowledge related to short-wave radio.
 
 % Fun/Videos/Weird
-https://yewtu.be/watch?v=EIyixC9NsLI 🎧 The Badger Song, a legend of ye olde Internets.
+; Link of the day 2022-08-16
+; https://yewtu.be/watch?v=EIyixC9NsLI 🎧 The Badger Song, a legend of ye olde Internets.
 ; Link of the day 2022-07-25
 ; https://yewtu.be/watch?v=j5C6X9vOEkU 🎧 Ring ring ring ring ring ring ring... Banana phooooone!
 https://yewtu.be/watch?v=0RpdPzJgaBw 🎧 Have you seen the marvellous breadfish? Or at least listened to this weird song?
