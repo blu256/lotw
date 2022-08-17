@@ -131,7 +131,8 @@ https://neal.fun/ This is a collection of little web games and other fun stuff w
 ; Link of the day 2022-07-10
 ; https://tinytools.directory This is a list of small, free, or experimental tools that might be useful in building your game/website/interactive project. This list has a focus on artful tools and toys that are as fun to use as they are functional.
 https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all emojis. It's a definitive resource for emojis and their meanings.
-https://txt.fyi/ txt.fyi is "the dumbest publishing platform on the web. Write something, hit publish, and it's live." Here you can scream into the void and know the form of your voice is out there forever".
+; Link of the day 2022-08-17
+; https://txt.fyi/ txt.fyi is "the dumbest publishing platform on the web. Write something, hit publish, and it's live." Here you can scream into the void and know the form of your voice is out there forever".
 
 % Computers/Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
