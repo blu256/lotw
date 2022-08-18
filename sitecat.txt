@@ -140,7 +140,8 @@ https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all
 https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
 
 % Computers/Games/Strategies
-https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
+; Link of the day 2022-08-18
+; https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
 
 % Computers/Games/Interactive Fiction
 ; Link of the day 2022-08-04
