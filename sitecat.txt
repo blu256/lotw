@@ -22,7 +22,8 @@
 
 % Arts/Web Platforms
 https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
-https://www.newgrounds.com/ Newgrounds is an entertainment platform that hosts user-generated content such as games, films, audio, and artwork. It has hosted some of the most popular games of the Flash era and has played an important role in Internet culture, Internet animation and independent video gaming in particular.
+; Link of the day 2022-08-19
+; https://www.newgrounds.com/ Newgrounds is an entertainment platform that hosts user-generated content such as games, films, audio, and artwork. It has hosted some of the most popular games of the Flash era and has played an important role in Internet culture, Internet animation and independent video gaming in particular.
 
 % Arts/Fine Arts
 https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
