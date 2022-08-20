@@ -94,7 +94,8 @@ https://craiyon.com Craiyon (successor of DALL·E mini) is an online service whi
 https://github.com/reyk/systemd-openbsd systemd-openbsd is a geeky joke game by @reyk@bsd.network which was taken too far. It's a systemd-style init for OpenBSD which "implements the most important features that are commonly expected from Linux' systemd" (examples mentioned in the README are randomly rebooting and deleting files). The goal of the game is to ensure that the system is working continuously and get as high a score as possible.
 https://tixy.land Tixy is probably the most minimalist creative coding environment. You control the size and color of a 16x16 dot matrix with a single JavaScript function. The input is limited to 32 characters – but there are no limits to your creativity! Includes quite a few amazing demos.
 https://512pixels.net/projects/default-mac-wallpapers-in-5k/ Default Mac OS 9 and OS X wallpapers, but upscaled to 6K. Why? Because classics never die.
-https://www.raspberrypi.com/ Raspberry Pi is a brand of tiny and affordable computers (some below $5) and "an affordable way to do something useful, or to do something fun". Raspberry Pi computers are reportedly being used "from interactive museum exhibits and schools to national postal sorting offices and government call centres".
+; Link of the day 2022-08-20
+; https://www.raspberrypi.com/ Raspberry Pi is a brand of tiny and affordable computers (some below $5) and "an affordable way to do something useful, or to do something fun". Raspberry Pi computers are reportedly being used "from interactive museum exhibits and schools to national postal sorting offices and government call centres".
 ; Link of the day 2022-08-10
 ; https://hackertyper.com/ With this you can pretend you are a true Hollywood movie h4xx0r!g
 
