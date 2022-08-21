@@ -312,7 +312,8 @@ http://www.airsicknessbags.com/ Yes, a virtual museum devoted to air sickness ba
 ; https://potatoortomato.com/ Is this a potato? Or is this a tomato?
 ; Link of the day 2022-08-07
 ; http://www.ismycomputeron.com/ Is your computer on? This website will tell you!
-http://www.freechocolate.com/ Ever had a chocolate bar transmitted to your fridge over the Internet? This website claims to be the world's first one to offer... DOWNLOADABLE CHOCOLATE!
+; Link of the day 2022-08-21
+; http://www.freechocolate.com/ Ever had a chocolate bar transmitted to your fridge over the Internet? This website claims to be the world's first one to offer... DOWNLOADABLE CHOCOLATE!
 http://www.byronknoll.com/earth.html Play with the Earth as if it was a large squishy ball!
 
 % Fun/Radio
