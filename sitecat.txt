@@ -129,7 +129,8 @@ gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist
 ; https://www.smore.com/clippy-js Clippy.js is a full Javascript implementation of Microsoft Agent (AKA Clippy and friends), ready to be embedded in any website.
 ; Link of the day 2022-07-27
 ; https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
-https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
+; Link of the day 2022-08-26
+; https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
 
 % Computers/Internet/Services
 ; Link of the day 2022-07-11
