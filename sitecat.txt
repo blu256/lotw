@@ -289,7 +289,8 @@ https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real
 ;;
 
 % Fun
-http://www.slightlyinteresting.com/forest/ Plant a forest straight in your browser! Watch your trees grow, then move them around at will, constructing your very own enchanted forest.
+; Link of the day 2022-08-27
+; http://www.slightlyinteresting.com/forest/ Plant a forest straight in your browser! Watch your trees grow, then move them around at will, constructing your very own enchanted forest.
 
 % Fun/Weird
 ; Link of the week 2022-06-13 (week 24)
