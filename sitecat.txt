@@ -296,7 +296,8 @@ https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real
 ; Link of the week 2022-06-13 (week 24)
 ; http://www.antarcticfire.org Even Antarctica needs its own fire department!
 https://awkwardfamilyphotos.com Awkward Family Photos is what it sounds like -- a collection of cringe-worthy family photos. From terrible hairdos and outfits to costume-themed family portraits, this site might offer you a weird little family-themed amount of fun.
-https://www.autocorrectfail.org "This site is a collection of Auto Correct fails and tribulations that people have experienced". That is, it's a collection of WTF Auto Correct moments and messages that made the sender exclaim “damn you autocorrect!” shortly after sending them.
+; Link of the day 2022-08-28
+; https://www.autocorrectfail.org "This site is a collection of Auto Correct fails and tribulations that people have experienced". That is, it's a collection of WTF Auto Correct moments and messages that made the sender exclaim “damn you autocorrect!” shortly after sending them.
 
 % Fun/Virtual Museums
 https://www.collectorsweekly.com/hall-of-fame/ A hall of fame of websites, virtual museums and collections devoted to aspects of antique and vintage times.
