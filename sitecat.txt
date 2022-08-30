@@ -301,7 +301,8 @@ https://awkwardfamilyphotos.com Awkward Family Photos is what it sounds like -- 
 ; https://www.autocorrectfail.org "This site is a collection of Auto Correct fails and tribulations that people have experienced". That is, it's a collection of WTF Auto Correct moments and messages that made the sender exclaim “damn you autocorrect!” shortly after sending them.
 
 % Fun/Virtual Museums
-https://www.collectorsweekly.com/hall-of-fame/ A hall of fame of websites, virtual museums and collections devoted to aspects of antique and vintage times.
+; Link of the day 2022-08-30
+; https://www.collectorsweekly.com/hall-of-fame/ A hall of fame of websites, virtual museums and collections devoted to aspects of antique and vintage times.
 http://www.officemuseum.com/ The Early Office Museum engages in research on the history and evolution of offices, antique office machines and equipment, and business technology based on original documents, artifacts, and vintage photographs.
 
 % Fun/Virtual Museums/Weird
