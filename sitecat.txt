@@ -282,7 +282,8 @@ https://www.ted.com/ TED is a media organization that publishes talks on various
 
 
 % Education/Opinions
-https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real-life experience of a university professor who witnessed how his students cheated on online tests via group chat — and how he managed to put an end on it.
+; Link of the day 2022-09-01
+; https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real-life experience of a university professor who witnessed how his students cheated on online tests via group chat — and how he managed to put an end on it.
 
 
 ;;
