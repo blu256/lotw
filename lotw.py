@@ -1,6 +1,6 @@
 #!/bin/env python3
 # ------------------------------------
-# Link of the Week Bot 2.0
+# Link of the Week Bot 2.1
 # by @blu256@koyu.space
 #
 # Released to the Public Domain.
@@ -19,11 +19,20 @@ except ImportError:
   print("\t$ pip3 install Mastodon.py")
   exit(2)
 
+#################################
+# Change debugging mode here
+DEBUG_CHECK_LINKS    = False
 DEBUG_SKIP_MASTODON  = False
 DEBUG_DO_NOT_COMMENT = False
+#
+#################################
 
 SITECAT = "sitecat.txt"
 entries = []
+
+if DEBUG_CHECK_LINKS:
+  DEBUG_SKIP_MASTODON  = True
+  DEBUG_DO_NOT_COMMENT = True
 
 if not DEBUG_SKIP_MASTODON:
   client = Mastodon(
@@ -76,33 +85,43 @@ for line in enumerate(lines):
     print("Warning: line {} is probably faulty".format(i))
     pass # skip faulty lines
 
+def prepareMessage(lotw):
+  # Pick tags based on category
+  tags = ["lotw"]
+  for c in reversed(lotw['cat']):
+    tags.append(c.strip().lower().replace('-','').replace(' ',''))
+
+  # Pick appropriate tags based on protocol
+  if lotw['link'].startswith("http"):
+    tags += ["web"]
+
+  elif lotw['link'].startswith("gemini"):
+    tags += ["gemini"]
+
+  # Add hashes to tags
+  for t in enumerate(tags):
+    tags[t[0]] = "#" + t[1]
+
+  # Pick out hashtags from description
+  tags += re.findall(r"#[A-Za-z0-9_]*", lotw['desc'])
+
+  # Compose the toot
+  message  = f"📎 Link of the day: {lotw['link']}\n"
+  message += f"📂 Category: {lotw['cats']}\n"
+  message += f"\n{lotw['desc']}\n\n"
+  message += " ".join(tags)
+  return message
+
 # Pick a random link
-lotw = choice(entries)
-
-# Pick tags based on category
-tags = ["lotw"]
-for c in reversed(lotw['cat']):
-  tags.append(c.strip().lower().replace('-','').replace(' ',''))
-
-# Pick appropriate tags based on protocol
-if lotw['link'].startswith("http"):
-  tags += ["web"]
-
-elif lotw['link'].startswith("gemini"):
-  tags += ["gemini"]
-
-# Add hashes to tags
-for t in enumerate(tags):
-  tags[t[0]] = "#" + t[1]
-
-# Pick out hashtags from description
-tags += re.findall(r"#[A-Za-z0-9_]*", lotw['desc'])
-
-# Compose the toot
-message  = f"📎 Link of the day: {lotw['link']}\n"
-message += f"📂 Category: {lotw['cats']}\n"
-message += f"\n{lotw['desc']}\n\n"
-message += " ".join(tags)
+if DEBUG_CHECK_LINKS:
+  for l in entries:
+    message = prepareMessage(l)
+    if len(message) > 500:
+      print(f"{l['link']}: Message length exceeds 500 characters! Make the description shorter!")
+  exit(0)
+else:
+  lotw = choice(entries)
+  message = prepareMessage(lotw)
 
 # Post it!
 if not DEBUG_SKIP_MASTODON:
