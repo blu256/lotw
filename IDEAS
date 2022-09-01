@@ -1,0 +1,5 @@
+- Link of the Day Throwback
+  - looks for link of the day at this day in the previous year
+  - posts it earlier than the canonical link of the week
+  - allows repeating links that people might have missed without having to set them LOTD a second time
+  - needs to grep for "Link of the [week|day] YYYY-MM-DD" and parse the dates.
