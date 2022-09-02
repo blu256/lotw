@@ -186,7 +186,8 @@ https://privacyguide.org/ Privacy Guides is a socially motivated website that pr
 ; https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
 ; Link of the week 2022-06-06 (week 23)
 ; https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
-https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
+; Link of the day 2022-09-02
+; https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
 ; Link of the week 2022-04-11 (week 15)
 ; https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
 ; Link of the week 2022-04-25 (week 17)
