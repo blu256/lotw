@@ -63,7 +63,8 @@ https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-gr
 ;;
 
 % Computers/AI
-https://gpt3.website/ A collection of links which show various curious uses of the GPT-3 model. Warning: contains links to Twitter.
+; Link of the day 2022-09-06
+; https://gpt3.website/ A collection of links which show various curious uses of the GPT-3 model. Warning: contains links to Twitter.
 ; Link of the day 2022-08-23
 ; https://web.archive.org/web/20110425191843/http://www.stanford.edu/group/SHR/4-2/text/dialogues.html Some colorful dialogues between some early AI NLPs/chat bots and human beings. Starring the poetic Racter, the lesser-known Parry and the mythical Eliza programs.
 ; Link of the day 2022-07-07
