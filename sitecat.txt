@@ -169,7 +169,8 @@ https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answ
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
 ; https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
-https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
+; Link of the day 2022-09-07
+; https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
 
 % Computers/Privacy
 https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
