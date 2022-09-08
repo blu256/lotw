@@ -19,7 +19,8 @@
 % Arts
 ; Link of the day 2022-08-11
 ; https://zoomquilt.org/ Zoomquilt is an original Web-based project. It's an infinitely zooming infinite collaborative painting of a fantastic world.
-https://alexanderperrin.com.au/paper/shorttrip/ Beautiful hand-drawn animated tram ride. Just hold left or right to move. Might not work on computers.
+; Link of the day 2022-09-08
+; https://alexanderperrin.com.au/paper/shorttrip/ Beautiful hand-drawn animated tram ride. Just hold left or right to move. Might not work on computers.
 http://a-way-to-go.com/ A walk through strange country - strange, familiar, remembered, forgotten. It is a restless panorama, a disappearing path, a game and a feeling. Way to Go is a small experience that gets bigger as you uncover it.
 
 % Arts/Web Platforms
