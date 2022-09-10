@@ -199,7 +199,8 @@ https://privacyguide.org/ Privacy Guides is a socially motivated website that pr
 ; https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
 ; Link of the day 2022-07-24
 ; https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
-https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
+; Link of the day 2022-09-10
+; https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
 
 % Computers/Development/Code golfing
 https://js1k.com/ The JavaScript code golfing competition.  It runs yearly, usually in or around February/March. You must submit a self-contained demo in 1024 bytes of pure JS, which in turn may use various web technologies (submitted by @1ynx@tech.lgbt).
