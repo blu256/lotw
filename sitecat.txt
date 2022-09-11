@@ -76,7 +76,8 @@ https://craiyon.com Craiyon (successor of DALL·E mini) is an online service whi
 ; https://spinfoam-games.itch.io/wordchanter WordChanter is a tool for generating random content of various sorts. At the moment it has 17 different generators ranging from random project code names to silly magical items to technobabble phrases.
 
 % Computers/FOSS
-https://staltz.com/time-till-open-source-alternative.html "Open source is coming for your business. [...] In this blog post, I’ll prove this to you with data. I present a measurement I call “Time Till Open Source Alternative” (TTOSA) which represents how long a proprietary software lasted without a direct open source alternative."
+; Link of the day 2022-09-11
+; https://staltz.com/time-till-open-source-alternative.html "Open source is coming for your business. [...] In this blog post, I’ll prove this to you with data. I present a measurement I call “Time Till Open Source Alternative” (TTOSA) which represents how long a proprietary software lasted without a direct open source alternative."
 
 % Computers/Fun
 ; Link of the week 2022-01-10 (week 02)
