@@ -71,7 +71,8 @@ https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-gr
 ; Link of the day 2022-07-07
 ; https://www.aiweirdness.com AI Weirdness is a humorous blog run by @janellecshane@wandering.shop about "the sometimes hilarious, sometimes unsettling ways that machine learning algorithms get things wrong".
 https://paint.wtf An online painting competition where the jury who picks the best drawings is... an AI.
-https://craiyon.com Craiyon (successor of DALL·E mini) is an online service which uses an AI model to draw images from the text you provide it.
+; Link of the day 2022-09-12
+; https://craiyon.com Craiyon (successor of DALL·E mini) is an online service which uses an AI model to draw images from the text you provide it.
 ; Link of the day 2022-08-08
 ; https://spinfoam-games.itch.io/wordchanter WordChanter is a tool for generating random content of various sorts. At the moment it has 17 different generators ranging from random project code names to silly magical items to technobabble phrases.
 
