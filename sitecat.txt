@@ -267,7 +267,8 @@ https://switching.software/ switching.software is a website that is trying to le
 ; https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
 ; Link of the day 2022-07-01
 ; https://serenityos.org/ SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems. Roughly speaking, the goal is a marriage between the aesthetic of late-1990s productivity software and the power-user accessibility of late-2000s *nix.
-https://www.freebsd.org/ FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
+; Link of the day 2022-09-13
+; https://www.freebsd.org/ FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
 ; Link of the day 2022-07-17
 ; https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
 
