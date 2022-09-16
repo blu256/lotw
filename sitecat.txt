@@ -110,6 +110,7 @@ https://tixy.land Tixy is probably the most minimalist creative coding environme
 ; https://www.raspberrypi.com/ Raspberry Pi is a brand of tiny and affordable computers (some below $5) and "an affordable way to do something useful, or to do something fun". Raspberry Pi computers are reportedly being used "from interactive museum exhibits and schools to national postal sorting offices and government call centres".
 ; Link of the day 2022-08-10
 ; https://hackertyper.com/ With this you can pretend you are a true Hollywood movie h4xx0r!g
+https://www.qemu.org/ QEMU is a FOSS virtual machine/machine emulator. It can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC).
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
@@ -240,6 +241,7 @@ https://tic80.com/ TIC-80 is a free and open source fantasy computer for making,
 
 % Computers/Software
 https://switching.software/ switching.software is a website that is trying to let people know about ethical and easy-to-use alternatives to well-known websites, apps and other software. There associated Fediverse account is: @switchingsoftware@mstdn.swiso.org.
+https://wiki.archlinux.org/title/List_of_applications This ArchLinux wiki article is a great list of Linux applications sorted by category. There are countless categories and probably anything you might want to do on your machine is covered by a category in this list.
 
 % Computers/Software/Communication
 ; Link of the day 2022-07-14
@@ -321,6 +323,7 @@ https://switching.software/ switching.software is a website that is trying to le
 https://awkwardfamilyphotos.com Awkward Family Photos is what it sounds like -- a collection of cringe-worthy family photos. From terrible hairdos and outfits to costume-themed family portraits, this site might offer you a weird little family-themed amount of fun.
 ; Link of the day 2022-08-28
 ; https://www.autocorrectfail.org "This site is a collection of Auto Correct fails and tribulations that people have experienced". That is, it's a collection of WTF Auto Correct moments and messages that made the sender exclaim “damn you autocorrect!” shortly after sending them.
+https://en.uncyclopedia.co/wiki/Main_Page  Uncyclopedia is the weird twin of Wikipedia. It describes itself as "the content-free encyclopedia that anyone can edit".
 
 % Fun/Virtual Museums
 ; Link of the day 2022-08-30
@@ -363,6 +366,7 @@ https://yewtu.be/watch?v=0RpdPzJgaBw 🎧 Have you seen the marvellous breadfish
 ; https://yewtu.be/watch?v=NfuiB52K7X8 🎧 🖊️ + 🍏 = ?
 ; Link of the day 2022-08-13
 ; https://www.yewtu.be/watch?v=w0AOGeqOnFY 🎧 The Coconut Song. And remember: coconuts aren't nuts!
+https://yewtu.be/watch?v=jIQ6UV2onyI (You're going to get me for this one, I just know it 😅)
 
 % Fun/Web-Comics
 ; Link of the week 2022-01-17 (week 03)
