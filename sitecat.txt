@@ -112,7 +112,8 @@ https://www.qemu.org/ QEMU is a FOSS virtual machine/machine emulator. It can ru
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
-https://bash.org/ Bash.org is a well-known quote database based on user-submitted epic quotes from IM chats.
+; Link of the day 2022-09-16
+; https://bash.org/ Bash.org is a well-known quote database based on user-submitted epic quotes from IM chats.
 ; Link of the day 2022-07-18
 ; https://bash.org/?244321 Don't send your passwords to anyone. Even if they claim the only thing they see is stars.
 ; Link of the day 2022-07-26
