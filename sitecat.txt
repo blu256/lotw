@@ -193,7 +193,8 @@ https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answ
 ; Link of the day 2022-07-28
 ; http://www.cpm.z80.de/index.html The Unofficial CP/M Web Site is the ultimate resource on this legacy operating system, including software and source code for early CP/M versions.
 https://xptour.neocities.org/index.html The Windows XP Tour, as featured in the omonymous operating system in the early 00s.
-https://www.noupe.com/inspiration/history-of-old-nokia-phones.html This article speaks of some of the most notable mobile phone models of ye olde Nokia brand (yes, "feature phones").
+; Link of the day 2022-09-17
+; https://www.noupe.com/inspiration/history-of-old-nokia-phones.html This article speaks of some of the most notable mobile phone models of ye olde Nokia brand (yes, "feature phones").
 
 % Computers/Development
 ; Link of the week 2022-01-31 (week 05)
