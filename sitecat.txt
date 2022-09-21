@@ -249,7 +249,8 @@ https://tic80.com/ TIC-80 is a free and open source fantasy computer for making,
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
 
 % Computers/Software
-https://switching.software/ switching.software is a website that is trying to let people know about ethical and easy-to-use alternatives to well-known websites, apps and other software. There associated Fediverse account is: @switchingsoftware@mstdn.swiso.org.
+; Link of the day 2022-09-21
+; https://switching.software/ switching.software is a website that is trying to let people know about ethical and easy-to-use alternatives to well-known websites, apps and other software. There associated Fediverse account is: @switchingsoftware@mstdn.swiso.org.
 ; Link of the day 2022-09-18
 ; https://wiki.archlinux.org/title/List_of_applications This ArchLinux wiki article is a great list of Linux applications sorted by category. There are countless categories and probably anything you might want to do on your machine is covered by a category in this list.
 
