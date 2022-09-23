@@ -135,7 +135,8 @@ http://web.archive.org/ Wayback Machine allows you to see websites as they were 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
 ; gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a twist. It's not based on a feed list it periodically checks, but instead takes feed URLs as user input and puts them in a queue.
-gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist: it groups a post with the posts that reply or link to it. This helps you find related posts and conversations very easily.
+; Link of the day 2022-09-23
+; gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist: it groups a post with the posts that reply or link to it. This helps you find related posts and conversations very easily.
 
 % Computers/Internet/Fun
 ; Link of the day 2022-07-03
