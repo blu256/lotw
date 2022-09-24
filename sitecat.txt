@@ -55,6 +55,7 @@ https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According t
 
 % Books
 https://jessmahler.com/where-to-buy-ebooks-other-than-amazon/ An article by @jessmahler@wandering.shop which suggests (e-)book resellers –mainly in US but also across the world– as alternatives to Amazon. (Contributed by @KelsonV@wandering.shop)
+https://www.gutenberg.org/ Project Gutenberg is a library of over 60,000 free eBooks available without registration and without the need for a special app.
 
 % Books/Sci-Fi/Trivia
 https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-griff-rhys-jones Douglas Adams is the author behind The Hitchhiker's Guide to the Galaxy. Here are some unpublished poems that he wrote as a student for a literary society.
@@ -110,6 +111,8 @@ https://tixy.land Tixy is probably the most minimalist creative coding environme
 ; Link of the day 2022-08-10
 ; https://hackertyper.com/ With this you can pretend you are a true Hollywood movie h4xx0r!g
 https://www.qemu.org/ QEMU is a FOSS virtual machine/machine emulator. It can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC).
+http://www.therestartpage.com/ An interactive tribute to the rebooting process of different vintage operating systems. Never stop rebooting!
+https://medium.com/@mortenjust/i-doomed-mankind-with-a-free-text-editor-ba6003319681 An open-source text editor which limits you to the 1,000 most commonly used words, and what came out of it.
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
@@ -229,6 +232,7 @@ https://ioccc.org/ The site of the International Obfuscated C Code Contest, whos
 ; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching research and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
 ; Link of the day 2022-09-22
 ; https://tic80.com/ TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games (contributed by @moddedBear@fosstodon.org).
+https://godotengine.org/ Godot is a popular FOSS game engine which provides a huge set of common tools, so you can just focus on making your 2D or 3D game without reinventing the wheel.
 
 % Computer/Development/Web
 ; Link of the week 2022-04-04 (week 14)
@@ -326,9 +330,17 @@ https://ioccc.org/ The site of the International Obfuscated C Code Contest, whos
 ;;  Fun
 ;;
 
+
 % Fun
+https://www.goodnewsnetwork.org  Good News Network describes itself as "an antidote to the barrage of negativity experienced in the mainstream media". It features stories with exclusively positive vibes, in contrast to traditional media.
+http://you.regettingold.com "Do you think time is catching up with you? Perhaps it's already overtaken you and left you in the dust." This nasty wesite will use every fact in its book to make you feel REALLY old. ;-)
+
+
+% Fun/Interactive
 ; Link of the day 2022-08-27
 ; http://www.slightlyinteresting.com/forest/ Plant a forest straight in your browser! Watch your trees grow, then move them around at will, constructing your very own enchanted forest.
+http://web.archive.org/web/20220808235949/https://www.bbc.com/future/bespoke/story/20150306-journey-to-the-centre-of-earth/index.html How far would you have to travel to reach the Earth's core? And what would you see along the way? Discover what lies beneath. A BBC Future project.
+
 
 % Fun/Collector's Delight
 https://www.phonearena.com/news/7-phones-collectors-items-worth-serious-money_id102063 Rare phone models that due to an occasion or another have come written their own history and become precious gems for tech collectors.
@@ -340,6 +352,11 @@ https://awkwardfamilyphotos.com Awkward Family Photos is what it sounds like -- 
 ; Link of the day 2022-08-28
 ; https://www.autocorrectfail.org "This site is a collection of Auto Correct fails and tribulations that people have experienced". That is, it's a collection of WTF Auto Correct moments and messages that made the sender exclaim “damn you autocorrect!” shortly after sending them.
 https://en.uncyclopedia.co/wiki/Main_Page Uncyclopedia is the weird twin of Wikipedia. It describes itself as "the content-free encyclopedia that anyone can edit".
+https://twelvethirty.media/communications/fun-404-pages/ This is a small collection of fun 404 error pages.
+https://trypap.com/ This is the "Passive Aggressive Password Machine". It helps you pick a good password. Well, at least it tries to do so...
+http://www.miserablebastard.com/ Imagine receiving a website with this domain name as a gift. That's one "miserable bastard" for sure...
+https://www.kamogo.com/4 The greatest Windows game of all time re-created: window dragging!
+https://hmpg.net/ Does the Internet have an end? Apparently, yes.
 
 % Fun/Virtual Museums
 ; Link of the day 2022-08-30
@@ -374,6 +391,7 @@ http://www.airsicknessbags.com/ Yes, a virtual museum devoted to air sickness ba
 ; Link of the day 2022-08-05
 ; https://short-wave.info/ Short-wave.info is a database of all the short wave broadcasts being transmitted by the majority of the world's international radio stations. Effectively, it allows you to check the reception of a short-wave frequency in any corner of the world. It also contains essential practical knowledge related to short-wave radio.
 http://osmocom-analog.eversberg.eu/ Osmocom-Analog is "a project that documents the functionality and knowledge of former analogue mobile networks. The included software allows the emulation of these mobile networks to communicate with Historical mobile phones again."
+http://priyom.org Priyom is an international organization intending to research and bring to light the mysterious reality of intelligence, military and diplomatic communication via shortwave radio (number stations).
 
 % Fun/Videos/Weird
 ; Link of the day 2022-08-16
@@ -411,6 +429,11 @@ https://egscomics.com/ El Goonish Shive is a strange comic about a group of teen
 ; https://dilbert.com Dilbert is the big classic name of web-comics and the stamp of workplace humour. If you haven't read Dilbert, you're missing out an Office Space climate and probably don't know what (or who) PHB stands for!
 ; Link of the day 2022-08-24
 ; https://garfieldminusgarfield.net Have you ever imagined how the Garfield comic would be without its protagonist? "Garfield Minus Garfield is a site dedicated to removing Garfield from the Garfield comic strips in order to reveal the existential angst of a certain young Mr. Jon Arbuckle."
+https://www.eviscerati.org/comics/hd/ Help Desk is a webcomic by @ubersoft@mastodon.social revolving around Ubersoft, an evil tech megacorportation, mostly through the eyes of a help desk technician working there.
+
+% Informational/Licenses
+https://creativecommons.org/about/cclicenses/ The website of the Creative Commons licences, which give every person and organization in the world a free, simple, and standardized way to grant copyright permissions for creative and academic works; ensure proper attribution; and allow others to copy, distribute, and make use of those works.
+
 
 % Informational/Everyday life
 https://www.fieggen.com/shoelace/index.htm Everything you wanted to know about shoelaces but were afraid to ask about.
