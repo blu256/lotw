@@ -361,7 +361,8 @@ https://hmpg.net/ Does the Internet have an end? Apparently, yes.
 % Fun/Virtual Museums
 ; Link of the day 2022-08-30
 ; https://www.collectorsweekly.com/hall-of-fame/ A hall of fame of websites, virtual museums and collections devoted to aspects of antique and vintage times.
-http://www.officemuseum.com/ The Early Office Museum engages in research on the history and evolution of offices, antique office machines and equipment, and business technology based on original documents, artifacts, and vintage photographs.
+; Link of the day 2022-09-24
+; http://www.officemuseum.com/ The Early Office Museum engages in research on the history and evolution of offices, antique office machines and equipment, and business technology based on original documents, artifacts, and vintage photographs.
 https://www.oldest.org/ Oldest.org (and its sister projects, Largest.org and Rarest.org) are blogs that feature the oldest (or largest or rarest) things in the world, organised by category.
 
 % Fun/Virtual Museums/Weird
