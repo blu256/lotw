@@ -126,7 +126,8 @@ https://medium.com/@mortenjust/i-doomed-mankind-with-a-free-text-editor-ba600331
 % Computers/Fun/Parodies
 ; Link of the week 2022-01-10 (week 02)
 ; http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
-https://winxp.vercel.app/ An Windows XP parody that actually looks the part quite well — but is functionally incomplete.
+; Link of the day 2022-09-27
+; https://winxp.vercel.app/ An Windows XP parody that actually looks the part quite well — but is functionally incomplete.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021/11/15
