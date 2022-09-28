@@ -165,7 +165,8 @@ https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all
 ; Link of the week 2022-02-14 (week 07)
 ; https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
 https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
-https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answers, and help the kingdom grow! "Sort-the-court" is a free-to-play Unity game played in your browser which can also be downloaded for Linux, Mac and Windows.
+; Link of the day 2022-09-28
+; https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answers, and help the kingdom grow! "Sort-the-court" is a free-to-play Unity game played in your browser which can also be downloaded for Linux, Mac and Windows.
 
 % Computers/Games/Strategies
 ; Link of the day 2022-08-18
