@@ -274,6 +274,10 @@ https://godotengine.org/ Godot is a popular FOSS game engine which provides a hu
 ; Link of the day 2022-09-04
 ; https://github.com/NsCDE/NsCDE NsCDE is a retro but powerful UNIX desktop environment which resembles CDE look (and partially feel) but with a more powerful and flexible framework beneath-the-surface, more suited for 21st century unix-like and Linux systems and user requirements than original CDE. The look is quite ambivalent; either you love it or you hate it.
 
+% Computers/Software/Music
+http://qmmp.ylsoftware.com/ QMMP is an excellent Qt-based audio-player which is compatible with Winamp skins and is extensible via plugins.
+https://www.strawberrymusicplayer.org/ Strawberry is a music player and music collection organizer aimed at music collectors and audiophiles. It is a fork of Clementine, which, in turn, was a fork of classic Amarok.
+
 % Computers/Software/Web browsers
 ; Link of the day 2022-08-06
 ; https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
