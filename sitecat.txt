@@ -30,7 +30,8 @@ https://www.deviantart.com/ DeviantArt is the largest online social network for 
 ; https://www.newgrounds.com/ Newgrounds is an entertainment platform that hosts user-generated content such as games, films, audio, and artwork. It has hosted some of the most popular games of the Flash era and has played an important role in Internet culture, Internet animation and independent video gaming in particular.
 
 % Arts/Fine Arts
-https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
+; Link of the day 2022-10-01
+; https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
 ; Link of the day 2022-07-04
 ; http://artchive.com/ Artchive is a virtual gallery of important art works. It includes more than 2,000 scans from over 200 different artists, as well as lots of special features ("exhibits").
 https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
