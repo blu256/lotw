@@ -74,7 +74,8 @@ https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-gr
 ; https://web.archive.org/web/20110425191843/http://www.stanford.edu/group/SHR/4-2/text/dialogues.html Some colorful dialogues between some early AI NLPs/chat bots and human beings. Starring the poetic Racter, the lesser-known Parry and the mythical Eliza programs.
 ; Link of the day 2022-07-07
 ; https://www.aiweirdness.com AI Weirdness is a humorous blog run by @janellecshane@wandering.shop about "the sometimes hilarious, sometimes unsettling ways that machine learning algorithms get things wrong".
-https://paint.wtf An online painting competition where the jury who picks the best drawings is... an AI.
+; Link of the day 2022-10-02
+; https://paint.wtf An online painting competition where the jury who picks the best drawings is... an AI.
 ; Link of the day 2022-09-12
 ; https://craiyon.com Craiyon (successor of DALL·E mini) is an online service which uses an AI model to draw images from the text you provide it.
 ; Link of the day 2022-08-08
