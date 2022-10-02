@@ -118,6 +118,7 @@ if DEBUG_CHECK_LINKS:
     message = prepareMessage(l)
     if len(message) > 500:
       print(f"{l['link']}: Message length exceeds 500 characters! Make the description shorter!")
+  print("Check completed")
   exit(0)
 else:
   lotw = choice(entries)
