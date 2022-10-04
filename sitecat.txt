@@ -371,7 +371,8 @@ https://trypap.com/ This is the "Passive Aggressive Password Machine". It helps 
 http://www.miserablebastard.com/ Imagine receiving a website with this domain name as a gift. That's one "miserable bastard" for sure...
 ; Link of the day 2022-09-29
 ; https://www.kamogo.com/4 The greatest Windows game of all time re-created: window dragging!
-https://hmpg.net/ Does the Internet have an end? Apparently, yes.
+; Link of the day 2022-10-04
+; https://hmpg.net/ Does the Internet have an end? Apparently, yes.
 
 % Fun/Virtual Museums
 ; Link of the day 2022-08-30
