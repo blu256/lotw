@@ -285,7 +285,8 @@ https://www.strawberrymusicplayer.org/ Strawberry is a music player and music co
 % Computers/Software/Web browsers
 ; Link of the day 2022-08-06
 ; https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
-https://www.palemoon.org/ Pale Moon is an open-source web browser which retains the interface of old Firefox editions. It offers great customizability through extensions and complete themes and integrates the latest security fixes from Mozilla upstream.
+; Link of the day 2022-10-05
+; https://www.palemoon.org/ Pale Moon is an open-source web browser which retains the interface of old Firefox editions. It offers great customizability through extensions and complete themes and integrates the latest security fixes from Mozilla upstream.
 ; TODO https://www.epyrus.org/ [under construction]
 
 % Computers/Software/Writing
