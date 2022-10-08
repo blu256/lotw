@@ -388,7 +388,8 @@ http://www.miserablebastard.com/ Imagine receiving a website with this domain na
 % Fun/Virtual Museums/Weird
 ; Link of the day 2022-08-25
 ; http://www.carrotmuseum.co.uk/ "The first virtual museum in the world entirely devoted to the history, evolution, science, sociology and art of Carrots." Yes, you read that right 🥕
-http://www.airsicknessbags.com/ Yes, a virtual museum devoted to air sickness bags. C'est la vie.
+; Link of the day 2022-10-08
+; http://www.airsicknessbags.com/ Yes, a virtual museum devoted to air sickness bags. C'est la vie.
 
 % Fun/LOL
 ; Link of the day 2022-08-14
