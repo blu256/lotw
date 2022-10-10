@@ -23,7 +23,8 @@
 ; https://alexanderperrin.com.au/paper/shorttrip/ Beautiful hand-drawn animated tram ride. Just hold left or right to move. Might not work on computers.
 ; Link of the day 2022-09-20
 ; http://a-way-to-go.com/ A walk through strange country - strange, familiar, remembered, forgotten. It is a restless panorama, a disappearing path, a game and a feeling. Way to Go is a small experience that gets bigger as you uncover it.
-https://beta.digitalblasphemy.com/ Digital Blasphemy is a digital artist famous in the early days of the Internet for their amazing wallpapers (e.g. Fluorescence, the glowing mushrooms). They offer their art for sale, though some wallpapers are available for free.
+; Link of the day 2022-10-10
+; https://beta.digitalblasphemy.com/ Digital Blasphemy is a digital artist famous in the early days of the Internet for their amazing wallpapers (e.g. Fluorescence, the glowing mushrooms). They offer their art for sale, though some wallpapers are available for free.
 
 % Arts/Web Platforms
 https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
