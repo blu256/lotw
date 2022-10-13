@@ -62,7 +62,8 @@ https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According t
 https://www.gutenberg.org/ Project Gutenberg is a library of over 60,000 free eBooks available without registration and without the need for a special app.
 
 % Books/Sci-Fi/Trivia
-https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-griff-rhys-jones Douglas Adams is the author behind The Hitchhiker's Guide to the Galaxy. Here are some unpublished poems that he wrote as a student for a literary society.
+; Link of the day 2022-10-13
+; https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-griff-rhys-jones Douglas Adams is the author behind The Hitchhiker's Guide to the Galaxy. Here are some unpublished poems that he wrote as a student for a literary society.
 
 
 ;;
