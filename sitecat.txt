@@ -36,7 +36,8 @@ https://www.deviantart.com/ DeviantArt is the largest online social network for 
 ; https://www.europeana.eu/en Europeana is a special aggregator that provides you with digital access to European cultural heritage material, thanks to thousands of European galleries, libraries, archives, and museums which interoperate with it.
 ; Link of the day 2022-07-04
 ; http://artchive.com/ Artchive is a virtual gallery of important art works. It includes more than 2,000 scans from over 200 different artists, as well as lots of special features ("exhibits").
-https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
+; Link of the day 2022-10-16
+; https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
 
 % Arts/Music
 ; Link of the day 2022-07-21
