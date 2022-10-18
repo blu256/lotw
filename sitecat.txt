@@ -288,7 +288,8 @@ https://www.opendesktop.org/ "OpenDesktop.org is one of the largest websites for
 
 % Computers/Software/Music
 http://qmmp.ylsoftware.com/ QMMP is an excellent Qt-based audio-player which is compatible with Winamp skins and is extensible via plugins.
-https://www.strawberrymusicplayer.org/ Strawberry is a music player and music collection organizer aimed at music collectors and audiophiles. It is a fork of Clementine, which, in turn, was a fork of classic Amarok.
+; Link of the day 2022-10-18
+; https://www.strawberrymusicplayer.org/ Strawberry is a music player and music collection organizer aimed at music collectors and audiophiles. It is a fork of Clementine, which, in turn, was a fork of classic Amarok.
 
 % Computers/Software/Web browsers
 ; Link of the day 2022-08-06
