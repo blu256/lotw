@@ -284,7 +284,8 @@ https://godotengine.org/ Godot is a popular FOSS game engine which provides a hu
 ; https://kde.org/ KDE is the community behind the modern Plasma desktop environment for Unix-like operating systems, as well as popular applications such as Krita.
 ; Link of the day 2022-09-04
 ; https://github.com/NsCDE/NsCDE NsCDE is a retro but powerful UNIX desktop environment which resembles CDE look (and partially feel) but with a more powerful and flexible framework beneath-the-surface, more suited for 21st century unix-like and Linux systems and user requirements than original CDE. The look is quite ambivalent; either you love it or you hate it.
-https://www.opendesktop.org/ "OpenDesktop.org is one of the largest websites for the Free Software and Content community [...] offering services like libre File and Data storage, Coding + CI, a federated chat + messaging and a Store for publishing and pledging libre content to break the dependency on proprietary offerings."
+; Link of the day 2022-10-20
+; https://www.opendesktop.org/ "OpenDesktop.org is one of the largest websites for the Free Software and Content community [...] offering services like libre File and Data storage, Coding + CI, a federated chat + messaging and a Store for publishing and pledging libre content to break the dependency on proprietary offerings."
 
 % Computers/Software/Music
 http://qmmp.ylsoftware.com/ QMMP is an excellent Qt-based audio-player which is compatible with Winamp skins and is extensible via plugins.
