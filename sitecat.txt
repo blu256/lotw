@@ -119,7 +119,8 @@ https://www.gutenberg.org/ Project Gutenberg is a library of over 60,000 free eB
 ; https://www.raspberrypi.com/ Raspberry Pi is a brand of tiny and affordable computers (some below $5) and "an affordable way to do something useful, or to do something fun". Raspberry Pi computers are reportedly being used "from interactive museum exhibits and schools to national postal sorting offices and government call centres".
 ; Link of the day 2022-08-10
 ; https://hackertyper.com/ With this you can pretend you are a true Hollywood movie h4xx0r!g
-https://www.qemu.org/ QEMU is a FOSS virtual machine/machine emulator. It can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC).
+; Link of the day 2022-10-21
+; https://www.qemu.org/ QEMU is a FOSS virtual machine/machine emulator. It can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC).
 http://www.therestartpage.com/ An interactive tribute to the rebooting process of different vintage operating systems. Never stop rebooting!
 https://medium.com/@mortenjust/i-doomed-mankind-with-a-free-text-editor-ba6003319681 An open-source text editor which limits you to the 1,000 most commonly used words, and what came out of it.
 
