@@ -7,6 +7,7 @@
 # ------------------------------------
 
 from os       import environ
+from sys      import argv
 from random   import choice
 from datetime import datetime as dt
 import re
@@ -28,7 +29,13 @@ DEBUG_DO_NOT_COMMENT = False
 #################################
 
 SITECAT = "sitecat.txt"
-entries = []
+
+lotd_entries      = []
+throwback_entries = []
+
+MODE = "lotd"
+if len(argv) > 1 and argv[1] == "throwback":
+  MODE = "throwback"
 
 if DEBUG_CHECK_LINKS:
   DEBUG_SKIP_MASTODON  = True
@@ -50,6 +57,10 @@ except FileNotFoundError:
 lines = catalog.readlines()
 catalog.close()
 
+# Used by throwback mode
+type     = None
+date     = None
+
 category = None
 for line in enumerate(lines):
   i = line[0]
@@ -59,9 +70,16 @@ for line in enumerate(lines):
   if not len(l):
     continue
 
-  # Skip comments
+  # Skip comments except if it is a LOTW/LOTD identifier
   if l[0] == ";":
-    continue
+    if date is None:
+      result = re.search("; Link of the (day|week) ([\d]{4,4}-[\d]{2,2}-[\d]{2,2})", l)
+      if result:
+        type = result.group(1)
+        date = result.group(2)
+      continue
+    else:
+      l = l[2:]
 
   # Store current category
   if l[0] == "%":
@@ -71,31 +89,42 @@ for line in enumerate(lines):
   # Parse entries
   ls = l.split(" ")
   try:
-    entries.append(
-      {
-        'line': i,
-        'link': ls[0],
-        'desc': " ".join(ls[1:]),
-        'cat' : category,
-        'cats': "no category" if category is None else " » ".join(category)
-      }
-    )
+    entry = {
+      'line': i,
+      'link': ls[0],
+      'desc': " ".join(ls[1:]),
+      'cat' : category,
+      'cats': "no category" if category is None else " » ".join(category),
+    }
+
+    if date is None and MODE == "lotd":
+      lotd_entries.append(entry)
+
+    elif date:
+      entry['date'] = date
+      entry['type'] = type or "day"
+      throwback_entries.append(entry)
+      date = None
+      type = None
 
   except:
     print("Warning: line {} is probably faulty".format(i))
+    date = None
     pass # skip faulty lines
 
-def prepareMessage(lotw):
+def prepareMessage(link):
+  global MODE
+
   # Pick tags based on category
-  tags = ["lotw"]
-  for c in reversed(lotw['cat']):
+  tags = ["lotd"]
+  for c in reversed(link['cat']):
     tags.append(c.strip().lower().replace('-','').replace(' ',''))
 
   # Pick appropriate tags based on protocol
-  if lotw['link'].startswith("http"):
+  if link['link'].startswith("http"):
     tags += ["web"]
 
-  elif lotw['link'].startswith("gemini"):
+  elif link['link'].startswith("gemini"):
     tags += ["gemini"]
 
   # Add hashes to tags
@@ -103,38 +132,59 @@ def prepareMessage(lotw):
     tags[t[0]] = "#" + t[1]
 
   # Pick out hashtags from description
-  tags += re.findall(r"#[A-Za-z0-9_]*", lotw['desc'])
+  tags += re.findall(r"#[A-Za-z0-9_]*", link['desc'])
 
   # Compose the toot
-  message  = f"📎 Link of the day: {lotw['link']}\n"
-  message += f"📂 Category: {lotw['cats']}\n"
-  message += f"\n{lotw['desc']}\n\n"
+  message = ""
+  if MODE == "lotd":
+    message += f"📎 Link of the day: {link['link']}\n"
+  else:
+    message +=  "🕖 Link of the day THROWBACK\n"
+    message += f"This day, one year ago...\n\n"
+    message += f"📎 Link of the {link['type']}: {link['link']}\n"
+  message += f"📂 Category: {link['cats']}\n"
+  message += f"\n{link['desc']}\n\n"
   message += " ".join(tags)
   return message
 
 # Pick a random link
 if DEBUG_CHECK_LINKS:
-  for l in entries:
+  for l in lotd_entries:
     message = prepareMessage(l)
     if len(message) > 500:
       print(f"{l['link']}: Message length exceeds 500 characters! Make the description shorter!")
   print("Check completed")
   exit(0)
 else:
-  lotw = choice(entries)
-  message = prepareMessage(lotw)
+  l = None
+  message = None
+  if MODE == "lotd":
+    l = choice(lotd_entries)
+  else:
+    for entry in throwback_entries:
+      link_date = dt.strptime(entry['date'], "%Y-%m-%d")
+      today     = dt.now()
+      delta = today - link_date
+      if delta.days == 365:
+        l = entry
+
+  if l is not None:
+    message = prepareMessage(l)
 
 # Post it!
-if not DEBUG_SKIP_MASTODON:
-  client.toot(message)
-else:
+if message:
+  if not DEBUG_SKIP_MASTODON:
+    client.toot(message)
+  else:
     print(message)
+else:
+  print("Nothing to post")
 
 # Comment out the link
-if not DEBUG_DO_NOT_COMMENT:
+if not DEBUG_DO_NOT_COMMENT and not MODE == "throwback":
   timestamp = dt.now().strftime("%Y-%m-%d")
-  lines.insert( lotw['line'], "; Link of the day {}\n".format(timestamp) )
-  lines[ lotw['line']+1 ] = "; " + lines[ lotw['line']+1 ]
+  lines.insert( lotd['line'], "; Link of the day {}\n".format(timestamp) )
+  lines[ lotd['line']+1 ] = "; " + lines[ lotd['line']+1 ]
 
   # Write the file back
   catalog = open(SITECAT, "w")
