@@ -161,6 +161,7 @@ http://web.archive.org/ Wayback Machine allows you to see websites as they were 
 ; https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
 ; Link of the day 2022-08-26
 ; https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
+https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
 
 % Computers/Internet/Services
 ; Link of the day 2022-07-11
@@ -388,6 +389,8 @@ https://trypap.com/ This is the "Passive Aggressive Password Machine". It helps 
 ; https://www.kamogo.com/4 The greatest Windows game of all time re-created: window dragging!
 ; Link of the day 2022-10-04
 ; https://hmpg.net/ Does the Internet have an end? Apparently, yes.
+http://www.thisman.org/oldsite/index.htm "Ever dream this man? Every night throughout the world hundreds of people dream about this face". An Internet legend, for sure.
+https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization documented by the collaborative writing wiki project of the same name. Within the website's shared universe, the Foundation is responsible for capturing and containing mysterious phenomena while keeping their existence hidden from the rest of human society.
 
 % Fun/Virtual Museums
 ; Link of the day 2022-08-30
@@ -416,6 +419,7 @@ https://trypap.com/ This is the "Passive Aggressive Password Machine". It helps 
 ; http://www.freechocolate.com/ Ever had a chocolate bar transmitted to your fridge over the Internet? This website claims to be the world's first one to offer... DOWNLOADABLE CHOCOLATE!
 ; Link of the day 2022-09-14
 ; http://www.byronknoll.com/earth.html Play with the Earth as if it was a large squishy ball!
+https://knowyourmeme.com/ Know Your Meme is a website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
