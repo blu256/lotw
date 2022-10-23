@@ -247,7 +247,8 @@ https://js1k.com/ The JavaScript code golfing competition.  It runs yearly, usua
 ; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching research and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
 ; Link of the day 2022-09-22
 ; https://tic80.com/ TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games (contributed by @moddedBear@fosstodon.org).
-https://godotengine.org/ Godot is a popular FOSS game engine which provides a huge set of common tools, so you can just focus on making your 2D or 3D game without reinventing the wheel.
+; Link of the day 2022-10-23
+; https://godotengine.org/ Godot is a popular FOSS game engine which provides a huge set of common tools, so you can just focus on making your 2D or 3D game without reinventing the wheel.
 
 % Computer/Development/Web
 ; Link of the week 2022-04-04 (week 14)
