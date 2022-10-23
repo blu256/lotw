@@ -148,6 +148,8 @@ def prepareMessage(link):
   return message
 
 # Pick a random link
+link = None
+message = None
 if DEBUG_CHECK_LINKS:
   for l in lotd_entries:
     message = prepareMessage(l)
@@ -156,20 +158,18 @@ if DEBUG_CHECK_LINKS:
   print("Check completed")
   exit(0)
 else:
-  l = None
-  message = None
   if MODE == "lotd":
-    l = choice(lotd_entries)
+    link = choice(lotd_entries)
   else:
     for entry in throwback_entries:
       link_date = dt.strptime(entry['date'], "%Y-%m-%d")
       today     = dt.now()
       delta = today - link_date
       if delta.days == 365:
-        l = entry
+        link = entry
 
-  if l is not None:
-    message = prepareMessage(l)
+  if link is not None:
+    message = prepareMessage(link)
 
 # Post it!
 if message:
@@ -183,8 +183,8 @@ else:
 # Comment out the link
 if not DEBUG_DO_NOT_COMMENT and not MODE == "throwback":
   timestamp = dt.now().strftime("%Y-%m-%d")
-  lines.insert( lotd['line'], "; Link of the day {}\n".format(timestamp) )
-  lines[ lotd['line']+1 ] = "; " + lines[ lotd['line']+1 ]
+  lines.insert( link['line'], "; Link of the day {}\n".format(timestamp) )
+  lines[ link['line']+1 ] = "; " + lines[ link['line']+1 ]
 
   # Write the file back
   catalog = open(SITECAT, "w")
