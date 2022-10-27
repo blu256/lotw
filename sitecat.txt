@@ -43,7 +43,8 @@
 % Arts/Music
 ; Link of the day 2022-07-21
 ; gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
-https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According to this article, the new numbers on music consumption are very ugly and the creative culture is losing its ability to innovate.
+; Link of the day 2022-10-27
+; https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According to this article, the new numbers on music consumption are very ugly and the creative culture is losing its ability to innovate.
 
 % Arts/Music/Making
 ; Link of the day 2022-07-19
