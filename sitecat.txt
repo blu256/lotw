@@ -476,7 +476,8 @@ https://yewtu.be/watch?v=q6EoRBvdVPQ Yee!
 ; https://dilbert.com Dilbert is the big classic name of web-comics and the stamp of workplace humour. If you haven't read Dilbert, you're missing out an Office Space climate and probably don't know what (or who) PHB stands for!
 ; Link of the day 2022-08-24
 ; https://garfieldminusgarfield.net Have you ever imagined how the Garfield comic would be without its protagonist? "Garfield Minus Garfield is a site dedicated to removing Garfield from the Garfield comic strips in order to reveal the existential angst of a certain young Mr. Jon Arbuckle."
-https://www.eviscerati.org/comics/hd/ Help Desk is a webcomic by @ubersoft@mastodon.social revolving around Ubersoft, an evil tech megacorportation, mostly through the eyes of a help desk technician working there.
+; Link of the day 2022-10-28
+; https://www.eviscerati.org/comics/hd/ Help Desk is a webcomic by @ubersoft@mastodon.social revolving around Ubersoft, an evil tech megacorportation, mostly through the eyes of a help desk technician working there.
 
 % Informational/Licenses
 https://creativecommons.org/about/cclicenses/ The website of the Creative Commons licences, which give every person and organization in the world a free, simple, and standardized way to grant copyright permissions for creative and academic works; ensure proper attribution; and allow others to copy, distribute, and make use of those works.
