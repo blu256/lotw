@@ -394,7 +394,8 @@ https://trypap.com/ This is the "Passive Aggressive Password Machine". It helps 
 ; https://www.kamogo.com/4 The greatest Windows game of all time re-created: window dragging!
 ; Link of the day 2022-10-04
 ; https://hmpg.net/ Does the Internet have an end? Apparently, yes.
-http://www.thisman.org/oldsite/index.htm "Ever dream this man? Every night throughout the world hundreds of people dream about this face". An Internet legend, for sure.
+; Link of the day 2022-10-29
+; http://www.thisman.org/oldsite/index.htm "Ever dream this man? Every night throughout the world hundreds of people dream about this face". An Internet legend, for sure.
 https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization documented by the collaborative writing wiki project of the same name. Within the website's shared universe, the Foundation is responsible for capturing and containing mysterious phenomena while keeping their existence hidden from the rest of human society.
 
 % Fun/Virtual Museums
