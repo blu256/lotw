@@ -425,7 +425,8 @@ https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization 
 ; http://www.freechocolate.com/ Ever had a chocolate bar transmitted to your fridge over the Internet? This website claims to be the world's first one to offer... DOWNLOADABLE CHOCOLATE!
 ; Link of the day 2022-09-14
 ; http://www.byronknoll.com/earth.html Play with the Earth as if it was a large squishy ball!
-https://knowyourmeme.com/ Know Your Meme is a website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
+; Link of the day 2022-10-30
+; https://knowyourmeme.com/ Know Your Meme is a website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
