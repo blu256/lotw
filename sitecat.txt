@@ -146,7 +146,8 @@ https://medium.com/@mortenjust/i-doomed-mankind-with-a-free-text-editor-ba600331
 ; https://wiby.me Wiby is a search engine which is building a web of pages as it was in the earlier days of the internet.
 ; Link of the week 2022-03-21 (week 12)
 ; https://www.searx.space SearX is a powerful and FOSS metasearch engine which can be hosted by anyone. Searx.space provides an up-to-date list with public SearX instances which can be accessed by anyone.
-http://web.archive.org/ Wayback Machine allows you to see websites as they were in a given point in the past. Internet Archive, the company behind it, also offers a trove of freely accessible or borrowable books, movies, documents, pictures and software.
+; Link of the day 2022-11-01
+; http://web.archive.org/ Wayback Machine allows you to see websites as they were in a given point in the past. Internet Archive, the company behind it, also offers a trove of freely accessible or borrowable books, movies, documents, pictures and software.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
