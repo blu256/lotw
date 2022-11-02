@@ -124,7 +124,8 @@
 ; Link of the day 2022-10-21
 ; https://www.qemu.org/ QEMU is a FOSS virtual machine/machine emulator. It can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC).
 http://www.therestartpage.com/ An interactive tribute to the rebooting process of different vintage operating systems. Never stop rebooting!
-https://medium.com/@mortenjust/i-doomed-mankind-with-a-free-text-editor-ba6003319681 An open-source text editor which limits you to the 1,000 most commonly used words, and what came out of it.
+; Link of the day 2022-11-02
+; https://medium.com/@mortenjust/i-doomed-mankind-with-a-free-text-editor-ba6003319681 An open-source text editor which limits you to the 1,000 most commonly used words, and what came out of it.
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
