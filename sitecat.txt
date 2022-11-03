@@ -165,7 +165,8 @@ http://www.therestartpage.com/ An interactive tribute to the rebooting process o
 ; https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
 ; Link of the day 2022-08-26
 ; https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
-https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
+; Link of the day 2022-11-03
+; https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
 
 % Computers/Internet/Services
 ; Link of the day 2022-07-11
