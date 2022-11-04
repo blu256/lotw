@@ -388,7 +388,8 @@ http://you.regettingold.com "Do you think time is catching up with you? Perhaps 
 ; https://awkwardfamilyphotos.com Awkward Family Photos is what it sounds like -- a collection of cringe-worthy family photos. From terrible hairdos and outfits to costume-themed family portraits, this site might offer you a weird little family-themed amount of fun.
 ; Link of the day 2022-08-28
 ; https://www.autocorrectfail.org "This site is a collection of Auto Correct fails and tribulations that people have experienced". That is, it's a collection of WTF Auto Correct moments and messages that made the sender exclaim “damn you autocorrect!” shortly after sending them.
-https://en.uncyclopedia.co/wiki/Main_Page Uncyclopedia is the weird twin of Wikipedia. It describes itself as "the content-free encyclopedia that anyone can edit".
+; Link of the day 2022-11-04
+; https://en.uncyclopedia.co/wiki/Main_Page Uncyclopedia is the weird twin of Wikipedia. It describes itself as "the content-free encyclopedia that anyone can edit".
 https://twelvethirty.media/communications/fun-404-pages/ This is a small collection of fun 404 error pages.
 ; Link of the day 2022-10-31
 ; https://trypap.com/ This is the "Passive Aggressive Password Machine". It helps you pick a good password. Well, at least it tries to do so...
