@@ -473,7 +473,8 @@ http://osmocom-analog.eversberg.eu/ Osmocom-Analog is "a project that documents 
 ; https://www.yewtu.be/watch?v=w0AOGeqOnFY 🎧 The Coconut Song. And remember: coconuts aren't nuts!
 ; Link of the day 2022-10-19
 ; https://yewtu.be/watch?v=jIQ6UV2onyI (You're going to get me for this one, I just know it 😅)
-https://yewtu.be/watch?v=q6EoRBvdVPQ Yee!
+; Link of the day 2022-11-06
+; https://yewtu.be/watch?v=q6EoRBvdVPQ Yee!
 
 % Fun/Web-Comics
 ; Link of the week 2022-01-17 (week 03)
