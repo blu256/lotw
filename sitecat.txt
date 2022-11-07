@@ -375,7 +375,8 @@ http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating syste
 ; https://www.goodnewsnetwork.org  Good News Network describes itself as "an antidote to the barrage of negativity experienced in the mainstream media". It features stories with exclusively positive vibes, in contrast to traditional media.
 http://you.regettingold.com "Do you think time is catching up with you? Perhaps it's already overtaken you and left you in the dust." This nasty wesite will use every fact in its book to make you feel REALLY old. ;-)
 http://hacks.mit.edu/ The word "hack" at MIT usually refers to a clever, benign, and "ethical" prank or practical joke, which is both challenging for the perpetrators and amusing to the rest. The IHTFP Gallery is dedicated to documenting the history of epic MIT "hacks". 
-https://www.atrixnet.com/bs-generator.html "For the ambitious business professional looking to get ahead in the industry. Dazzle all the execs at your next business meeting" with this so-called Corporate Bullshit generator.
+; Link of the day 2022-11-07
+; https://www.atrixnet.com/bs-generator.html "For the ambitious business professional looking to get ahead in the industry. Dazzle all the execs at your next business meeting" with this so-called Corporate Bullshit generator.
 https://tvtropes.org/ TV Tropes is a wiki which describe and collect examples of Tropes in Media.  A trope is a narrative device or convention used in storytelling or production of a creative work.
 http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
 
