@@ -245,7 +245,8 @@ https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all
 ; https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
 
 % Computers/Development/Code golfing
-https://js1k.com/ The JavaScript code golfing competition.  It runs yearly, usually in or around February/March. You must submit a self-contained demo in 1024 bytes of pure JS, which in turn may use various web technologies (submitted by @1ynx@tech.lgbt).
+; Link of the day 2022-11-08
+; https://js1k.com/ The JavaScript code golfing competition.  It runs yearly, usually in or around February/March. You must submit a self-contained demo in 1024 bytes of pure JS, which in turn may use various web technologies (submitted by @1ynx@tech.lgbt).
 ; Link of the day 2022-10-06
 ; https://ioccc.org/ The site of the International Obfuscated C Code Contest, whose goals are (among others) to show the importance of programming style, in an ironic way; to stress C compilers with unusual code; to illustrate some of the subtleties of the C language and to provide a safe forum for poor C code.
 
