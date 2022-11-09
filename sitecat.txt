@@ -379,7 +379,8 @@ http://hacks.mit.edu/ The word "hack" at MIT usually refers to a clever, benign,
 ; Link of the day 2022-11-07
 ; https://www.atrixnet.com/bs-generator.html "For the ambitious business professional looking to get ahead in the industry. Dazzle all the execs at your next business meeting" with this so-called Corporate Bullshit generator.
 https://tvtropes.org/ TV Tropes is a wiki which describe and collect examples of Tropes in Media.  A trope is a narrative device or convention used in storytelling or production of a creative work.
-http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
+; Link of the day 2022-11-09
+; http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
