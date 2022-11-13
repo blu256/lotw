@@ -462,7 +462,8 @@ http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous,
 ; https://websdr.org/ A WebSDR is a software-controlled radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously. WebSDR.org provides a catalog of such receivers on the Web.
 ; Link of the day 2022-08-05
 ; https://short-wave.info/ Short-wave.info is a database of all the short wave broadcasts being transmitted by the majority of the world's international radio stations. Effectively, it allows you to check the reception of a short-wave frequency in any corner of the world. It also contains essential practical knowledge related to short-wave radio.
-http://osmocom-analog.eversberg.eu/ Osmocom-Analog is "a project that documents the functionality and knowledge of former analogue mobile networks. The included software allows the emulation of these mobile networks to communicate with Historical mobile phones again."
+; Link of the day 2022-11-13
+; http://osmocom-analog.eversberg.eu/ Osmocom-Analog is "a project that documents the functionality and knowledge of former analogue mobile networks. The included software allows the emulation of these mobile networks to communicate with Historical mobile phones again."
 ; Link of the day 2022-11-05
 ; http://priyom.org Priyom is an international organization intending to research and bring to light the mysterious reality of intelligence, military and diplomatic communication via shortwave radio (number stations).
 
