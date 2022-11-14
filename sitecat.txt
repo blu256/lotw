@@ -425,7 +425,8 @@ https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization 
 ; http://www.officemuseum.com/ The Early Office Museum engages in research on the history and evolution of offices, antique office machines and equipment, and business technology based on original documents, artifacts, and vintage photographs.
 ; Link of the day 2022-10-03
 ; https://www.oldest.org/ Oldest.org (and its sister projects, Largest.org and Rarest.org) are blogs that feature the oldest (or largest or rarest) things in the world, organised by category.
-http://www.obsoletecomputermuseum.org/ The Obsolete Computer Museum (since 1995) is "a place to stop by and reminisce about the old days of personal computing." It's a sizeable collection of old computers with protographs and short descriptions.
+; Link of the day 2022-11-14
+; http://www.obsoletecomputermuseum.org/ The Obsolete Computer Museum (since 1995) is "a place to stop by and reminisce about the old days of personal computing." It's a sizeable collection of old computers with protographs and short descriptions.
 ; Link of the day 2022-11-12
 ; http://www.illusions.org/ This website is a collection of "around 100 optical illusions to browse through involving patterns, colors and shapes."
 http://home.snafu.de/tilman/mozilla/ This is the Mozilla Museum, a website dedicated to collecting pictures of Mozilla, the old mascot of Netscape, which has gradually disappeared.
