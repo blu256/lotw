@@ -129,6 +129,17 @@ https://infiniteconversation.com/ Infinite Conversation is "an AI generated, nev
 ; http://www.therestartpage.com/ An interactive tribute to the rebooting process of different vintage operating systems. Never stop rebooting!
 ; Link of the day 2022-11-02
 ; https://medium.com/@mortenjust/i-doomed-mankind-with-a-free-text-editor-ba6003319681 An open-source text editor which limits you to the 1,000 most commonly used words, and what came out of it.
+; Link of the day 2022-07-03
+; https://jspaint.app A nearly pixel-perfect fully functional imitation of MS Paint from Windows XP for your browser.
+; Link of the day 2022-08-03
+; https://www.smore.com/clippy-js Clippy.js is a full Javascript implementation of Microsoft Agent (AKA Clippy and friends), ready to be embedded in any website.
+; Link of the day 2022-07-27
+; https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
+; Link of the day 2022-08-26
+; https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
+; Link of the day 2022-11-03
+; https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
+http://www.catb.org/~esr/jargon/html/index.html The Jargon File, your definitive guide to the hackers' slang, "illuminating many aspects of hackish tradition, folklore, and humor". (Hacker, in its original sense, means "a person who enjoys exploring the details of programmable systems and how to stretch their capabilities".
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
@@ -144,6 +155,7 @@ https://infiniteconversation.com/ Infinite Conversation is "an AI generated, nev
 ; http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
 ; Link of the day 2022-09-27
 ; https://winxp.vercel.app/ An Windows XP parody that actually looks the part quite well — but is functionally incomplete.
+https://derplayer.neocities.org/repo/win/ This is a really good Windows 95 simulation which even includes support for emulating some if the era's games via the Internet Archive!
 
 % Computers/Fun/Weird
 https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "Windows bugs, mistakes and screw-ups" from Windows 95 to Windows XP.
@@ -161,18 +173,6 @@ https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "
 ; gemini://warmedal.se/~antenna Antenna is a Geminispace feed aggregator with a twist. It's not based on a feed list it periodically checks, but instead takes feed URLs as user input and puts them in a queue.
 ; Link of the day 2022-09-23
 ; gemini://skyjake.fi/~Cosmos Cosmos is a Geminispace feed aggregator with a twist: it groups a post with the posts that reply or link to it. This helps you find related posts and conversations very easily.
-
-% Computers/Internet/Fun
-; Link of the day 2022-07-03
-; https://jspaint.app A nearly pixel-perfect fully functional imitation of MS Paint from Windows XP for your browser.
-; Link of the day 2022-08-03
-; https://www.smore.com/clippy-js Clippy.js is a full Javascript implementation of Microsoft Agent (AKA Clippy and friends), ready to be embedded in any website.
-; Link of the day 2022-07-27
-; https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
-; Link of the day 2022-08-26
-; https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
-; Link of the day 2022-11-03
-; https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
 
 % Computers/Internet/Services
 ; Link of the day 2022-07-11
@@ -204,6 +204,7 @@ https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all
 % Computers/History
 ; Link of the week 2022-03-07 (week 10)
 ; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
+https://www.mit.edu/people/mkgray/net/web-growth-summary.html This page contains some really old data on the growth of the Web (June '93 to January '97).
 
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
@@ -226,6 +227,8 @@ https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all
 ; https://xptour.neocities.org/index.html The Windows XP Tour, as featured in the omonymous operating system in the early 00s.
 ; Link of the day 2022-09-17
 ; https://www.noupe.com/inspiration/history-of-old-nokia-phones.html This article speaks of some of the most notable mobile phone models of ye olde Nokia brand (yes, "feature phones").
+; Link of the day 2022-09-26
+; https://www.phonearena.com/news/7-phones-collectors-items-worth-serious-money_id102063 Rare phone models that due to an occasion or another have come written their own history and become precious gems for tech collectors.
 
 % Computers/Development
 ; Link of the week 2022-01-31 (week 05)
@@ -353,6 +356,9 @@ http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating syste
 ; https://www.ted.com/ TED is a media organization that publishes talks on various topics online. The talks are free for personal learning. TED's slogan is "ideas worth spreading". Currently over 3.500 TED Talks are freely available on their website.
 
 
+% Education/Academia
+https://journalofillusion.net This is the Journal of Illusion, an open-access journal that wants to promote the study of illusion. It focuses more on exploratory research rather than theoretic, in contrast to most scientific journals, and actually contains a lot of mind-bending illusions!
+
 % Education/Opinions
 ; Link of the day 2022-09-01
 ; https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html The real-life experience of a university professor who witnessed how his students cheated on online tests via group chat — and how he managed to put an end on it.
@@ -371,7 +377,6 @@ http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating syste
 ;;  Fun
 ;;
 
-
 % Fun
 ; Link of the day 2022-09-30
 ; https://www.goodnewsnetwork.org  Good News Network describes itself as "an antidote to the barrage of negativity experienced in the mainstream media". It features stories with exclusively positive vibes, in contrast to traditional media.
@@ -380,19 +385,19 @@ http://hacks.mit.edu/ The word "hack" at MIT usually refers to a clever, benign,
 ; Link of the day 2022-11-07
 ; https://www.atrixnet.com/bs-generator.html "For the ambitious business professional looking to get ahead in the industry. Dazzle all the execs at your next business meeting" with this so-called Corporate Bullshit generator.
 https://tvtropes.org/ TV Tropes is a wiki which describe and collect examples of Tropes in Media.  A trope is a narrative device or convention used in storytelling or production of a creative work.
+https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
+https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
+
+% Fun/Language
 ; Link of the day 2022-11-09
 ; http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
+http://13d.org/esofword/ This is the Archive of Endangered, Special or Fun Words. It contains a lot of mind-boggling words that you might never hear or read, but which nonetheless do exist out there, as well as some words which are special or fun in their own ways. Some words are a combination of all those.
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
 ; http://www.slightlyinteresting.com/forest/ Plant a forest straight in your browser! Watch your trees grow, then move them around at will, constructing your very own enchanted forest.
 ; Link of the day 2022-10-12
 ; http://web.archive.org/web/20220808235949/https://www.bbc.com/future/bespoke/story/20150306-journey-to-the-centre-of-earth/index.html How far would you have to travel to reach the Earth's core? And what would you see along the way? Discover what lies beneath. A BBC Future project.
-
-
-% Fun/Collector's Delight
-; Link of the day 2022-09-26
-; https://www.phonearena.com/news/7-phones-collectors-items-worth-serious-money_id102063 Rare phone models that due to an occasion or another have come written their own history and become precious gems for tech collectors.
 
 % Fun/Weird
 ; Link of the week 2022-06-13 (week 24)
@@ -417,8 +422,10 @@ https://twelvethirty.media/communications/fun-404-pages/ This is a small collect
 https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization documented by the collaborative writing wiki project of the same name. Within the website's shared universe, the Foundation is responsible for capturing and containing mysterious phenomena while keeping their existence hidden from the rest of human society.
 ; Link of the day 2022-11-10
 ; http://llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.co.uk/ The website of Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales with the longest valid Internet domain name in the world.
+https://www.crouton.net/ The Web, as we know, consists of web pages, right? Well, forget that, here's a crouton floating the voids of the Web.
+https://www.cameronsworld.net/ This website is "a love letter to the Internet of old" (read: GeoCities). It's a page of text and graphics "excavated" from archived GeoCities pages (1994-2009) which serves as a "tribute to the lost days of unrefined self-expression on the Internet". (Warning: your eyes might not be grateful to you for this).
 
-% Fun/Virtual Museums
+% Fun/Collections
 ; Link of the day 2022-08-30
 ; https://www.collectorsweekly.com/hall-of-fame/ A hall of fame of websites, virtual museums and collections devoted to aspects of antique and vintage times.
 ; Link of the day 2022-09-24
@@ -431,8 +438,12 @@ https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization 
 ; http://www.illusions.org/ This website is a collection of "around 100 optical illusions to browse through involving patterns, colors and shapes."
 http://home.snafu.de/tilman/mozilla/ This is the Mozilla Museum, a website dedicated to collecting pictures of Mozilla, the old mascot of Netscape, which has gradually disappeared.
 http://www.robothalloffame.org/ The Robot Hall of Fame recognizes excellence in robotics technology worldwide and honors the fictional and real robots that have inspired and made breakthrough accomplishments in robotics. The Robot Hall of Fame was created by Carnegie Mellon University in April 2003 to call attention to the increasing contributions of robots to society.
+https://www.leningrad.su/museum/main.php?lang=0 This is a virtual museum devoted to Soviet digital electonics. A rather large collection with pictures of vintage USSR-era computers (even homemade ones!) with labels in English.
+http://thegalleryofmonstertoys.com/ "The Gallery of Monster Toys is dedicated to preserving a disappearing facet of our popular culture. Vintage [1960s to 1990s] monster toys [which] are typically overlooked by collectors, largely because they seem obsolete in today's world."
+https://inthe90s.com Do you miss the 90s? This is a website dedicated to all things 90s (along with its siblings, https://inthe70s.com and https://inthe80s.com).
+https://miningartifacts.homestead.com This is a website dedicated to mining history, to those who "daily faced the danger, uncertainty, darkness, dampness, heat and cold of mining". Contains a lot of vintage photographs and a big collection of mining equipment.
 
-% Fun/Virtual Museums/Weird
+% Fun/Collections/Weird
 ; Link of the day 2022-08-25
 ; http://www.carrotmuseum.co.uk/ "The first virtual museum in the world entirely devoted to the history, evolution, science, sociology and art of Carrots." Yes, you read that right 🥕
 ; Link of the day 2022-10-08
@@ -455,7 +466,7 @@ http://www.robothalloffame.org/ The Robot Hall of Fame recognizes excellence in 
 ; https://knowyourmeme.com/ Know Your Meme is a website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 ; Link of the day 2022-11-15
 ; http://web.archive.org/web/20050219035413/http://www.laundry-alternative.com/fateofmissingsocks.html Laundry: A Quantum Mechanical Approach, a text trying to explain the fate of missing socks using maths and quantum mechanics.
-http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh?
+http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh? I only hope this guy was not serious...
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
