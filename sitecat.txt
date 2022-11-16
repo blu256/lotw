@@ -525,7 +525,8 @@ http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous,
 ; https://www.eviscerati.org/comics/hd/ Help Desk is a webcomic by @ubersoft@mastodon.social revolving around Ubersoft, an evil tech megacorportation, mostly through the eyes of a help desk technician working there.
 
 % Informational/Licenses
-https://creativecommons.org/about/cclicenses/ The website of the Creative Commons licences, which give every person and organization in the world a free, simple, and standardized way to grant copyright permissions for creative and academic works; ensure proper attribution; and allow others to copy, distribute, and make use of those works.
+; Link of the day 2022-11-16
+; https://creativecommons.org/about/cclicenses/ The website of the Creative Commons licences, which give every person and organization in the world a free, simple, and standardized way to grant copyright permissions for creative and academic works; ensure proper attribution; and allow others to copy, distribute, and make use of those works.
 
 
 % Informational/Everyday life
