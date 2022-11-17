@@ -423,7 +423,8 @@ https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization 
 ; Link of the day 2022-11-10
 ; http://llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.co.uk/ The website of Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales with the longest valid Internet domain name in the world.
 https://www.crouton.net/ The Web, as we know, consists of web pages, right? Well, forget that, here's a crouton floating the voids of the Web.
-https://www.cameronsworld.net/ This website is "a love letter to the Internet of old" (read: GeoCities). It's a page of text and graphics "excavated" from archived GeoCities pages (1994-2009) which serves as a "tribute to the lost days of unrefined self-expression on the Internet". (Warning: your eyes might not be grateful to you for this).
+; Link of the day 2022-11-17
+; https://www.cameronsworld.net/ This website is "a love letter to the Internet of old" (read: GeoCities). It's a page of text and graphics "excavated" from archived GeoCities pages (1994-2009) which serves as a "tribute to the lost days of unrefined self-expression on the Internet". (Warning: your eyes might not be grateful to you for this).
 
 % Fun/Collections
 ; Link of the day 2022-08-30
