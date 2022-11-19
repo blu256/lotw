@@ -443,7 +443,8 @@ https://www.leningrad.su/museum/main.php?lang=0 This is a virtual museum devoted
 ; Link of the day 2022-11-18
 ; http://thegalleryofmonstertoys.com/ "The Gallery of Monster Toys is dedicated to preserving a disappearing facet of our popular culture. Vintage [1960s to 1990s] monster toys [which] are typically overlooked by collectors, largely because they seem obsolete in today's world."
 https://inthe90s.com Do you miss the 90s? This is a website dedicated to all things 90s (along with its siblings, https://inthe70s.com and https://inthe80s.com).
-https://miningartifacts.homestead.com This is a website dedicated to mining history, to those who "daily faced the danger, uncertainty, darkness, dampness, heat and cold of mining". Contains a lot of vintage photographs and a big collection of mining equipment.
+; Link of the day 2022-11-19
+; https://miningartifacts.homestead.com This is a website dedicated to mining history, to those who "daily faced the danger, uncertainty, darkness, dampness, heat and cold of mining". Contains a lot of vintage photographs and a big collection of mining equipment.
 
 % Fun/Collections/Weird
 ; Link of the day 2022-08-25
