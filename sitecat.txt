@@ -421,7 +421,8 @@ https://twelvethirty.media/communications/fun-404-pages/ This is a small collect
 ; https://hmpg.net/ Does the Internet have an end? Apparently, yes.
 ; Link of the day 2022-10-29
 ; http://www.thisman.org/oldsite/index.htm "Ever dream this man? Every night throughout the world hundreds of people dream about this face". An Internet legend, for sure.
-https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization documented by the collaborative writing wiki project of the same name. Within the website's shared universe, the Foundation is responsible for capturing and containing mysterious phenomena while keeping their existence hidden from the rest of human society.
+; Link of the day 2022-11-22
+; https://scp-wiki.wikidot.com/ SCP Foundation is a fictional secret organization documented by the collaborative writing wiki project of the same name. Within the website's shared universe, the Foundation is responsible for capturing and containing mysterious phenomena while keeping their existence hidden from the rest of human society.
 ; Link of the day 2022-11-10
 ; http://llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.co.uk/ The website of Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales with the longest valid Internet domain name in the world.
 https://www.crouton.net/ The Web, as we know, consists of web pages, right? Well, forget that, here's a crouton floating the voids of the Web.
