@@ -160,7 +160,8 @@ http://www.catb.org/~esr/jargon/html/index.html The Jargon File, your definitive
 ; https://derplayer.neocities.org/repo/win/ This is a really good Windows 95 simulation which even includes support for emulating some if the era's games via the Internet Archive!
 
 % Computers/Fun/Weird
-https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "Windows bugs, mistakes and screw-ups" from Windows 95 to Windows XP.
+; Link of the day 2022-11-24
+; https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "Windows bugs, mistakes and screw-ups" from Windows 95 to Windows XP.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
