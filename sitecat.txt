@@ -474,7 +474,8 @@ https://inthe90s.com Do you miss the 90s? This is a website dedicated to all thi
 ; https://knowyourmeme.com/ Know Your Meme is a website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 ; Link of the day 2022-11-15
 ; http://web.archive.org/web/20050219035413/http://www.laundry-alternative.com/fateofmissingsocks.html Laundry: A Quantum Mechanical Approach, a text trying to explain the fate of missing socks using maths and quantum mechanics.
-http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh? I only hope this guy was not serious...
+; Link of the day 2022-11-25
+; http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh? I only hope this guy was not serious...
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
