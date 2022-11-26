@@ -394,7 +394,8 @@ https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it use
 % Fun/Language
 ; Link of the day 2022-11-09
 ; http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
-http://13d.org/esofword/ This is the Archive of Endangered, Special or Fun Words. It contains a lot of mind-boggling words that you might never hear or read, but which nonetheless do exist out there, as well as some words which are special or fun in their own ways. Some words are a combination of all those.
+; Link of the day 2022-11-26
+; http://13d.org/esofword/ This is the Archive of Endangered, Special or Fun Words. It contains a lot of mind-boggling words that you might never hear or read, but which nonetheless do exist out there, as well as some words which are special or fun in their own ways. Some words are a combination of all those.
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
