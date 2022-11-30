@@ -338,7 +338,8 @@ https://www.mit.edu/people/mkgray/net/web-growth-summary.html This page contains
 ; https://www.freebsd.org/ FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
 ; Link of the day 2022-07-17
 ; https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
-http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
+; Link of the day 2022-11-30
+; http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
