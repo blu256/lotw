@@ -416,7 +416,8 @@ https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it use
 ; https://www.autocorrectfail.org "This site is a collection of Auto Correct fails and tribulations that people have experienced". That is, it's a collection of WTF Auto Correct moments and messages that made the sender exclaim “damn you autocorrect!” shortly after sending them.
 ; Link of the day 2022-11-04
 ; https://en.uncyclopedia.co/wiki/Main_Page Uncyclopedia is the weird twin of Wikipedia. It describes itself as "the content-free encyclopedia that anyone can edit".
-https://twelvethirty.media/communications/fun-404-pages/ This is a small collection of fun 404 error pages.
+; Link of the day 2022-12-02
+; https://twelvethirty.media/communications/fun-404-pages/ This is a small collection of fun 404 error pages.
 ; Link of the day 2022-10-31
 ; https://trypap.com/ This is the "Passive Aggressive Password Machine". It helps you pick a good password. Well, at least it tries to do so...
 ; Link of the day 2022-10-14
