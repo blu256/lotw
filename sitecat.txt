@@ -393,7 +393,8 @@ http://you.regettingold.com "Do you think time is catching up with you? Perhaps 
 ; https://www.atrixnet.com/bs-generator.html "For the ambitious business professional looking to get ahead in the industry. Dazzle all the execs at your next business meeting" with this so-called Corporate Bullshit generator.
 ; Link of the day 2022-12-01
 ; https://tvtropes.org/ TV Tropes is a wiki which describe and collect examples of Tropes in Media.  A trope is a narrative device or convention used in storytelling or production of a creative work.
-https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
+; Link of the day 2022-12-04
+; https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
 https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
 
 % Fun/Language
