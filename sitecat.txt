@@ -451,7 +451,8 @@ https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it use
 ; http://www.obsoletecomputermuseum.org/ The Obsolete Computer Museum (since 1995) is "a place to stop by and reminisce about the old days of personal computing." It's a sizeable collection of old computers with protographs and short descriptions.
 ; Link of the day 2022-11-12
 ; http://www.illusions.org/ This website is a collection of "around 100 optical illusions to browse through involving patterns, colors and shapes."
-http://home.snafu.de/tilman/mozilla/ This is the Mozilla Museum, a website dedicated to collecting pictures of Mozilla, the old mascot of Netscape, which has gradually disappeared.
+; Link of the day 2022-12-07
+; http://home.snafu.de/tilman/mozilla/ This is the Mozilla Museum, a website dedicated to collecting pictures of Mozilla, the old mascot of Netscape, which has gradually disappeared.
 ; Link of the day 2022-11-23
 ; http://www.robothalloffame.org/ The Robot Hall of Fame recognizes excellence in robotics technology worldwide and honors the fictional and real robots that have inspired and made breakthrough accomplishments in robotics. The Robot Hall of Fame was created by Carnegie Mellon University in April 2003 to call attention to the increasing contributions of robots to society.
 https://www.leningrad.su/museum/main.php?lang=0 This is a virtual museum devoted to Soviet digital electonics. A rather large collection with pictures of vintage USSR-era computers (even homemade ones!) with labels in English.
