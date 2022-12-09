@@ -65,6 +65,9 @@
 ; Link of the day 2022-10-25
 ; https://www.gutenberg.org/ Project Gutenberg is a library of over 60,000 free eBooks available without registration and without the need for a special app.
 
+% Books/Sci-Fi
+https://douglasadams.com/ The personal website of Douglas Adams, the author of Hitchhiker's Guide to the Galaxy, still online and still looking like it's 1998.
+
 % Books/Sci-Fi/Trivia
 ; Link of the day 2022-10-13
 ; https://www.theguardian.com/books/2014/mar/19/lost-school-poems-douglas-adams-griff-rhys-jones Douglas Adams is the author behind The Hitchhiker's Guide to the Galaxy. Here are some unpublished poems that he wrote as a student for a literary society.
@@ -142,6 +145,7 @@ https://www.whichfaceisreal.com/ New machine learning algorithms allow people to
 ; https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
 ; Link of the day 2022-12-03
 ; http://www.catb.org/~esr/jargon/html/index.html The Jargon File, your definitive guide to the hackers' slang, "illuminating many aspects of hackish tradition, folklore, and humor". (Hacker, in its original sense, means "a person who enjoys exploring the details of programmable systems and how to stretch their capabilities".
+http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
@@ -163,6 +167,9 @@ https://www.whichfaceisreal.com/ New machine learning algorithms allow people to
 % Computers/Fun/Weird
 ; Link of the day 2022-11-24
 ; https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "Windows bugs, mistakes and screw-ups" from Windows 95 to Windows XP.
+
+% Computers/Internet
+https://twitterisgoinggreat.com/ A website dedicated to tracking all the good things™ going on at Twitter after Elon Musk was forced into buying it.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
@@ -291,6 +298,9 @@ https://www.mit.edu/people/mkgray/net/web-growth-summary.html This page contains
 ; Link of the week 2022-04-18 (week 16)
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
 
+% Computers/Cybersecurity
+https://it.tamu.edu/missinglink “The Missing Link – A Cybersecurity Mystery” is an online game that was created by the Division of Information Technology as part of National Cybersecurity Awareness Month. The game will test your cyber smarts and teach useful tips for staying safe online. More cybersecurity games are available at https://u.tamu.edu/games.
+
 % Computers/Software
 ; Link of the day 2022-09-21
 ; https://switching.software/ switching.software is a website that is trying to let people know about ethical and easy-to-use alternatives to well-known websites, apps and other software. There associated Fediverse account is: @switchingsoftware@mstdn.swiso.org.
@@ -310,6 +320,8 @@ https://www.mit.edu/people/mkgray/net/web-growth-summary.html This page contains
 ; https://github.com/NsCDE/NsCDE NsCDE is a retro but powerful UNIX desktop environment which resembles CDE look (and partially feel) but with a more powerful and flexible framework beneath-the-surface, more suited for 21st century unix-like and Linux systems and user requirements than original CDE. The look is quite ambivalent; either you love it or you hate it.
 ; Link of the day 2022-10-20
 ; https://www.opendesktop.org/ "OpenDesktop.org is one of the largest websites for the Free Software and Content community [...] offering services like libre File and Data storage, Coding + CI, a federated chat + messaging and a Store for publishing and pledging libre content to break the dependency on proprietary offerings."
+https://mate-desktop.org/ "The MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems. MATE is under active development to add support for new technologies while preserving a traditional desktop experience."
+https://www.compiz.org/ "Compiz is a compositing manager, which means that it enhances the overall user interaction by adding fancy effects to your windows, from drop shadows to awesome desktop effects like the Desktop Cube or the Expo view." And yes, it still rocks today.
 
 % Computers/Software/Music
 ; Link of the day 2022-10-24
@@ -404,12 +416,17 @@ https://journalofillusion.net This is the Journal of Illusion, an open-access jo
 ; http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
 ; Link of the day 2022-11-26
 ; http://13d.org/esofword/ This is the Archive of Endangered, Special or Fun Words. It contains a lot of mind-boggling words that you might never hear or read, but which nonetheless do exist out there, as well as some words which are special or fun in their own ways. Some words are a combination of all those.
+https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
 ; http://www.slightlyinteresting.com/forest/ Plant a forest straight in your browser! Watch your trees grow, then move them around at will, constructing your very own enchanted forest.
 ; Link of the day 2022-10-12
 ; http://web.archive.org/web/20220808235949/https://www.bbc.com/future/bespoke/story/20150306-journey-to-the-centre-of-earth/index.html How far would you have to travel to reach the Earth's core? And what would you see along the way? Discover what lies beneath. A BBC Future project.
+
+% Fun/Satire
+https://www.theonion.com The Onion ("America's Finest News Source") is a purely satirical online publication. It's like a newspaper, but more hilarious.
+https://www.theonion.com/the-onion-s-test-sweatshop-helps-you-get-in-shape-and-s-1849833678 This guide recommends the best products for helping you get in shape and stay in shape... well, depends on how you see it, anyway.
 
 % Fun/Weird
 ; Link of the week 2022-06-13 (week 24)
@@ -489,6 +506,7 @@ https://www.leningrad.su/museum/main.php?lang=0 This is a virtual museum devoted
 ; http://web.archive.org/web/20050219035413/http://www.laundry-alternative.com/fateofmissingsocks.html Laundry: A Quantum Mechanical Approach, a text trying to explain the fate of missing socks using maths and quantum mechanics.
 ; Link of the day 2022-11-25
 ; http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh? I only hope this guy was not serious...
+https://archive.org/details/palm3_tiktok Did you know that there was a TikTok version for Palm3? I'm totally serious...
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
