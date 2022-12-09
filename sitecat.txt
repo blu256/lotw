@@ -506,7 +506,8 @@ https://www.leningrad.su/museum/main.php?lang=0 This is a virtual museum devoted
 ; http://web.archive.org/web/20050219035413/http://www.laundry-alternative.com/fateofmissingsocks.html Laundry: A Quantum Mechanical Approach, a text trying to explain the fate of missing socks using maths and quantum mechanics.
 ; Link of the day 2022-11-25
 ; http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh? I only hope this guy was not serious...
-https://archive.org/details/palm3_tiktok Did you know that there was a TikTok version for Palm3? I'm totally serious...
+; Link of the day 2022-12-09
+; https://archive.org/details/palm3_tiktok Did you know that there was a TikTok version for Palm3? I'm totally serious...
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
