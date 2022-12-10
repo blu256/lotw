@@ -145,7 +145,8 @@ https://www.whichfaceisreal.com/ New machine learning algorithms allow people to
 ; https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
 ; Link of the day 2022-12-03
 ; http://www.catb.org/~esr/jargon/html/index.html The Jargon File, your definitive guide to the hackers' slang, "illuminating many aspects of hackish tradition, folklore, and humor". (Hacker, in its original sense, means "a person who enjoys exploring the details of programmable systems and how to stretch their capabilities".
-http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
+; Link of the day 2022-12-10
+; http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
