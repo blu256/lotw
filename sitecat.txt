@@ -66,7 +66,8 @@
 ; https://www.gutenberg.org/ Project Gutenberg is a library of over 60,000 free eBooks available without registration and without the need for a special app.
 
 % Books/Sci-Fi
-https://douglasadams.com/ The personal website of Douglas Adams, the author of Hitchhiker's Guide to the Galaxy, still online and still looking like it's 1998.
+; Link of the day 2022-12-11
+; https://douglasadams.com/ The personal website of Douglas Adams, the author of Hitchhiker's Guide to the Galaxy, still online and still looking like it's 1998.
 
 % Books/Sci-Fi/Trivia
 ; Link of the day 2022-10-13
