@@ -476,7 +476,8 @@ https://www.theonion.com/the-onion-s-test-sweatshop-helps-you-get-in-shape-and-s
 ; http://home.snafu.de/tilman/mozilla/ This is the Mozilla Museum, a website dedicated to collecting pictures of Mozilla, the old mascot of Netscape, which has gradually disappeared.
 ; Link of the day 2022-11-23
 ; http://www.robothalloffame.org/ The Robot Hall of Fame recognizes excellence in robotics technology worldwide and honors the fictional and real robots that have inspired and made breakthrough accomplishments in robotics. The Robot Hall of Fame was created by Carnegie Mellon University in April 2003 to call attention to the increasing contributions of robots to society.
-https://www.leningrad.su/museum/main.php?lang=0 This is a virtual museum devoted to Soviet digital electonics. A rather large collection with pictures of vintage USSR-era computers (even homemade ones!) with labels in English.
+; Link of the day 2022-12-13
+; https://www.leningrad.su/museum/main.php?lang=0 This is a virtual museum devoted to Soviet digital electonics. A rather large collection with pictures of vintage USSR-era computers (even homemade ones!) with labels in English.
 ; Link of the day 2022-11-18
 ; http://thegalleryofmonstertoys.com/ "The Gallery of Monster Toys is dedicated to preserving a disappearing facet of our popular culture. Vintage [1960s to 1990s] monster toys [which] are typically overlooked by collectors, largely because they seem obsolete in today's world."
 ; Link of the day 2022-12-05
