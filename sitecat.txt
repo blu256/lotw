@@ -172,7 +172,8 @@
 ; https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "Windows bugs, mistakes and screw-ups" from Windows 95 to Windows XP.
 
 % Computers/Internet
-https://twitterisgoinggreat.com/ A website dedicated to tracking all the good things™ going on at Twitter after Elon Musk was forced into buying it.
+; Link of the day 2022-12-14
+; https://twitterisgoinggreat.com/ A website dedicated to tracking all the good things™ going on at Twitter after Elon Musk was forced into buying it.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
