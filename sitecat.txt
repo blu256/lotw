@@ -325,7 +325,8 @@ https://it.tamu.edu/missinglink “The Missing Link – A Cybersecurity Mystery�
 ; Link of the day 2022-10-20
 ; https://www.opendesktop.org/ "OpenDesktop.org is one of the largest websites for the Free Software and Content community [...] offering services like libre File and Data storage, Coding + CI, a federated chat + messaging and a Store for publishing and pledging libre content to break the dependency on proprietary offerings."
 https://mate-desktop.org/ "The MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems. MATE is under active development to add support for new technologies while preserving a traditional desktop experience."
-https://www.compiz.org/ "Compiz is a compositing manager, which means that it enhances the overall user interaction by adding fancy effects to your windows, from drop shadows to awesome desktop effects like the Desktop Cube or the Expo view." And yes, it still rocks today.
+; Link of the day 2022-12-15
+; https://www.compiz.org/ "Compiz is a compositing manager, which means that it enhances the overall user interaction by adding fancy effects to your windows, from drop shadows to awesome desktop effects like the Desktop Cube or the Expo view." And yes, it still rocks today.
 
 % Computers/Software/Music
 ; Link of the day 2022-10-24
