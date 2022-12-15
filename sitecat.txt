@@ -220,7 +220,8 @@
 % Computers/History
 ; Link of the week 2022-03-07 (week 10)
 ; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
-https://www.mit.edu/people/mkgray/net/web-growth-summary.html This page contains some really old data on the growth of the Web (June '93 to January '97).
+; Link of the day 2022-12-15
+; https://www.mit.edu/people/mkgray/net/web-growth-summary.html This page contains some really old data on the growth of the Web (June '93 to January '97).
 
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
