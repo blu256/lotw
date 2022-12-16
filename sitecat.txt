@@ -304,7 +304,8 @@
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
 
 % Computers/Cybersecurity
-https://it.tamu.edu/missinglink “The Missing Link – A Cybersecurity Mystery” is an online game that was created by the Division of Information Technology as part of National Cybersecurity Awareness Month. The game will test your cyber smarts and teach useful tips for staying safe online. More cybersecurity games are available at https://u.tamu.edu/games.
+; Link of the day 2022-12-16
+; https://it.tamu.edu/missinglink “The Missing Link – A Cybersecurity Mystery” is an online game that was created by the Division of Information Technology as part of National Cybersecurity Awareness Month. The game will test your cyber smarts and teach useful tips for staying safe online. More cybersecurity games are available at https://u.tamu.edu/games.
 
 % Computers/Software
 ; Link of the day 2022-09-21
