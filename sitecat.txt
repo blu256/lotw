@@ -382,7 +382,8 @@ https://mate-desktop.org/ "The MATE Desktop Environment is the continuation of G
 
 
 % Education/Academia
-https://journalofillusion.net This is the Journal of Illusion, an open-access journal that wants to promote the study of illusion. It focuses more on exploratory research rather than theoretic, in contrast to most scientific journals, and actually contains a lot of mind-bending illusions!
+; Link of the day 2022-12-17
+; https://journalofillusion.net This is the Journal of Illusion, an open-access journal that wants to promote the study of illusion. It focuses more on exploratory research rather than theoretic, in contrast to most scientific journals, and actually contains a lot of mind-bending illusions!
 
 % Education/Opinions
 ; Link of the day 2022-09-01
