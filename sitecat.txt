@@ -434,7 +434,8 @@ https://conlang.org/ Conlang.org is a site devoted to constructed languages (con
 
 % Fun/Satire
 https://www.theonion.com The Onion ("America's Finest News Source") is a purely satirical online publication. It's like a newspaper, but more hilarious.
-https://www.theonion.com/the-onion-s-test-sweatshop-helps-you-get-in-shape-and-s-1849833678 This guide recommends the best products for helping you get in shape and stay in shape... well, depends on how you see it, anyway.
+; Link of the day 2022-12-18
+; https://www.theonion.com/the-onion-s-test-sweatshop-helps-you-get-in-shape-and-s-1849833678 This guide recommends the best products for helping you get in shape and stay in shape... well, depends on how you see it, anyway.
 
 % Fun/Weird
 ; Link of the week 2022-06-13 (week 24)
