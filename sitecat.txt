@@ -424,7 +424,8 @@ https://mate-desktop.org/ "The MATE Desktop Environment is the continuation of G
 ; http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
 ; Link of the day 2022-11-26
 ; http://13d.org/esofword/ This is the Archive of Endangered, Special or Fun Words. It contains a lot of mind-boggling words that you might never hear or read, but which nonetheless do exist out there, as well as some words which are special or fun in their own ways. Some words are a combination of all those.
-https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
+; Link of the day 2022-12-19
+; https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
