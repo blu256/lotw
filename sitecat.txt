@@ -435,7 +435,8 @@
 ; http://web.archive.org/web/20220808235949/https://www.bbc.com/future/bespoke/story/20150306-journey-to-the-centre-of-earth/index.html How far would you have to travel to reach the Earth's core? And what would you see along the way? Discover what lies beneath. A BBC Future project.
 
 % Fun/Satire
-https://www.theonion.com The Onion ("America's Finest News Source") is a purely satirical online publication. It's like a newspaper, but more hilarious.
+; Link of the day 2022-12-21
+; https://www.theonion.com The Onion ("America's Finest News Source") is a purely satirical online publication. It's like a newspaper, but more hilarious.
 ; Link of the day 2022-12-18
 ; https://www.theonion.com/the-onion-s-test-sweatshop-helps-you-get-in-shape-and-s-1849833678 This guide recommends the best products for helping you get in shape and stay in shape... well, depends on how you see it, anyway.
 
