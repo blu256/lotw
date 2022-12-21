@@ -53,6 +53,7 @@
 % Arts/Photography
 ; Link of the day 2022-07-30
 ; https://photographylife.com/learn-photography If you are just starting out in photography or just want to improve your shooting skills, this page contains articles with useful and easy to understand tutorials.
+https://www.abandonedamerica.us/ Abandoned America is a photography project and podcast by Matthew Christopher (@AbandonedAmerica@mastodon.social). It is a vast collection of photographies from abandoned buildings across America.
 
 
 ;;
@@ -143,12 +144,16 @@
 ; https://enfont.javierarce.com enFONT TERRIBLE is a weird type foundry that will "deform, break, and destroy high-quality retail and custom typefaces for fun". Just drag and drop a font file and move the sliders until you are happy with the result, then click Create font and a weird new font will be generated for you!
 ; Link of the day 2022-08-26
 ; https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
+; Link of the day 2022-12-10
+; http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
+
+% Computers/Fun/Classics
 ; Link of the day 2022-11-03
 ; https://www.opte.org/ The Opte Project aims to create a map of the Internet. The map has been an icon of what the Internet looks like in hundreds of books, in movies, museums, office buildings, educational discussions, and countless publications. The map has also become a teaching tool, allowing visual learners to quickly understand the Internet and networking.
 ; Link of the day 2022-12-03
 ; http://www.catb.org/~esr/jargon/html/index.html The Jargon File, your definitive guide to the hackers' slang, "illuminating many aspects of hackish tradition, folklore, and humor". (Hacker, in its original sense, means "a person who enjoys exploring the details of programmable systems and how to stretch their capabilities".
-; Link of the day 2022-12-10
-; http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
+http://www.bofharchive.com/ The Bastard Operator From Hell is a classic character created by Simon Travaglia in the 90s. #BOFH is a sysop who takes out his anger on his users and manipulates his employers through his vast computer knowledge. Travaglia still writes BOFH stories, which are published regularly in The Register: https://www.theregister.com/offbeat/bofh
+
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
@@ -159,13 +164,16 @@
 ; Link of the day 2022-07-26
 ; https://bash.org/?870063 A battle rap competition between two geeks on IRC.
 
-% Computers/Fun/Parodies
+% Computers/Fun/Parodies and Imitations
 ; Link of the week 2022-01-10 (week 02)
 ; http://www.windows93.net/ "Windows 93" is a funny imitation and 90's MS-Windows look-alike which runs entirely in your browser!
 ; Link of the day 2022-09-27
 ; https://winxp.vercel.app/ An Windows XP parody that actually looks the part quite well — but is functionally incomplete.
 ; Link of the day 2022-11-20
 ; https://derplayer.neocities.org/repo/win/ This is a really good Windows 95 simulation which even includes support for emulating some if the era's games via the Internet Archive!
+http://windows-95.webflow.io Yet another Windows 95 imitation for your browser. Mildly incomplete and does not work on mobile devices.
+https://windows96.net/ Windows 96 is probably the most impressive imitation of a Windows OS in existance. It truly is a new take on the look and feel of the Windows 9x series and supports not only tablets, but also smartphones!
+https://tilde.club/~blu256/lucky_animal.html Dedicated to Google Docs users: a generator of random anonymous "animal" avatars by yours truly (@blu256@udongein.xyz) in the style of Google Docs, taken a step further.
 
 % Computers/Fun/Weird
 ; Link of the day 2022-11-24
@@ -174,6 +182,7 @@
 % Computers/Internet
 ; Link of the day 2022-12-14
 ; https://twitterisgoinggreat.com/ A website dedicated to tracking all the good things™ going on at Twitter after Elon Musk was forced into buying it.
+https://swatch.com/en-en/internet-time.html Did you know that there is an Internet Time, dividing the day into 1000 .beats? Well, actually, it was a failed marketing attempt by Swatch, but it's still a cool idea. Wikipedia is more detailed on that subject: https://en.wikipedia.org/wiki/Swatch_Internet_Time
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
@@ -206,10 +215,12 @@
 ; https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
 ; Link of the day 2022-09-28
 ; https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answers, and help the kingdom grow! "Sort-the-court" is a free-to-play Unity game played in your browser which can also be downloaded for Linux, Mac and Windows.
+https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
 
 % Computers/Games/Strategies
 ; Link of the day 2022-08-18
 ; https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
+https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
 
 % Computers/Games/Interactive Fiction
 ; Link of the day 2022-08-04
@@ -228,6 +239,7 @@
 ; https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 ; Link of the day 2022-09-07
 ; https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
+https://distrowatch.com Distrowatch is the probably most popular Internet resource about the various Linux distributions. It features information on the latest version of most *nix distributions. It also features news on new releases, reviews and much more.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
@@ -246,6 +258,7 @@
 ; https://www.noupe.com/inspiration/history-of-old-nokia-phones.html This article speaks of some of the most notable mobile phone models of ye olde Nokia brand (yes, "feature phones").
 ; Link of the day 2022-09-26
 ; https://www.phonearena.com/news/7-phones-collectors-items-worth-serious-money_id102063 Rare phone models that due to an occasion or another have come written their own history and become precious gems for tech collectors.
+https://www.dosbox.com/ DOSBox is a popular free and open-source DOS emulator which has been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X and others. 'You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!'
 
 % Computers/Development
 ; Link of the week 2022-01-31 (week 05)
@@ -302,6 +315,8 @@
 ; https://slashdot.org/ Does it even need an introduction? Slashdot is the legendary news site "for nerds" which features a good dose of hand-picked IT, technology and science news.
 ; Link of the week 2022-04-18 (week 16)
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
+https://bleepingcomputer.com/ Bleeping Computer is an information security and technology news publication. Since 2004 it has been all about "the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently."
+https://www.theregister.com/ The Register is "a leading and trusted global online enterprise technology news publication reaching roughly 40 million readers worldwide", online since 1998.
 
 % Computers/Cybersecurity
 ; Link of the day 2022-12-16
@@ -586,3 +601,8 @@
 % Informational/Everyday life
 ; Link of the day 2022-09-25
 ; https://www.fieggen.com/shoelace/index.htm Everything you wanted to know about shoelaces but were afraid to ask about.
+
+
+% Technology/Vintage
+https://www.hpcalc.org/ hpcalc.org is the premier source of software for and information about HP calculators. Yes, applications. These HP calculators were actually more like little pocket computers. Visit this site to learn more about them!
+
