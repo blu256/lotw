@@ -12,21 +12,23 @@ from random   import choice
 from datetime import datetime as dt
 import re
 
-try:
-  from mastodon import Mastodon
-
-except ImportError:
-  print("Error: please install the Mastodon.py module:")
-  print("\t$ pip3 install Mastodon.py")
-  exit(2)
-
 #################################
-# Change debugging mode here
+# Change debugging modes here
 DEBUG_CHECK_LINKS    = False
 DEBUG_SKIP_MASTODON  = False
 DEBUG_DO_NOT_COMMENT = False
 #
 #################################
+
+if not DEBUG_SKIP_MASTODON:
+  try:
+    from mastodon import Mastodon
+
+  except ImportError:
+    print("Error: please install the Mastodon.py module:")
+    print("\t$ pip3 install Mastodon.py")
+    exit(2)
+
 
 SITECAT = "sitecat.txt"
 
