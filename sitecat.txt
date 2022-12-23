@@ -172,7 +172,8 @@ http://www.bofharchive.com/ The Bastard Operator From Hell is a classic characte
 ; Link of the day 2022-11-20
 ; https://derplayer.neocities.org/repo/win/ This is a really good Windows 95 simulation which even includes support for emulating some if the era's games via the Internet Archive!
 http://windows-95.webflow.io Yet another Windows 95 imitation for your browser. Mildly incomplete and does not work on mobile devices.
-https://windows96.net/ Windows 96 is probably the most impressive imitation of a Windows OS in existance. It truly is a new take on the look and feel of the Windows 9x series and supports not only tablets, but also smartphones!
+; Link of the day 2022-12-23
+; https://windows96.net/ Windows 96 is probably the most impressive imitation of a Windows OS in existance. It truly is a new take on the look and feel of the Windows 9x series and supports not only tablets, but also smartphones!
 https://tilde.club/~blu256/lucky_animal.html Dedicated to Google Docs users: a generator of random anonymous "animal" avatars by yours truly (@blu256@udongein.xyz) in the style of Google Docs, taken a step further.
 
 % Computers/Fun/Weird
