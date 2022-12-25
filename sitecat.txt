@@ -223,7 +223,8 @@ https://swatch.com/en-en/internet-time.html Did you know that there is an Intern
 % Computers/Games/Strategies
 ; Link of the day 2022-08-18
 ; https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
-https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
+; Link of the day 2022-12-25
+; https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
 
 % Computers/Games/Interactive Fiction
 ; Link of the day 2022-08-04
