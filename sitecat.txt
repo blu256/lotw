@@ -609,5 +609,6 @@ https://www.theregister.com/ The Register is "a leading and trusted global onlin
 
 
 % Technology/Vintage
-https://www.hpcalc.org/ hpcalc.org is the premier source of software for and information about HP calculators. Yes, applications. These HP calculators were actually more like little pocket computers. Visit this site to learn more about them!
+; Link of the day 2022-12-27
+; https://www.hpcalc.org/ hpcalc.org is the premier source of software for and information about HP calculators. Yes, applications. These HP calculators were actually more like little pocket computers. Visit this site to learn more about them!
 
