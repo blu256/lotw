@@ -320,7 +320,8 @@ https://www.dosbox.com/ DOSBox is a popular free and open-source DOS emulator wh
 ; https://slashdot.org/ Does it even need an introduction? Slashdot is the legendary news site "for nerds" which features a good dose of hand-picked IT, technology and science news.
 ; Link of the week 2022-04-18 (week 16)
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
-https://bleepingcomputer.com/ Bleeping Computer is an information security and technology news publication. Since 2004 it has been all about "the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently."
+; Link of the day 2022-12-28
+; https://bleepingcomputer.com/ Bleeping Computer is an information security and technology news publication. Since 2004 it has been all about "the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently."
 https://www.theregister.com/ The Register is "a leading and trusted global online enterprise technology news publication reaching roughly 40 million readers worldwide", online since 1998.
 
 % Computers/Cybersecurity
