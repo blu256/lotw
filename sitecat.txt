@@ -53,7 +53,8 @@
 % Arts/Photography
 ; Link of the day 2022-07-30
 ; https://photographylife.com/learn-photography If you are just starting out in photography or just want to improve your shooting skills, this page contains articles with useful and easy to understand tutorials.
-https://www.abandonedamerica.us/ Abandoned America is a photography project and podcast by Matthew Christopher (@AbandonedAmerica@mastodon.social). It is a vast collection of photographies from abandoned buildings across America.
+; Link of the day 2022-12-30
+; https://www.abandonedamerica.us/ Abandoned America is a photography project and podcast by Matthew Christopher (@AbandonedAmerica@mastodon.social). It is a vast collection of photographies from abandoned buildings across America.
 
 
 ;;
