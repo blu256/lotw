@@ -149,7 +149,7 @@ https://www.craiyon.com/ Craiyon (DALL·E mini) is a free online AI text-to-imag
 ; https://neal.fun/ This is a collection of little web games and other fun stuff with a philosophical streak. Probably the most fun way to use JS/CSS.
 ; Link of the day 2022-12-10
 ; http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
-https://botwiki.org/ BotWiki (@botwiki@mastodon.social) is an interesting and multifaceted project dedicated to "preserving examples of interesting and creative online bots, and providing tutorials and other resources to folks interested in making them". (contributed by @botwiki@mastodon.social)
+https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and multifaceted project dedicated to "preserving examples of interesting and creative online bots, and providing tutorials and other resources to folks interested in making them". (contributed by @botwiki@mastodon.social)
 
 % Computers/Fun/Classics
 ; Link of the day 2022-11-03
