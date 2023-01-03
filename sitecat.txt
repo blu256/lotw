@@ -225,7 +225,8 @@ https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search 
 ; https://anlucas.neocities.org/88x31Buttons This is "a collection of more than 700 88x31 web buttons from the 1990's and 2000's, including the famous "Netscape NOW" and "Internet Explorer" buttons as well as various other buttons for websites of past and present".
 http://mosaic.mcom.com/ This is a snapshot of the Mosaic Communications Corporation website, the company which later grew into Netscape.
 http://www.ncsa.illinois.edu/research/project-highlights/ncsa-mosaic/ This page tells the story of NCSA mosaic, the first popular World-Wide Web browser which was not only graphical, but also supported inline images.
-https://ftp.arl.army.mil/~mike/ping.html This is the history of... the `ping` command, told by the author of this utility himself. If you ever wondered why the command is named like this, this page is a must read.
+; Link of the day 2023-01-03
+; https://ftp.arl.army.mil/~mike/ping.html This is the history of... the `ping` command, told by the author of this utility himself. If you ever wondered why the command is named like this, this page is a must read.
 http://info.cern.ch/hypertext/WWW/TheProject.html This is the first URL of the World Wide Web, and the first website back in 1992.
 
 % Computers/Video Games
