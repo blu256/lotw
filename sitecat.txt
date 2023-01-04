@@ -29,7 +29,8 @@
 ; https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
 ; Link of the day 2022-08-19
 ; https://www.newgrounds.com/ Newgrounds is an entertainment platform that hosts user-generated content such as games, films, audio, and artwork. It has hosted some of the most popular games of the Flash era and has played an important role in Internet culture, Internet animation and independent video gaming in particular.
-https://artsandculture.google.com/ Google Arts & Culture is a non-commercial initiative that strives to "preserve and bring the world’s art and culture online so it’s accessible to anyone, anywhere". It does so in collaboration with artists and cultural institutions from around the world.
+; Link of the day 2023-01-04
+; https://artsandculture.google.com/ Google Arts & Culture is a non-commercial initiative that strives to "preserve and bring the world’s art and culture online so it’s accessible to anyone, anywhere". It does so in collaboration with artists and cultural institutions from around the world.
 
 % Arts/Fine Arts
 ; Link of the day 2022-10-01
