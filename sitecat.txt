@@ -234,7 +234,8 @@ http://info.cern.ch/hypertext/WWW/TheProject.html This is the first URL of the W
 https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
 
 % Computers/Video Games/History
-http://www.vgmuseum.com/ The Video Game Museum is a virtual museum of over 13,000 video games on 50 platforms, complete with descriptions, screenshots, game ads and other assets.
+; Link of the day 2023-01-05
+; http://www.vgmuseum.com/ The Video Game Museum is a virtual museum of over 13,000 video games on 50 platforms, complete with descriptions, screenshots, game ads and other assets.
 ; Link of the day 2023-01-02
 ; https://classic.minecraft.net/ Did you know that you can officially play Minecraft Classic in your browser? It's not much, but it has multiplayer!
 
