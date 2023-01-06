@@ -224,7 +224,8 @@ https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search 
 ; https://www.mit.edu/people/mkgray/net/web-growth-summary.html This page contains some really old data on the growth of the Web (June '93 to January '97).
 ; Link of the day 2022-12-31
 ; https://anlucas.neocities.org/88x31Buttons This is "a collection of more than 700 88x31 web buttons from the 1990's and 2000's, including the famous "Netscape NOW" and "Internet Explorer" buttons as well as various other buttons for websites of past and present".
-http://mosaic.mcom.com/ This is a snapshot of the Mosaic Communications Corporation website, the company which later grew into Netscape.
+; Link of the day 2023-01-06
+; http://mosaic.mcom.com/ This is a snapshot of the Mosaic Communications Corporation website, the company which later grew into Netscape.
 http://www.ncsa.illinois.edu/research/project-highlights/ncsa-mosaic/ This page tells the story of NCSA mosaic, the first popular World-Wide Web browser which was not only graphical, but also supported inline images.
 ; Link of the day 2023-01-03
 ; https://ftp.arl.army.mil/~mike/ping.html This is the history of... the `ping` command, told by the author of this utility himself. If you ever wondered why the command is named like this, this page is a must read.
