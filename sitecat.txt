@@ -272,7 +272,8 @@ http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from
 ; https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 ; Link of the day 2022-09-07
 ; https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
-https://distrowatch.com Distrowatch is the probably most popular Internet resource about the various Linux distributions. It features information on the latest version of most *nix distributions. It also features news on new releases, reviews and much more.
+; Link of the day 2023-01-07
+; https://distrowatch.com Distrowatch is the probably most popular Internet resource about the various Linux distributions. It features information on the latest version of most *nix distributions. It also features news on new releases, reviews and much more.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
