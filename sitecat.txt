@@ -201,7 +201,8 @@ https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It descri
 ; https://www.searx.space SearX is a powerful and FOSS metasearch engine which can be hosted by anyone. Searx.space provides an up-to-date list with public SearX instances which can be accessed by anyone.
 ; Link of the day 2022-11-01
 ; http://web.archive.org/ Wayback Machine allows you to see websites as they were in a given point in the past. Internet Archive, the company behind it, also offers a trove of freely accessible or borrowable books, movies, documents, pictures and software.
-https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
+; Link of the day 2023-01-08
+; https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
