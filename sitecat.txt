@@ -293,7 +293,8 @@ http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from
 ; https://www.noupe.com/inspiration/history-of-old-nokia-phones.html This article speaks of some of the most notable mobile phone models of ye olde Nokia brand (yes, "feature phones").
 ; Link of the day 2022-09-26
 ; https://www.phonearena.com/news/7-phones-collectors-items-worth-serious-money_id102063 Rare phone models that due to an occasion or another have come written their own history and become precious gems for tech collectors.
-https://www.dosbox.com/ DOSBox is a popular free and open-source DOS emulator which has been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X and others. 'You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!'
+; Link of the day 2023-01-09
+; https://www.dosbox.com/ DOSBox is a popular free and open-source DOS emulator which has been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X and others. 'You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!'
 
 % Computers/Development
 ; Link of the week 2022-01-31 (week 05)
