@@ -452,7 +452,8 @@ https://www.theregister.com/ The Register is "a leading and trusted global onlin
 ; https://ploum.net/the-computer-built-to-last-50-years/ An opinion piece on how to create the long-standing computer that will save your attention, your wallet, your creativity, your soul and the planet.
 
 % Environment/Nature
-https://edition.cnn.com/interactive/2022/12/weather/wilson-snowflake-bentley-cnnphotos/ "No two snowflakes are alike. You probably learned that at an early age. But you might not know the man who discovered it." This is an article about Wilson Bentley, a farmer who became known as the first person to successfully photograph the crystals that make up snowflakes.
+; Link of the day 2023-01-10
+; https://edition.cnn.com/interactive/2022/12/weather/wilson-snowflake-bentley-cnnphotos/ "No two snowflakes are alike. You probably learned that at an early age. But you might not know the man who discovered it." This is an article about Wilson Bentley, a farmer who became known as the first person to successfully photograph the crystals that make up snowflakes.
 
 
 ;;
