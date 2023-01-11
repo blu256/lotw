@@ -230,7 +230,8 @@ https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It descri
 http://www.ncsa.illinois.edu/research/project-highlights/ncsa-mosaic/ This page tells the story of NCSA mosaic, the first popular World-Wide Web browser which was not only graphical, but also supported inline images.
 ; Link of the day 2023-01-03
 ; https://ftp.arl.army.mil/~mike/ping.html This is the history of... the `ping` command, told by the author of this utility himself. If you ever wondered why the command is named like this, this page is a must read.
-http://info.cern.ch/hypertext/WWW/TheProject.html This is the first URL of the World Wide Web, and the first website back in 1992.
+; Link of the day 2023-01-11
+; http://info.cern.ch/hypertext/WWW/TheProject.html This is the first URL of the World Wide Web, and the first website back in 1992.
 
 % Computers/Video Games
 https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
