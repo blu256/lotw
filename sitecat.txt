@@ -57,7 +57,8 @@
 ; https://photographylife.com/learn-photography If you are just starting out in photography or just want to improve your shooting skills, this page contains articles with useful and easy to understand tutorials.
 ; Link of the day 2022-12-30
 ; https://www.abandonedamerica.us/ Abandoned America is a photography project and podcast by Matthew Christopher (@AbandonedAmerica@mastodon.social). It is a vast collection of photographies from abandoned buildings across America.
-https://tubemapper.com/ Tube Mapper (@tubemapper@mastodonapp.uk) is a photography project by Luke Agbaimoni devoted to the London Underground: trains, stations, stairs, people... It captures "moments of subconscious recognition and overlooked interests, showcasing images that can be seen near or at every London tube station."
+; Link of the day 2023-01-12
+; https://tubemapper.com/ Tube Mapper (@tubemapper@mastodonapp.uk) is a photography project by Luke Agbaimoni devoted to the London Underground: trains, stations, stairs, people... It captures "moments of subconscious recognition and overlooked interests, showcasing images that can be seen near or at every London tube station."
 
 ;;
 ;;  Books
