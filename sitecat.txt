@@ -358,7 +358,8 @@ http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from
 ; https://webzine.puffy.cafe/ The OpenBSD Webzine is a volunteer-made webzine whose goal is "to allow people to stay informed about OpenBSD in a cool, fun and instructive way". It can include a hand-picked list of changes, new packages and improvements, a Q&A section, some shell tips (which other systems' users might find useful as well) and OpenBSD-related artwork.
 ; Link of the day 2022-12-28
 ; https://bleepingcomputer.com/ Bleeping Computer is an information security and technology news publication. Since 2004 it has been all about "the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently."
-https://www.theregister.com/ The Register is "a leading and trusted global online enterprise technology news publication reaching roughly 40 million readers worldwide", online since 1998.
+; Link of the day 2023-01-16
+; https://www.theregister.com/ The Register is "a leading and trusted global online enterprise technology news publication reaching roughly 40 million readers worldwide", online since 1998.
 
 % Computers/Cybersecurity
 ; Link of the day 2022-12-16
