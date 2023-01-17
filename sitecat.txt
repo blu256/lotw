@@ -42,6 +42,10 @@
 ; Link of the day 2022-10-10
 ; https://beta.digitalblasphemy.com/ Digital Blasphemy is a digital artist famous in the early days of the Internet for their amazing wallpapers (e.g. Fluorescence, the glowing mushrooms). They offer their art for sale, though some wallpapers are available for free.
 
+% Arts/Literature
+http://www.theletterspage.ac.uk/ The Letters Page is a literary journal published in the form of letters. "We publish essays, stories, poetry, memoir, travelogue, and criticism; but all in the form of letters. We are interested in the literary traditions of letter-writing, and in the idea of correspondence in a digital age. We would love to hear from you."
+https://www.bulwer-lytton.com/ "Since 1982 the Bulwer Lytton Fiction Contest has challenged participants to write an atrocious opening sentence to the worst novel never written. [...] The contest receives thousands of entries each year, and every summer our Panel of Undistinguished Judges convenes to select winners and dishonorable mentions for such categories as Purpose Prose and Vile Puns."
+
 % Arts/Music
 ; Link of the day 2022-07-21
 ; gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
@@ -153,6 +157,7 @@
 ; Link of the day 2022-12-10
 ; http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
 https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and multifaceted project dedicated to "preserving examples of interesting and creative online bots, and providing tutorials and other resources to folks interested in making them". (contributed by @botwiki@mastodon.social)
+https://windows-never-released.fandom.com/ The Windows Never Released Wiki is a place where you can create mockups of operating systems for fun or explore others' mockups (any OS will do, not only Windows).
 
 % Computers/Fun/Classics
 ; Link of the day 2022-11-03
@@ -196,6 +201,7 @@ https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and mu
 ; https://swatch.com/en-en/internet-time.html Did you know that there is an Internet Time, dividing the day into 1000 .beats? Well, actually, it was a failed marketing attempt by Swatch, but it's still a cool idea. Wikipedia is more detailed on that subject: https://en.wikipedia.org/wiki/Swatch_Internet_Time
 ; Link of the day 2023-01-14
 ; https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It describes itself as "an unconventional guide to life, the universe, and everything". It's like Wikipedia, but in the spirit of the Hitchhiker's Guide to the Galaxy (it was actually founded by Douglas Adams himself back in 1999, preceding Wikipedia by 2 years).
+https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
@@ -206,6 +212,10 @@ https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and mu
 ; http://web.archive.org/ Wayback Machine allows you to see websites as they were in a given point in the past. Internet Archive, the company behind it, also offers a trove of freely accessible or borrowable books, movies, documents, pictures and software.
 ; Link of the day 2023-01-08
 ; https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
+
+% Computers/Internet/Fediverse
+https://fedi.tips/ Fedi.tips (@feditips@mstdn.social) is an "unofficial guide to Mastodon and the Fediverse". It's a great site that contains a big number of articles on whatever you might need to know about the Fediverse.
+https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services) is a great online human-curated directory of interesting accounts on the Fediverse, categorized by interests, region and/or language.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
@@ -236,6 +246,8 @@ https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and mu
 ; https://ftp.arl.army.mil/~mike/ping.html This is the history of... the `ping` command, told by the author of this utility himself. If you ever wondered why the command is named like this, this page is a must read.
 ; Link of the day 2023-01-11
 ; http://info.cern.ch/hypertext/WWW/TheProject.html This is the first URL of the World Wide Web, and the first website back in 1992.
+https://quentinsf.com/coffeepot/ Did you know that the first webcam on the World-Wide Web broadcasted a 128x128 pixel grayscale image of... a coffee pot? (more related links here: https://www.curlie.org/Computers/Internet/History/The_Trojan_Room_Coffee_Machine/)
+http://www.andrewturnbull.net/mozilla/history.html This page is a visual web-browser history made from screenshots of Netscape and early-#Mozilla browsers.
 
 % Computers/Video Games
 https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
@@ -245,6 +257,10 @@ https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. 
 ; http://www.vgmuseum.com/ The Video Game Museum is a virtual museum of over 13,000 video games on 50 platforms, complete with descriptions, screenshots, game ads and other assets.
 ; Link of the day 2023-01-02
 ; https://classic.minecraft.net/ Did you know that you can officially play Minecraft Classic in your browser? It's not much, but it has multiplayer!
+https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend The story behind Minecraft's End Poem, which its author had written for a friend. The poem was deliberately released into public domain by its author in December 2022.
+
+% Computers/Video Games/Retro Gaming
+https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
 
 % Computers/Video Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
@@ -261,6 +277,7 @@ https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. 
 ; https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
 ; Link of the day 2022-12-25
 ; https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
+https://webdiplomacy.net/ webDiplomacy is a web version of the popular turn-based strategy Diplomacy. The objective of Diplomacy is to be the first nation to own half of the supply centers in the game. ""Luck plays no part in Diplomacy. Cunning and cleverness, honesty and perfectly-timed betrayal are the tools needed to outwit your fellow players."
 
 % Computers/Video Games/Interactive Fiction
 ; Link of the day 2022-08-04
@@ -481,6 +498,7 @@ http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from
 ; https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
 ; Link of the day 2022-12-08
 ; https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
+https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
 
 % Fun/Language
 ; Link of the day 2022-11-09
