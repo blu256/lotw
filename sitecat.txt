@@ -157,7 +157,8 @@ https://www.bulwer-lytton.com/ "Since 1982 the Bulwer Lytton Fiction Contest has
 ; Link of the day 2022-12-10
 ; http://web.archive.org/web/20060708080741/http://blug.linux.no/rfc1149/index.html RFC1149, dated April 1st 1990, proposed a new Internet protocol using avian carriers as transport, the CPIP (Carrier Pigeon Internet Protocol). You might already know that, but did you know that it has been actually implemented?
 https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and multifaceted project dedicated to "preserving examples of interesting and creative online bots, and providing tutorials and other resources to folks interested in making them". (contributed by @botwiki@mastodon.social)
-https://windows-never-released.fandom.com/ The Windows Never Released Wiki is a place where you can create mockups of operating systems for fun or explore others' mockups (any OS will do, not only Windows).
+; Link of the day 2023-01-17
+; https://windows-never-released.fandom.com/ The Windows Never Released Wiki is a place where you can create mockups of operating systems for fun or explore others' mockups (any OS will do, not only Windows).
 
 % Computers/Fun/Classics
 ; Link of the day 2022-11-03
