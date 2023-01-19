@@ -279,7 +279,8 @@ https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage v
 ; https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
 ; Link of the day 2022-12-25
 ; https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
-https://webdiplomacy.net/ webDiplomacy is a web version of the popular turn-based strategy Diplomacy. The objective of Diplomacy is to be the first nation to own half of the supply centers in the game. ""Luck plays no part in Diplomacy. Cunning and cleverness, honesty and perfectly-timed betrayal are the tools needed to outwit your fellow players."
+; Link of the day 2023-01-19
+; https://webdiplomacy.net/ webDiplomacy is a web version of the popular turn-based strategy Diplomacy. The objective of Diplomacy is to be the first nation to own half of the supply centers in the game. ""Luck plays no part in Diplomacy. Cunning and cleverness, honesty and perfectly-timed betrayal are the tools needed to outwit your fellow players."
 
 % Computers/Video Games/Interactive Fiction
 ; Link of the day 2022-08-04
