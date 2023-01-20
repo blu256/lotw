@@ -203,7 +203,8 @@ https://www.bulwer-lytton.com/ "Since 1982 the Bulwer Lytton Fiction Contest has
 ; https://swatch.com/en-en/internet-time.html Did you know that there is an Internet Time, dividing the day into 1000 .beats? Well, actually, it was a failed marketing attempt by Swatch, but it's still a cool idea. Wikipedia is more detailed on that subject: https://en.wikipedia.org/wiki/Swatch_Internet_Time
 ; Link of the day 2023-01-14
 ; https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It describes itself as "an unconventional guide to life, the universe, and everything". It's like Wikipedia, but in the spirit of the Hitchhiker's Guide to the Galaxy (it was actually founded by Douglas Adams himself back in 1999, preceding Wikipedia by 2 years).
-https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
+; Link of the day 2023-01-20
+; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
