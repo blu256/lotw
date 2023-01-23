@@ -43,7 +43,8 @@
 ; https://beta.digitalblasphemy.com/ Digital Blasphemy is a digital artist famous in the early days of the Internet for their amazing wallpapers (e.g. Fluorescence, the glowing mushrooms). They offer their art for sale, though some wallpapers are available for free.
 
 % Arts/Literature
-http://www.theletterspage.ac.uk/ The Letters Page is a literary journal published in the form of letters. "We publish essays, stories, poetry, memoir, travelogue, and criticism; but all in the form of letters. We are interested in the literary traditions of letter-writing, and in the idea of correspondence in a digital age. We would love to hear from you."
+; Link of the day 2023-01-23
+; http://www.theletterspage.ac.uk/ The Letters Page is a literary journal published in the form of letters. "We publish essays, stories, poetry, memoir, travelogue, and criticism; but all in the form of letters. We are interested in the literary traditions of letter-writing, and in the idea of correspondence in a digital age. We would love to hear from you."
 ; Link of the day 2023-01-21
 ; https://www.bulwer-lytton.com/ "Since 1982 the Bulwer Lytton Fiction Contest has challenged participants to write an atrocious opening sentence to the worst novel never written. [...] The contest receives thousands of entries each year, and every summer our Panel of Undistinguished Judges convenes to select winners and dishonorable mentions for such categories as Purpose Prose and Vile Puns."
 
