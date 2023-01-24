@@ -251,7 +251,8 @@ https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services
 ; https://ftp.arl.army.mil/~mike/ping.html This is the history of... the `ping` command, told by the author of this utility himself. If you ever wondered why the command is named like this, this page is a must read.
 ; Link of the day 2023-01-11
 ; http://info.cern.ch/hypertext/WWW/TheProject.html This is the first URL of the World Wide Web, and the first website back in 1992.
-https://quentinsf.com/coffeepot/ Did you know that the first webcam on the World-Wide Web broadcasted a 128x128 pixel grayscale image of... a coffee pot? (more related links here: https://www.curlie.org/Computers/Internet/History/The_Trojan_Room_Coffee_Machine/)
+; Link of the day 2023-01-24
+; https://quentinsf.com/coffeepot/ Did you know that the first webcam on the World-Wide Web broadcasted a 128x128 pixel grayscale image of... a coffee pot? (more related links here: https://www.curlie.org/Computers/Internet/History/The_Trojan_Room_Coffee_Machine/)
 ; Link of the day 2023-01-22
 ; http://www.andrewturnbull.net/mozilla/history.html This page is a visual web-browser history made from screenshots of Netscape and early-#Mozilla browsers.
 
