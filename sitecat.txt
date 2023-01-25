@@ -257,7 +257,8 @@ https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services
 ; http://www.andrewturnbull.net/mozilla/history.html This page is a visual web-browser history made from screenshots of Netscape and early-#Mozilla browsers.
 
 % Computers/Video Games
-https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
+; Link of the day 2023-01-25
+; https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
 
 % Computers/Video Games/History
 ; Link of the day 2023-01-05
