@@ -265,7 +265,8 @@ https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services
 ; http://www.vgmuseum.com/ The Video Game Museum is a virtual museum of over 13,000 video games on 50 platforms, complete with descriptions, screenshots, game ads and other assets.
 ; Link of the day 2023-01-02
 ; https://classic.minecraft.net/ Did you know that you can officially play Minecraft Classic in your browser? It's not much, but it has multiplayer!
-https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend The story behind Minecraft's End Poem, which its author had written for a friend. The poem was deliberately released into public domain by its author in December 2022.
+; Link of the day 2023-01-26
+; https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend The story behind Minecraft's End Poem, which its author had written for a friend. The poem was deliberately released into public domain by its author in December 2022.
 
 % Computers/Video Games/Retro Gaming
 https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
