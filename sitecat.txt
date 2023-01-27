@@ -269,7 +269,8 @@ https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services
 ; https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend The story behind Minecraft's End Poem, which its author had written for a friend. The poem was deliberately released into public domain by its author in December 2022.
 
 % Computers/Video Games/Retro Gaming
-https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
+; Link of the day 2023-01-27
+; https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
 
 % Computers/Video Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
