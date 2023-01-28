@@ -438,7 +438,8 @@ http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from
 ; Link of the day 2022-10-05
 ; https://www.palemoon.org/ Pale Moon is an open-source web browser which retains the interface of old Firefox editions. It offers great customizability through extensions and complete themes and integrates the latest security fixes from Mozilla upstream.
 https://www.epyrus.org/ Epyrus is an e-mail client from the Pale Moon community. It's based on Thunderbird and is in its early stages of development, but already usable.
-https://otter-browser.org/ Otter Browser is a web browser which "aims to recreate the best aspects of the classic Opera (12.x) UI".
+; Link of the day 2023-01-28
+; https://otter-browser.org/ Otter Browser is a web browser which "aims to recreate the best aspects of the classic Opera (12.x) UI".
 
 % Computers/Software/Writing
 ; Link of the week 2022-06-30 (week 26)
