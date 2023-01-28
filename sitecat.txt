@@ -170,6 +170,8 @@
 ; http://www.catb.org/~esr/jargon/html/index.html The Jargon File, your definitive guide to the hackers' slang, "illuminating many aspects of hackish tradition, folklore, and humor". (Hacker, in its original sense, means "a person who enjoys exploring the details of programmable systems and how to stretch their capabilities".
 ; Link of the day 2022-12-29
 ; http://www.bofharchive.com/ The Bastard Operator From Hell is a classic character created by Simon Travaglia in the 90s. #BOFH is a sysop who takes out his anger on his users and manipulates his employers through his vast computer knowledge. Travaglia still writes BOFH stories, which are published regularly in The Register: https://www.theregister.com/offbeat/bofh
+http://mshiltonj.com/software_wars/ This is a really old but classic collection of maps depicting "the epic struggle of Free and Open Source Software (FOSS) against the Empire of Microsoft". The first one was created back in 1998, and the last update was in 2006.
+https://asciimation.co.nz/ Have you ever wondered how Star Wars would look in ASCII? Like on a really old text-based computer terminal? Well, this site allows you to experience it first-hand. Meet Star Wars: ASCIImation!
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
@@ -207,6 +209,7 @@
 ; https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It describes itself as "an unconventional guide to life, the universe, and everything". It's like Wikipedia, but in the spirit of the Hitchhiker's Guide to the Galaxy (it was actually founded by Douglas Adams himself back in 1999, preceding Wikipedia by 2 years).
 ; Link of the day 2023-01-20
 ; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
+https://theforest.link/ "Surfing the web is becoming increasingly boring. What used to be a wild trip through stormy waters has now become a journey on a cruise ship where everything is planned and there's no longer place for craziness. This site is our attempt try bring some of that unpredictability back."
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
@@ -255,6 +258,7 @@ https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services
 ; https://quentinsf.com/coffeepot/ Did you know that the first webcam on the World-Wide Web broadcasted a 128x128 pixel grayscale image of... a coffee pot? (more related links here: https://www.curlie.org/Computers/Internet/History/The_Trojan_Room_Coffee_Machine/)
 ; Link of the day 2023-01-22
 ; http://www.andrewturnbull.net/mozilla/history.html This page is a visual web-browser history made from screenshots of Netscape and early-#Mozilla browsers.
+https://netvalley.com/ This website is lovingly devoted to the history of the Internet and the World-Wide Web. It's "a critically acclaimed site for a comprehensive history of the Internet". It's also one of the earliest websites still online, launched back in 1995.
 
 % Computers/Video Games
 ; Link of the day 2023-01-25
@@ -272,15 +276,19 @@ https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services
 ; Link of the day 2023-01-27
 ; https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
 
+% Computers/Video Games/Rogue-like
+https://cataclysmdda.org/ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. "As your game begins, you awaken with hazy memories of violence and terror from when the world suddenly unravelled around you. Now you need to explore your surroundings, and secure food, water and safety. After that, who knows?"
+
 % Computers/Video Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
-; https://simutrans.org Simutrans is a free and open-source transport company simulatoion game. You start with a limited budget on your way to build the transport empire of your dreams!
+; https://simutrans.org Simutrans is a free and open-source transport company simulation game. You start with a limited budget on your way to build the transport empire of your dreams!
 ; Link of the day 2022-10-11
 ; https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
 ; Link of the day 2022-09-28
 ; https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answers, and help the kingdom grow! "Sort-the-court" is a free-to-play Unity game played in your browser which can also be downloaded for Linux, Mac and Windows.
 ; Link of the day 2022-12-22
 ; https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
+https://www.minetest.net/ Minetest is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
 
 % Computers/Video Games/Strategies
 ; Link of the day 2022-08-18
@@ -289,6 +297,7 @@ https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services
 ; https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
 ; Link of the day 2023-01-19
 ; https://webdiplomacy.net/ webDiplomacy is a web version of the popular turn-based strategy Diplomacy. The objective of Diplomacy is to be the first nation to own half of the supply centers in the game. ""Luck plays no part in Diplomacy. Cunning and cleverness, honesty and perfectly-timed betrayal are the tools needed to outwit your fellow players."
+https://www.nationstates.net NationStates is an amazing multiplayer government simulation browser game created and developed by Max Barry. It has a sizable online community, which frequently engages in roleplay, and an accompanying forum board. Since its launch in 2002, over 8.37 million user-created nations have been created!
 
 % Computers/Video Games/Interactive Fiction
 ; Link of the day 2022-08-04
@@ -428,7 +437,8 @@ http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from
 ; https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
 ; Link of the day 2022-10-05
 ; https://www.palemoon.org/ Pale Moon is an open-source web browser which retains the interface of old Firefox editions. It offers great customizability through extensions and complete themes and integrates the latest security fixes from Mozilla upstream.
-; TODO https://www.epyrus.org/ [under construction?]
+https://www.epyrus.org/ Epyrus is an e-mail client from the Pale Moon community. It's based on Thunderbird and is in its early stages of development, but already usable.
+https://otter-browser.org/ Otter Browser is a web browser which "aims to recreate the best aspects of the classic Opera (12.x) UI".
 
 % Computers/Software/Writing
 ; Link of the week 2022-06-30 (week 26)
@@ -447,6 +457,7 @@ http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from
 ; https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
 ; Link of the day 2022-11-30
 ; http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
+https://hellosystem.github.io/docs/ helloSystem is an operating system based on FreeBSD that mimicks the Mac user interface. It's "a desktop system for creators with a focus on simplicity, elegance, and usability" and "its design follows the “Less, but better” philosophy".
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
@@ -518,6 +529,8 @@ https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine t
 ; http://13d.org/esofword/ This is the Archive of Endangered, Special or Fun Words. It contains a lot of mind-boggling words that you might never hear or read, but which nonetheless do exist out there, as well as some words which are special or fun in their own ways. Some words are a combination of all those.
 ; Link of the day 2022-12-19
 ; https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
+https://omniglot.com Omniglot is an encyclopedia of writing systems and languages. You can use it to learn about languages, to learn alphabets and other writing systems, and to learn phrases, numbers and other things in many languages. It also includes a lot of fun stuff, like idioms in different languages of the world.
+https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
@@ -560,6 +573,8 @@ https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine t
 ; https://www.crouton.net/ The Web, as we know, consists of web pages, right? Well, forget that, here's a crouton floating the voids of the Web.
 ; Link of the day 2022-11-17
 ; https://www.cameronsworld.net/ This website is "a love letter to the Internet of old" (read: GeoCities). It's a page of text and graphics "excavated" from archived GeoCities pages (1994-2009) which serves as a "tribute to the lost days of unrefined self-expression on the Internet". (Warning: your eyes might not be grateful to you for this).
+http://www.sacklunch.net/encyclopedia/ This website is an Encyclopedia made up of information from the late 1800s. when the British Empire was at its height, before airplane travel, before automobiles were common and before the western world had been battered by two world wars.
+https://genders.wtf Genders.wtf is a collection of weird gender options in web forms curated by @effy@effy.space. Ever encountered a form where you could select between Male, Female and... Venezuela? You will find this, and even stranger options, collected on this website.
 
 % Fun/Collections
 ; Link of the day 2022-08-30
@@ -645,7 +660,7 @@ https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine t
 ; Link of the week 2022-01-17 (week 03)
 ; https://userfriendly.org UserFriendly is (was?) a legendary cult geeky web-comic about the workers of an ISP in the early 00s.
 ; Link of the week 2022-02-21 (week 08)
-; https://gpf-comics.com GPF Comics is a bizzare, adventurous and fun web-comic with a geeky touch born withinin the eddies of the cyberspace-time continuum.
+; https://gpf-comics.com General Protection Fault (by @gpfjeff@twit.social) is a bizzare, adventurous and fun web-comic with a geeky touch born withinin the eddies of the cyberspace-time continuum.
 ; Link of the week 2021-12-20 (week 51)
 ; https://nukees.com  Nukees is a web-comic about Gav, a nuclear engineering student and "exasperated cynic-turned-mad-scientist". 
 ; Link of the week 2022-01-03 (week 01)
