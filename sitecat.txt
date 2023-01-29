@@ -521,7 +521,8 @@ https://hellosystem.github.io/docs/ helloSystem is an operating system based on 
 ; https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
 ; Link of the day 2022-12-08
 ; https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
-https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
+; Link of the day 2023-01-29
+; https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
 
 % Fun/Language
 ; Link of the day 2022-11-09
