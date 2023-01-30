@@ -576,7 +576,8 @@ https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the 
 ; Link of the day 2022-11-17
 ; https://www.cameronsworld.net/ This website is "a love letter to the Internet of old" (read: GeoCities). It's a page of text and graphics "excavated" from archived GeoCities pages (1994-2009) which serves as a "tribute to the lost days of unrefined self-expression on the Internet". (Warning: your eyes might not be grateful to you for this).
 http://www.sacklunch.net/encyclopedia/ This website is an Encyclopedia made up of information from the late 1800s. when the British Empire was at its height, before airplane travel, before automobiles were common and before the western world had been battered by two world wars.
-https://genders.wtf Genders.wtf is a collection of weird gender options in web forms curated by @effy@effy.space. Ever encountered a form where you could select between Male, Female and... Venezuela? You will find this, and even stranger options, collected on this website.
+; Link of the day 2023-01-30
+; https://genders.wtf Genders.wtf is a collection of weird gender options in web forms curated by @effy@effy.space. Ever encountered a form where you could select between Male, Female and... Venezuela? You will find this, and even stranger options, collected on this website.
 
 % Fun/Collections
 ; Link of the day 2022-08-30
