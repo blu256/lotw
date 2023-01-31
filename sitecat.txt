@@ -288,7 +288,8 @@ https://cataclysmdda.org/ Cataclysm: Dark Days Ahead is a turn-based survival ga
 ; https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answers, and help the kingdom grow! "Sort-the-court" is a free-to-play Unity game played in your browser which can also be downloaded for Linux, Mac and Windows.
 ; Link of the day 2022-12-22
 ; https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
-https://www.minetest.net/ Minetest is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
+; Link of the day 2023-01-31
+; https://www.minetest.net/ Minetest is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
 
 % Computers/Video Games/Strategies
 ; Link of the day 2022-08-18
