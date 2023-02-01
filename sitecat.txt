@@ -223,7 +223,8 @@ https://theforest.link/ "Surfing the web is becoming increasingly boring. What u
 
 % Computers/Internet/Fediverse
 https://fedi.tips/ Fedi.tips (@feditips@mstdn.social) is an "unofficial guide to Mastodon and the Fediverse". It's a great site that contains a big number of articles on whatever you might need to know about the Fediverse.
-https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services) is a great online human-curated directory of interesting accounts on the Fediverse, categorized by interests, region and/or language.
+; Link of the day 2023-02-01
+; https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services) is a great online human-curated directory of interesting accounts on the Fediverse, categorized by interests, region and/or language.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
