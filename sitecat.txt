@@ -222,7 +222,8 @@ https://theforest.link/ "Surfing the web is becoming increasingly boring. What u
 ; https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
 
 % Computers/Internet/Fediverse
-https://fedi.tips/ Fedi.tips (@feditips@mstdn.social) is an "unofficial guide to Mastodon and the Fediverse". It's a great site that contains a big number of articles on whatever you might need to know about the Fediverse.
+; Link of the day 2023-02-03
+; https://fedi.tips/ Fedi.tips (@feditips@mstdn.social) is an "unofficial guide to Mastodon and the Fediverse". It's a great site that contains a big number of articles on whatever you might need to know about the Fediverse.
 ; Link of the day 2023-02-01
 ; https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services) is a great online human-curated directory of interesting accounts on the Fediverse, categorized by interests, region and/or language.
 
