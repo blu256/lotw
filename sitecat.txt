@@ -311,7 +311,8 @@ https://www.nationstates.net NationStates is an amazing multiplayer government s
 % Computers/History
 ; Link of the week 2022-03-07 (week 10)
 ; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
-http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from the 1980's, the dawn of modern computing history. "The focus is on mid-1980's textfiles and the world as it was then, but even these files are sometime retooled 1960s and 1970s works, and offshoots of this culture exist to this day."
+; Link of the day 2023-02-04
+; http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from the 1980's, the dawn of modern computing history. "The focus is on mid-1980's textfiles and the world as it was then, but even these files are sometime retooled 1960s and 1970s works, and offshoots of this culture exist to this day."
 
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
