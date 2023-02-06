@@ -279,7 +279,8 @@ https://netvalley.com/ This website is lovingly devoted to the history of the In
 ; https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
 
 % Computers/Video Games/Rogue-like
-https://cataclysmdda.org/ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. "As your game begins, you awaken with hazy memories of violence and terror from when the world suddenly unravelled around you. Now you need to explore your surroundings, and secure food, water and safety. After that, who knows?"
+; Link of the day 2023-02-06
+; https://cataclysmdda.org/ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. "As your game begins, you awaken with hazy memories of violence and terror from when the world suddenly unravelled around you. Now you need to explore your surroundings, and secure food, water and safety. After that, who knows?"
 
 % Computers/Video Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
