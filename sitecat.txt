@@ -260,7 +260,8 @@ https://theforest.link/ "Surfing the web is becoming increasingly boring. What u
 ; https://quentinsf.com/coffeepot/ Did you know that the first webcam on the World-Wide Web broadcasted a 128x128 pixel grayscale image of... a coffee pot? (more related links here: https://www.curlie.org/Computers/Internet/History/The_Trojan_Room_Coffee_Machine/)
 ; Link of the day 2023-01-22
 ; http://www.andrewturnbull.net/mozilla/history.html This page is a visual web-browser history made from screenshots of Netscape and early-#Mozilla browsers.
-https://netvalley.com/ This website is lovingly devoted to the history of the Internet and the World-Wide Web. It's "a critically acclaimed site for a comprehensive history of the Internet". It's also one of the earliest websites still online, launched back in 1995.
+; Link of the day 2023-02-07
+; https://netvalley.com/ This website is lovingly devoted to the history of the Internet and the World-Wide Web. It's "a critically acclaimed site for a comprehensive history of the Internet". It's also one of the earliest websites still online, launched back in 1995.
 
 % Computers/Video Games
 ; Link of the day 2023-01-25
