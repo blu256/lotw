@@ -444,7 +444,8 @@ https://www.nationstates.net NationStates is an amazing multiplayer government s
 ; https://vivaldi.com Vivaldi is a modern browser designed to resemble the old venerable Opera browser. It has a powerful customizable GUI with many features, like web-pages in your sidebar, tab tiling and even an optional built-in e-mail client.
 ; Link of the day 2022-10-05
 ; https://www.palemoon.org/ Pale Moon is an open-source web browser which retains the interface of old Firefox editions. It offers great customizability through extensions and complete themes and integrates the latest security fixes from Mozilla upstream.
-https://www.epyrus.org/ Epyrus is an e-mail client from the Pale Moon community. It's based on Thunderbird and is in its early stages of development, but already usable.
+; Link of the day 2023-02-10
+; https://www.epyrus.org/ Epyrus is an e-mail client from the Pale Moon community. It's based on Thunderbird and is in its early stages of development, but already usable.
 ; Link of the day 2023-01-28
 ; https://otter-browser.org/ Otter Browser is a web browser which "aims to recreate the best aspects of the classic Opera (12.x) UI".
 
