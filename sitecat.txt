@@ -210,7 +210,8 @@ http://mshiltonj.com/software_wars/ This is a really old but classic collection 
 ; https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It describes itself as "an unconventional guide to life, the universe, and everything". It's like Wikipedia, but in the spirit of the Hitchhiker's Guide to the Galaxy (it was actually founded by Douglas Adams himself back in 1999, preceding Wikipedia by 2 years).
 ; Link of the day 2023-01-20
 ; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
-https://theforest.link/ "Surfing the web is becoming increasingly boring. What used to be a wild trip through stormy waters has now become a journey on a cruise ship where everything is planned and there's no longer place for craziness. This site is our attempt try bring some of that unpredictability back."
+; Link of the day 2023-02-11
+; https://theforest.link/ "Surfing the web is becoming increasingly boring. What used to be a wild trip through stormy waters has now become a journey on a cruise ship where everything is planned and there's no longer place for craziness. This site is our attempt try bring some of that unpredictability back."
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
