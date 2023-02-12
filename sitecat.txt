@@ -545,7 +545,8 @@ https://parody.fandom.com/wiki/Parody_Wiki "The Parody Wiki is just like it soun
 ; https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
 ; Link of the day 2023-02-08
 ; https://omniglot.com Omniglot is an encyclopedia of writing systems and languages. You can use it to learn about languages, to learn alphabets and other writing systems, and to learn phrases, numbers and other things in many languages. It also includes a lot of fun stuff, like idioms in different languages of the world.
-https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
+; Link of the day 2023-02-12
+; https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
