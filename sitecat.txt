@@ -534,7 +534,8 @@ https://www.nationstates.net NationStates is an amazing multiplayer government s
 ; https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
 ; Link of the day 2023-01-29
 ; https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
-https://parody.fandom.com/wiki/Parody_Wiki "The Parody Wiki is just like it sounds, a #parody site that lets you make up anything and do random stuff. Anything goes! A parody [...] is an imitative work created to mock, comment on or trivialize an original work, its subject, author, style, or some other target, by means of satiric or ironic imitation. In other words, make it funny!"
+; Link of the day 2023-02-13
+; https://parody.fandom.com/wiki/Parody_Wiki "The Parody Wiki is just like it sounds, a #parody site that lets you make up anything and do random stuff. Anything goes! A parody [...] is an imitative work created to mock, comment on or trivialize an original work, its subject, author, style, or some other target, by means of satiric or ironic imitation. In other words, make it funny!"
 
 % Fun/Language
 ; Link of the day 2022-11-09
