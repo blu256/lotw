@@ -171,7 +171,8 @@ https://catgpt.wvd.io/ If you consider ChatGPT to be boring, then check this out
 ; http://www.catb.org/~esr/jargon/html/index.html The Jargon File, your definitive guide to the hackers' slang, "illuminating many aspects of hackish tradition, folklore, and humor". (Hacker, in its original sense, means "a person who enjoys exploring the details of programmable systems and how to stretch their capabilities".
 ; Link of the day 2022-12-29
 ; http://www.bofharchive.com/ The Bastard Operator From Hell is a classic character created by Simon Travaglia in the 90s. #BOFH is a sysop who takes out his anger on his users and manipulates his employers through his vast computer knowledge. Travaglia still writes BOFH stories, which are published regularly in The Register: https://www.theregister.com/offbeat/bofh
-http://mshiltonj.com/software_wars/ This is a really old but classic collection of maps depicting "the epic struggle of Free and Open Source Software (FOSS) against the Empire of Microsoft". The first one was created back in 1998, and the last update was in 2006.
+; Link of the day 2023-02-14
+; http://mshiltonj.com/software_wars/ This is a really old but classic collection of maps depicting "the epic struggle of Free and Open Source Software (FOSS) against the Empire of Microsoft". The first one was created back in 1998, and the last update was in 2006.
 ; Link of the day 2023-02-09
 ; https://asciimation.co.nz/ Have you ever wondered how Star Wars would look in ASCII? Like on a really old text-based computer terminal? Well, this site allows you to experience it first-hand. Meet Star Wars: ASCIImation!
 
