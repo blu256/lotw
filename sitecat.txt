@@ -307,7 +307,8 @@
 ; https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
 ; Link of the day 2023-01-19
 ; https://webdiplomacy.net/ webDiplomacy is a web version of the popular turn-based strategy Diplomacy. The objective of Diplomacy is to be the first nation to own half of the supply centers in the game. ""Luck plays no part in Diplomacy. Cunning and cleverness, honesty and perfectly-timed betrayal are the tools needed to outwit your fellow players."
-https://www.nationstates.net NationStates is an amazing multiplayer government simulation browser game created and developed by Max Barry. It has a sizable online community, which frequently engages in roleplay, and an accompanying forum board. Since its launch in 2002, over 8.37 million user-created nations have been created!
+; Link of the day 2023-02-16
+; https://www.nationstates.net NationStates is an amazing multiplayer government simulation browser game created and developed by Max Barry. It has a sizable online community, which frequently engages in roleplay, and an accompanying forum board. Since its launch in 2002, over 8.37 million user-created nations have been created!
 
 % Computers/Video Games/Interactive Fiction
 ; Link of the day 2022-08-04
