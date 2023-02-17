@@ -23,6 +23,10 @@
 ; https://alexanderperrin.com.au/paper/shorttrip/ Beautiful hand-drawn animated tram ride. Just hold left or right to move. Might not work on computers.
 ; Link of the day 2022-09-20
 ; http://a-way-to-go.com/ A walk through strange country - strange, familiar, remembered, forgotten. It is a restless panorama, a disappearing path, a game and a feeling. Way to Go is a small experience that gets bigger as you uncover it.
+http://art.net/ "Art.Net (also known as Art on the Net) is a collective of artists helping each other to come up on the Internet and share their works on the World Wide Web. Artists create and maintain studios and rooms in the gallery where they show their works and share about themselves."
+
+% Arts/Animation
+https://www.awn.com/ "The Animation World Network is the largest animation-related publishing group on the Internet, providing readers from over 151 countries with a wide range of interesting, relevant and helpful information pertaining to all aspects of animation."
 
 % Arts/Web Platforms
 ; Link of the day 2022-10-17
@@ -41,6 +45,7 @@
 ; https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
 ; Link of the day 2022-10-10
 ; https://beta.digitalblasphemy.com/ Digital Blasphemy is a digital artist famous in the early days of the Internet for their amazing wallpapers (e.g. Fluorescence, the glowing mushrooms). They offer their art for sale, though some wallpapers are available for free.
+http://www.artcyclopedia.com/ Artcyclopedia is an online art gallery listing more than 9.000 artists, 2.900 art sites and 160.000 relevant links, as well as slideshows, art news and much more!
 
 % Arts/Literature
 ; Link of the day 2023-01-23
@@ -203,6 +208,7 @@
 % Computers/Fun/Weird
 ; Link of the day 2022-11-24
 ; https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "Windows bugs, mistakes and screw-ups" from Windows 95 to Windows XP.
+https://web.archive.org/web/20010827013341/http://userfriendly.org/community/ufiles/win1900a.jpg What if Windows Millenium was not Y2K-compliant? A funny background for your retro Windows desktop.
 
 % Computers/Internet
 ; Link of the day 2022-12-14
@@ -267,6 +273,7 @@
 ; http://www.andrewturnbull.net/mozilla/history.html This page is a visual web-browser history made from screenshots of Netscape and early-#Mozilla browsers.
 ; Link of the day 2023-02-07
 ; https://netvalley.com/ This website is lovingly devoted to the history of the Internet and the World-Wide Web. It's "a critically acclaimed site for a comprehensive history of the Internet". It's also one of the earliest websites still online, launched back in 1995.
+https://sillydog.org/netscape-vault SillyDog701's Netscape Vault is a collection of pages devoted to the old Netscape browsers. It features the Netscape Browser Archive, as well as everything you might want to know about the history of #Netscape and #Mozilla.
 
 % Computers/Video Games
 ; Link of the day 2023-01-25
@@ -399,6 +406,7 @@
 ; https://jdan.github.io/98.css/ 98.css is a "design system for building faithful recreations of old UIs". It is a CSS library for building interfaces that have the look and feel of Windows 98.
 ; Link of the day 2022-07-23
 ; https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
+http://augmented-ui.com/ Augmented-ui is a retrofuturistic CSS style for UI elements which presents itself as "high tech, low effort". It certainly looks like something taken out of a sci-fi movie!
 
 % Computers/Publications
 ; Link of the week 2022-05-02 (week 18)
@@ -477,6 +485,7 @@
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
 ; https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9 The rise and decline of an undoubtedly legendary web browser, Mozilla Firefox.
+https://neustadt.fr/essays/against-a-user-hostile-web/ This essay argues that "we're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people. We need to stop it."
 
 % Computers/UX
 ; Link of the week 2021-11-29 (week 48)
@@ -551,6 +560,7 @@
 ; https://omniglot.com Omniglot is an encyclopedia of writing systems and languages. You can use it to learn about languages, to learn alphabets and other writing systems, and to learn phrases, numbers and other things in many languages. It also includes a lot of fun stuff, like idioms in different languages of the world.
 ; Link of the day 2023-02-12
 ; https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
+http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
@@ -621,6 +631,7 @@
 ; https://inthe90s.com Do you miss the 90s? This is a website dedicated to all things 90s (along with its siblings, https://inthe70s.com and https://inthe80s.com).
 ; Link of the day 2022-11-19
 ; https://miningartifacts.homestead.com This is a website dedicated to mining history, to those who "daily faced the danger, uncertainty, darkness, dampness, heat and cold of mining". Contains a lot of vintage photographs and a big collection of mining equipment.
+https://www.danacountryman.com/danacovers/danacovers.html Dana Countryman's Virtual Museum of Unusual #LP Cover Art is just like what it sounds: a virtual collection of unusual covers from the old times where music would be sold in albums recorded on #vinyl discs.
 
 % Fun/Collections/Weird
 ; Link of the day 2022-08-25
