@@ -727,7 +727,8 @@ https://radio.garden Radio Garden is an online service which allows you to tune 
 ; https://www.fieggen.com/shoelace/index.htm Everything you wanted to know about shoelaces but were afraid to ask about.
 
 % Science/Astronomy
-https://www.astronomyforbeginners.com/ "Astronomy for Beginners is a editorial project designed to help you with your first steps into this incredible yet complex science".
+; Link of the day 2023-02-18
+; https://www.astronomyforbeginners.com/ "Astronomy for Beginners is a editorial project designed to help you with your first steps into this incredible yet complex science".
 
 % Technology/Trains
 ; Link of the day 2023-02-17
