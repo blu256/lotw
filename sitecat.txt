@@ -406,7 +406,8 @@ https://sillydog.org/netscape-vault SillyDog701's Netscape Vault is a collection
 ; https://jdan.github.io/98.css/ 98.css is a "design system for building faithful recreations of old UIs". It is a CSS library for building interfaces that have the look and feel of Windows 98.
 ; Link of the day 2022-07-23
 ; https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
-http://augmented-ui.com/ Augmented-ui is a retrofuturistic CSS style for UI elements which presents itself as "high tech, low effort". It certainly looks like something taken out of a sci-fi movie!
+; Link of the day 2023-02-19
+; http://augmented-ui.com/ Augmented-ui is a retrofuturistic CSS style for UI elements which presents itself as "high tech, low effort". It certainly looks like something taken out of a sci-fi movie!
 
 % Computers/Publications
 ; Link of the week 2022-05-02 (week 18)
