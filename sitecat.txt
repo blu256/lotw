@@ -561,7 +561,8 @@ https://neustadt.fr/essays/against-a-user-hostile-web/ This essay argues that "w
 ; https://omniglot.com Omniglot is an encyclopedia of writing systems and languages. You can use it to learn about languages, to learn alphabets and other writing systems, and to learn phrases, numbers and other things in many languages. It also includes a lot of fun stuff, like idioms in different languages of the world.
 ; Link of the day 2023-02-12
 ; https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
-http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
+; Link of the day 2023-02-20
+; http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
