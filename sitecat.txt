@@ -674,7 +674,8 @@ https://www.danacountryman.com/danacovers/danacovers.html Dana Countryman's Virt
 ; http://osmocom-analog.eversberg.eu/ Osmocom-Analog is "a project that documents the functionality and knowledge of former analogue mobile networks. The included software allows the emulation of these mobile networks to communicate with Historical mobile phones again."
 ; Link of the day 2022-11-05
 ; http://priyom.org Priyom is an international organization intending to research and bring to light the mysterious reality of intelligence, military and diplomatic communication via shortwave radio (number stations).
-https://radio.garden Radio Garden is an online service which allows you to tune in and listen to #radio stations from around the world by spinning a virtual 3D globe.
+; Link of the day 2023-02-21
+; https://radio.garden Radio Garden is an online service which allows you to tune in and listen to #radio stations from around the world by spinning a virtual 3D globe.
 
 % Fun/Videos/Weird
 ; Link of the day 2022-08-16
