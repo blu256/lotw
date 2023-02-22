@@ -486,7 +486,8 @@ https://sillydog.org/netscape-vault SillyDog701's Netscape Vault is a collection
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
 ; https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9 The rise and decline of an undoubtedly legendary web browser, Mozilla Firefox.
-https://neustadt.fr/essays/against-a-user-hostile-web/ This essay argues that "we're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people. We need to stop it."
+; Link of the day 2023-02-22
+; https://neustadt.fr/essays/against-a-user-hostile-web/ This essay argues that "we're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people. We need to stop it."
 
 % Computers/UX
 ; Link of the week 2021-11-29 (week 48)
