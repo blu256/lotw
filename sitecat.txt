@@ -45,7 +45,8 @@ https://www.awn.com/ "The Animation World Network is the largest animation-relat
 ; https://www.wga.hu/index.html The Web Gallery of Art is a virtual museum and searchable database of European fine arts, decorative arts and architecture (3rd-19th centuries), currently containing over 52.800 reproductions. Artist biographies, commentaries, guided tours, period music, catalogue, free postcard and mobile services are provided.
 ; Link of the day 2022-10-10
 ; https://beta.digitalblasphemy.com/ Digital Blasphemy is a digital artist famous in the early days of the Internet for their amazing wallpapers (e.g. Fluorescence, the glowing mushrooms). They offer their art for sale, though some wallpapers are available for free.
-http://www.artcyclopedia.com/ Artcyclopedia is an online art gallery listing more than 9.000 artists, 2.900 art sites and 160.000 relevant links, as well as slideshows, art news and much more!
+; Link of the day 2023-02-24
+; http://www.artcyclopedia.com/ Artcyclopedia is an online art gallery listing more than 9.000 artists, 2.900 art sites and 160.000 relevant links, as well as slideshows, art news and much more!
 
 % Arts/Literature
 ; Link of the day 2023-01-23
