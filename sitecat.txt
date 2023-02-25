@@ -636,7 +636,8 @@ https://web.archive.org/web/20010827013341/http://userfriendly.org/community/ufi
 ; https://inthe90s.com Do you miss the 90s? This is a website dedicated to all things 90s (along with its siblings, https://inthe70s.com and https://inthe80s.com).
 ; Link of the day 2022-11-19
 ; https://miningartifacts.homestead.com This is a website dedicated to mining history, to those who "daily faced the danger, uncertainty, darkness, dampness, heat and cold of mining". Contains a lot of vintage photographs and a big collection of mining equipment.
-https://www.danacountryman.com/danacovers/danacovers.html Dana Countryman's Virtual Museum of Unusual #LP Cover Art is just like what it sounds: a virtual collection of unusual covers from the old times where music would be sold in albums recorded on #vinyl discs.
+; Link of the day 2023-02-25
+; https://www.danacountryman.com/danacovers/danacovers.html Dana Countryman's Virtual Museum of Unusual #LP Cover Art is just like what it sounds: a virtual collection of unusual covers from the old times where music would be sold in albums recorded on #vinyl discs.
 
 % Fun/Collections/Weird
 ; Link of the day 2022-08-25
