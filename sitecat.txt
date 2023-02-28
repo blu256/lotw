@@ -27,7 +27,8 @@
 ; http://art.net/ "Art.Net (also known as Art on the Net) is a collective of artists helping each other to come up on the Internet and share their works on the World Wide Web. Artists create and maintain studios and rooms in the gallery where they show their works and share about themselves."
 
 % Arts/Animation
-https://www.awn.com/ "The Animation World Network is the largest animation-related publishing group on the Internet, providing readers from over 151 countries with a wide range of interesting, relevant and helpful information pertaining to all aspects of animation."
+; Link of the day 2023-02-28
+; https://www.awn.com/ "The Animation World Network is the largest animation-related publishing group on the Internet, providing readers from over 151 countries with a wide range of interesting, relevant and helpful information pertaining to all aspects of animation."
 
 % Arts/Web Platforms
 ; Link of the day 2022-10-17
