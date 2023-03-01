@@ -235,12 +235,14 @@
 ; http://web.archive.org/ Wayback Machine allows you to see websites as they were in a given point in the past. Internet Archive, the company behind it, also offers a trove of freely accessible or borrowable books, movies, documents, pictures and software.
 ; Link of the day 2023-01-08
 ; https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
+https://oldavista.com Old'aVista is a search engine which imitates AltaVista from 1999. It searches through the Internet Archive for old website versions, covering all your needs for retro web-browsing.
 
 % Computers/Internet/Fediverse
 ; Link of the day 2023-02-03
 ; https://fedi.tips/ Fedi.tips (@feditips@mstdn.social) is an "unofficial guide to Mastodon and the Fediverse". It's a great site that contains a big number of articles on whatever you might need to know about the Fediverse.
 ; Link of the day 2023-02-01
 ; https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services) is a great online human-curated directory of interesting accounts on the Fediverse, categorized by interests, region and/or language.
+https://the-federation.info/ The Federation is a website dedicated to "gathering statistics about nodes in the fediverse". Nodes have to be registered separately in this service in order to participate.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
@@ -333,14 +335,23 @@
 ; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
 ; Link of the day 2023-02-04
 ; http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from the 1980's, the dawn of modern computing history. "The focus is on mid-1980's textfiles and the world as it was then, but even these files are sometime retooled 1960s and 1970s works, and offshoots of this culture exist to this day."
+http://lecture.eingang.org/ A 1994 lecture on computers history, which itself belongs to history. An online presentation and a nostalgia trip complete with a 90s look and feel.
 
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
 ; https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 ; Link of the day 2022-09-07
 ; https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
+
+% Computers/Linux/Distributions
 ; Link of the day 2023-01-07
 ; https://distrowatch.com Distrowatch is the probably most popular Internet resource about the various Linux distributions. It features information on the latest version of most *nix distributions. It also features news on new releases, reviews and much more.
+; Link of the day 2022-07-17
+; https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
+https://www.debian.org Debian GNU/Linux is a popular Linux distribution with focus on free and open-source software. It is developed by the Debian Project, an association of individuals who have made common cause to create a free operating system.
+https://www.devuan.org/ "Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom."
+https://www.opensuse.org/ OpenSUSE is a free and open-source Linux distribution. It aims to be easy to use and comes with the powerful YaST system configuration tool.
+https://www.slackware.com/ Slackware is the oldest Linux distribution that's still around. It is said to be the most Unix'y distribution of all.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
@@ -433,10 +444,12 @@
 ; https://switching.software/ switching.software is a website that is trying to let people know about ethical and easy-to-use alternatives to well-known websites, apps and other software. There associated Fediverse account is: @switchingsoftware@mstdn.swiso.org.
 ; Link of the day 2022-09-18
 ; https://wiki.archlinux.org/title/List_of_applications This ArchLinux wiki article is a great list of Linux applications sorted by category. There are countless categories and probably anything you might want to do on your machine is covered by a category in this list.
+https://www.blender.org/ Blender is a cross-platform free and open source 3D creation suite. Blender "supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation".
 
 % Computers/Software/Communication
 ; Link of the day 2022-07-14
 ; https://jitsi.com Jitsi is a FOSS video conferencing tool. It can also host meetings for free, so you can start a meeting without an account straight from your browser, without the 40-minute time limit of a well-known proprietary alternative.
+https://www.thunderbird.net/ Thunderbird is a popular free and open-source desktop e-mail client which is cross-platform, fully-featured and easy to use.
 
 % Computers/Software/Desktop
 ; Link of the week 2021-12-13 (week 50)
@@ -481,8 +494,6 @@
 ; https://serenityos.org/ SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems. Roughly speaking, the goal is a marriage between the aesthetic of late-1990s productivity software and the power-user accessibility of late-2000s *nix.
 ; Link of the day 2022-09-13
 ; https://www.freebsd.org/ FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
-; Link of the day 2022-07-17
-; https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
 ; Link of the day 2022-11-30
 ; http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
 ; Link of the day 2023-02-02
@@ -523,6 +534,9 @@
 ;;  Environment
 ;;
 
+% Environment
+https://earthobservatory.nasa.gov/topic/image-of-the-day NASA Earth Observatory's Image of the Day publishes satellite or field images of Earth, its environment, ecosystems and climate.
+
 % Environment/Sustainability
 ; Link of the day 2022-08-01
 ; https://ploum.net/the-computer-built-to-last-50-years/ An opinion piece on how to create the long-standing computer that will save your attention, your wallet, your creativity, your soul and the planet.
@@ -553,8 +567,11 @@
 ; https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
 ; Link of the day 2023-01-29
 ; https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
+
+% Fun/Parody
 ; Link of the day 2023-02-13
 ; https://parody.fandom.com/wiki/Parody_Wiki "The Parody Wiki is just like it sounds, a #parody site that lets you make up anything and do random stuff. Anything goes! A parody [...] is an imitative work created to mock, comment on or trivialize an original work, its subject, author, style, or some other target, by means of satiric or ironic imitation. In other words, make it funny!"
+https://boodlebox.neocities.org/blinkexchange/blink The Internet Blink Exchange is a parody of link exchange websites. Instead of providing you ad space for your website banner, it offers you the unique opportunity to place *its* banner on *your* website for free! 
 
 % Fun/Language
 ; Link of the day 2022-11-09
@@ -683,6 +700,7 @@
 ; http://priyom.org Priyom is an international organization intending to research and bring to light the mysterious reality of intelligence, military and diplomatic communication via shortwave radio (number stations).
 ; Link of the day 2023-02-21
 ; https://radio.garden Radio Garden is an online service which allows you to tune in and listen to #radio stations from around the world by spinning a virtual 3D globe.
+https://radio-locator.com/ Radio-Locator claims to be "the most trusted AM and FM radio station search engine on the internet", containing links to "over 17,500 radio stations' web pages and over 12,600 stations' audio streams from radio stations in the U.S. and around the world".
 
 % Fun/Videos/Weird
 ; Link of the day 2022-08-16
@@ -727,6 +745,10 @@
 ; https://garfieldminusgarfield.net Have you ever imagined how the Garfield comic would be without its protagonist? "Garfield Minus Garfield is a site dedicated to removing Garfield from the Garfield comic strips in order to reveal the existential angst of a certain young Mr. Jon Arbuckle."
 ; Link of the day 2022-10-28
 ; https://www.eviscerati.org/comics/hd/ Help Desk is a webcomic by @ubersoft@mastodon.social revolving around Ubersoft, an evil tech megacorportation, mostly through the eyes of a help desk technician working there.
+https://litbrick.com/ LitBrick is a web-comic by Jodie Troutman, who started it "in an effort to read the entire Norton Anthology of English Literature". Today it features "comics about all manner of random literature".
+
+% Informational
+https://www.tk421.net/librarylink/ "The Library Link of the Day provides you a daily link for keeping up to date with the library profession. Destinations include the latest library news, good reads on the web, and other valuable resources that a library knowledge worker should know about".
 
 % Informational/Licenses
 ; Link of the day 2022-11-16
@@ -739,6 +761,7 @@
 % Science/Astronomy
 ; Link of the day 2023-02-18
 ; https://www.astronomyforbeginners.com/ "Astronomy for Beginners is a editorial project designed to help you with your first steps into this incredible yet complex science".
+https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
 
 % Technology/Trains
 ; Link of the day 2023-02-17
