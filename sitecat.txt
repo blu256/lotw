@@ -1,6 +1,6 @@
 ; Sites/Links Catalog
 ; -------------------
-;  Curator:  @blu256@koyu.space
+;  Curator:  @blu256@udongein.xyz
 ;
 ;  Syntax:
 ;   * Lines that begin with ';' are comments.
