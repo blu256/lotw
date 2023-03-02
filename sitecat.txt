@@ -444,7 +444,8 @@ https://www.slackware.com/ Slackware is the oldest Linux distribution that's sti
 ; https://switching.software/ switching.software is a website that is trying to let people know about ethical and easy-to-use alternatives to well-known websites, apps and other software. There associated Fediverse account is: @switchingsoftware@mstdn.swiso.org.
 ; Link of the day 2022-09-18
 ; https://wiki.archlinux.org/title/List_of_applications This ArchLinux wiki article is a great list of Linux applications sorted by category. There are countless categories and probably anything you might want to do on your machine is covered by a category in this list.
-https://www.blender.org/ Blender is a cross-platform free and open source 3D creation suite. Blender "supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation".
+; Link of the day 2023-03-02
+; https://www.blender.org/ Blender is a cross-platform free and open source 3D creation suite. Blender "supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation".
 
 % Computers/Software/Communication
 ; Link of the day 2022-07-14
