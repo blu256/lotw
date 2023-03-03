@@ -536,7 +536,8 @@ https://www.thunderbird.net/ Thunderbird is a popular free and open-source deskt
 ;;
 
 % Environment
-https://earthobservatory.nasa.gov/topic/image-of-the-day NASA Earth Observatory's Image of the Day publishes satellite or field images of Earth, its environment, ecosystems and climate.
+; Link of the day 2023-03-03
+; https://earthobservatory.nasa.gov/topic/image-of-the-day NASA Earth Observatory's Image of the Day publishes satellite or field images of Earth, its environment, ecosystems and climate.
 
 % Environment/Sustainability
 ; Link of the day 2022-08-01
