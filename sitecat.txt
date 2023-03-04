@@ -349,7 +349,8 @@ http://lecture.eingang.org/ A 1994 lecture on computers history, which itself be
 ; Link of the day 2022-07-17
 ; https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
 https://www.debian.org Debian GNU/Linux is a popular Linux distribution with focus on free and open-source software. It is developed by the Debian Project, an association of individuals who have made common cause to create a free operating system.
-https://www.devuan.org/ "Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom."
+; Link of the day 2023-03-04
+; https://www.devuan.org/ "Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom."
 https://www.opensuse.org/ OpenSUSE is a free and open-source Linux distribution. It aims to be easy to use and comes with the powerful YaST system configuration tool.
 https://www.slackware.com/ Slackware is the oldest Linux distribution that's still around. It is said to be the most Unix'y distribution of all.
 
