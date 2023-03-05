@@ -752,7 +752,8 @@ https://radio-locator.com/ Radio-Locator claims to be "the most trusted AM and F
 ; https://litbrick.com/ LitBrick is a web-comic by Jodie Troutman, who started it "in an effort to read the entire Norton Anthology of English Literature". Today it features "comics about all manner of random literature".
 
 % Informational
-https://www.tk421.net/librarylink/ "The Library Link of the Day provides you a daily link for keeping up to date with the library profession. Destinations include the latest library news, good reads on the web, and other valuable resources that a library knowledge worker should know about".
+; Link of the day 2023-03-05
+; https://www.tk421.net/librarylink/ "The Library Link of the Day provides you a daily link for keeping up to date with the library profession. Destinations include the latest library news, good reads on the web, and other valuable resources that a library knowledge worker should know about".
 
 % Informational/Licenses
 ; Link of the day 2022-11-16
