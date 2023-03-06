@@ -571,6 +571,7 @@ https://www.thunderbird.net/ Thunderbird is a popular free and open-source deskt
 ; https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
 ; Link of the day 2023-01-29
 ; https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
+https://nojoeschmo.com This website is dedicated to stories of people with "cool and crazy jobs — and how they got them" (submitted by @saoqingniang@go5.dev).
 
 % Fun/Parody
 ; Link of the day 2023-02-13
