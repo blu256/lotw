@@ -335,7 +335,8 @@ https://the-federation.info/ The Federation is a website dedicated to "gathering
 ; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
 ; Link of the day 2023-02-04
 ; http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from the 1980's, the dawn of modern computing history. "The focus is on mid-1980's textfiles and the world as it was then, but even these files are sometime retooled 1960s and 1970s works, and offshoots of this culture exist to this day."
-http://lecture.eingang.org/ A 1994 lecture on computers history, which itself belongs to history. An online presentation and a nostalgia trip complete with a 90s look and feel.
+; Link of the day 2023-03-06
+; http://lecture.eingang.org/ A 1994 lecture on computers history, which itself belongs to history. An online presentation and a nostalgia trip complete with a 90s look and feel.
 
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
