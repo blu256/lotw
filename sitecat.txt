@@ -768,7 +768,8 @@ https://radio-locator.com/ Radio-Locator claims to be "the most trusted AM and F
 % Science/Astronomy
 ; Link of the day 2023-02-18
 ; https://www.astronomyforbeginners.com/ "Astronomy for Beginners is a editorial project designed to help you with your first steps into this incredible yet complex science".
-https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
+; Link of the day 2023-03-07
+; https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
 
 % Technology/Trains
 ; Link of the day 2023-02-17
