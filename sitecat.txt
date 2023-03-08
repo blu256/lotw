@@ -242,7 +242,8 @@ https://oldavista.com Old'aVista is a search engine which imitates AltaVista fro
 ; https://fedi.tips/ Fedi.tips (@feditips@mstdn.social) is an "unofficial guide to Mastodon and the Fediverse". It's a great site that contains a big number of articles on whatever you might need to know about the Fediverse.
 ; Link of the day 2023-02-01
 ; https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services) is a great online human-curated directory of interesting accounts on the Fediverse, categorized by interests, region and/or language.
-https://the-federation.info/ The Federation is a website dedicated to "gathering statistics about nodes in the fediverse". Nodes have to be registered separately in this service in order to participate.
+; Link of the day 2023-03-08
+; https://the-federation.info/ The Federation is a website dedicated to "gathering statistics about nodes in the fediverse". Nodes have to be registered separately in this service in order to participate.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
