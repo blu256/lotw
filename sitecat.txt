@@ -353,7 +353,8 @@ https://oldavista.com Old'aVista is a search engine which imitates AltaVista fro
 https://www.debian.org Debian GNU/Linux is a popular Linux distribution with focus on free and open-source software. It is developed by the Debian Project, an association of individuals who have made common cause to create a free operating system.
 ; Link of the day 2023-03-04
 ; https://www.devuan.org/ "Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom."
-https://www.opensuse.org/ OpenSUSE is a free and open-source Linux distribution. It aims to be easy to use and comes with the powerful YaST system configuration tool.
+; Link of the day 2023-03-10
+; https://www.opensuse.org/ OpenSUSE is a free and open-source Linux distribution. It aims to be easy to use and comes with the powerful YaST system configuration tool.
 https://www.slackware.com/ Slackware is the oldest Linux distribution that's still around. It is said to be the most Unix'y distribution of all.
 
 % Computers/Privacy
