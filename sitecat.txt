@@ -350,7 +350,8 @@ https://oldavista.com Old'aVista is a search engine which imitates AltaVista fro
 ; https://distrowatch.com Distrowatch is the probably most popular Internet resource about the various Linux distributions. It features information on the latest version of most *nix distributions. It also features news on new releases, reviews and much more.
 ; Link of the day 2022-07-17
 ; https://elementary.io elementary OS (@elementary@mastodon.social) is a Linux distribution that promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows. It puts emphasis on beautiful UI design and user friendliness. It comes with the Pantheon desktop environment which is developed and maintained by the elementary team.
-https://www.debian.org Debian GNU/Linux is a popular Linux distribution with focus on free and open-source software. It is developed by the Debian Project, an association of individuals who have made common cause to create a free operating system.
+; Link of the day 2023-03-13
+; https://www.debian.org Debian GNU/Linux is a popular Linux distribution with focus on free and open-source software. It is developed by the Debian Project, an association of individuals who have made common cause to create a free operating system.
 ; Link of the day 2023-03-04
 ; https://www.devuan.org/ "Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom."
 ; Link of the day 2023-03-10
