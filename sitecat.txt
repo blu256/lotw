@@ -582,7 +582,8 @@ https://oldavista.com Old'aVista is a search engine which imitates AltaVista fro
 % Fun/Parody
 ; Link of the day 2023-02-13
 ; https://parody.fandom.com/wiki/Parody_Wiki "The Parody Wiki is just like it sounds, a #parody site that lets you make up anything and do random stuff. Anything goes! A parody [...] is an imitative work created to mock, comment on or trivialize an original work, its subject, author, style, or some other target, by means of satiric or ironic imitation. In other words, make it funny!"
-https://boodlebox.neocities.org/blinkexchange/blink The Internet Blink Exchange is a parody of link exchange websites. Instead of providing you ad space for your website banner, it offers you the unique opportunity to place *its* banner on *your* website for free! 
+; Link of the day 2023-03-15
+; https://boodlebox.neocities.org/blinkexchange/blink The Internet Blink Exchange is a parody of link exchange websites. Instead of providing you ad space for your website banner, it offers you the unique opportunity to place *its* banner on *your* website for free! 
 
 % Fun/Language
 ; Link of the day 2022-11-09
