@@ -235,7 +235,8 @@
 ; http://web.archive.org/ Wayback Machine allows you to see websites as they were in a given point in the past. Internet Archive, the company behind it, also offers a trove of freely accessible or borrowable books, movies, documents, pictures and software.
 ; Link of the day 2023-01-08
 ; https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
-https://oldavista.com Old'aVista is a search engine which imitates AltaVista from 1999. It searches through the Internet Archive for old website versions, covering all your needs for retro web-browsing.
+; Link of the day 2023-03-16
+; https://oldavista.com Old'aVista is a search engine which imitates AltaVista from 1999. It searches through the Internet Archive for old website versions, covering all your needs for retro web-browsing.
 
 % Computers/Internet/Fediverse
 ; Link of the day 2023-02-03
