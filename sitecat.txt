@@ -1,6 +1,6 @@
 ; Sites/Links Catalog
 ; -------------------
-;  Curator:  @blu256@udongein.xyz
+;  Curator:  blu.256 <blu256@proton.me>
 ;
 ;  Syntax:
 ;   * Lines that begin with ';' are comments.
@@ -225,6 +225,8 @@
 ; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
 ; Link of the day 2023-02-11
 ; https://theforest.link/ "Surfing the web is becoming increasingly boring. What used to be a wild trip through stormy waters has now become a journey on a cruise ship where everything is planned and there's no longer place for craziness. This site is our attempt try bring some of that unpredictability back."
+https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
+
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
@@ -245,6 +247,12 @@
 ; https://fedi.directory/ Fedi.Directory (@FediFollows@social.growyourown.services) is a great online human-curated directory of interesting accounts on the Fediverse, categorized by interests, region and/or language.
 ; Link of the day 2023-03-08
 ; https://the-federation.info/ The Federation is a website dedicated to "gathering statistics about nodes in the fediverse". Nodes have to be registered separately in this service in order to participate.
+https://pleroma.social #Pleroma is a Fediverse-compatible social media platform inspired by Twitter. It has a set of features that distinguishes it from other platforms like Mastodon, including emoji reactions, a post length limit of 5000 characters and Markdown post support.
+https://write.tedomum.net/rgx/discover-pleroma This blog post briefly discusses switching to, using and configuring #Pleroma, a popular rich-featured Mastodon alternative. In the addendum you can find posts about finding good Pleroma instances.
+https://misskey-hub.net/en/ #Misskey is an open source, decentralized, Fediverse-compatible social media platform which claims to be "both easy to understand for beginners and has powerful features for advanced users".
+https://friendi.ca/ #Friendica is a federated social media platform and communication hub compatible not only with the Fediverse, but also Twitter, Diaspora, Pump.io and StatusNet. Users can also use Friendica as a publishing platform to post content to WordPress, Tumblr and Libertree. 
+https://diasporafoundation.org/ #diaspora* is a federated social media platform which appeared in 2010, when a group of friends decided to create a social network that would return control to users. It uses its own protocol, incompatible with most Fedi platforms, and supports Markdown formatting and following hashtags.
+https://fediverse.party/ Fediverse.Party (#FediParty) is a website which tries to unite all federated social networks under 'Fediverse' name. It depicts the different platforms as countries on a virtual map and offers basic facts and useful links about each one.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
@@ -261,6 +269,8 @@
 ; https://emojipedia.org Emojipedia is (guess what?) an online encyclopedia of all emojis. It's a definitive resource for emojis and their meanings.
 ; Link of the day 2022-08-17
 ; https://txt.fyi/ txt.fyi is "the dumbest publishing platform on the web. Write something, hit publish, and it's live." Here you can scream into the void and know the form of your voice is out there forever".
+https://time.is/ Time.is provides a variety of time and date related services, such as clock accuracycheck, time comparisons, country and calendar information, and can display the time in 7 million locations around the world.
+https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -397,6 +407,8 @@
 ; https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 ; Link of the day 2022-09-10
 ; https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
+https://sourcehut.org/ SourceHut is a minimal free and open-source software development platform focused on providing the fastest and lightest, JavaScript-free software forge which supports GIT and Mercurial. It is currently in alpha, but it is ready for production use.
+https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
@@ -517,6 +529,9 @@
 % Computers/UX
 ; Link of the week 2021-11-29 (week 48)
 ; https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
+
+% Computers/Learning
+https://www.markdownguide.org/ "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document."
 
 
 ;;
