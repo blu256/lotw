@@ -273,7 +273,8 @@ https://diasporafoundation.org/ #diaspora* is a federated social media platform 
 ; https://txt.fyi/ txt.fyi is "the dumbest publishing platform on the web. Write something, hit publish, and it's live." Here you can scream into the void and know the form of your voice is out there forever".
 ; Link of the day 2023-03-17
 ; https://time.is/ Time.is provides a variety of time and date related services, such as clock accuracycheck, time comparisons, country and calendar information, and can display the time in 7 million locations around the world.
-https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
+; Link of the day 2023-03-20
+; https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
