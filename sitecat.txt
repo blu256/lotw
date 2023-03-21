@@ -535,7 +535,8 @@ https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightwei
 ; https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
 
 % Computers/Learning
-https://www.markdownguide.org/ "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document."
+; Link of the day 2023-03-21
+; https://www.markdownguide.org/ "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document."
 
 
 ;;
