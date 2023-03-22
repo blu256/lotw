@@ -225,7 +225,8 @@
 ; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
 ; Link of the day 2023-02-11
 ; https://theforest.link/ "Surfing the web is becoming increasingly boring. What used to be a wild trip through stormy waters has now become a journey on a cruise ship where everything is planned and there's no longer place for craziness. This site is our attempt try bring some of that unpredictability back."
-https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
+; Link of the day 2023-03-22
+; https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
 
 
 % Computers/Internet/Search engines
