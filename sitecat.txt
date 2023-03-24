@@ -414,7 +414,8 @@ https://friendi.ca/ #Friendica is a federated social media platform and communic
 ; Link of the day 2022-09-10
 ; https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
 https://sourcehut.org/ SourceHut is a minimal free and open-source software development platform focused on providing the fastest and lightest, JavaScript-free software forge which supports GIT and Mercurial. It is currently in alpha, but it is ready for production use.
-https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
+; Link of the day 2023-03-24
+; https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
