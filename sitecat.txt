@@ -258,6 +258,7 @@ https://friendi.ca/ #Friendica is a federated social media platform and communic
 ; https://diasporafoundation.org/ #diaspora* is a federated social media platform which appeared in 2010, when a group of friends decided to create a social network that would return control to users. It uses its own protocol, incompatible with most Fedi platforms, and supports Markdown formatting and following hashtags.
 ; Link of the day 2023-03-19
 ; https://fediverse.party/ Fediverse.Party (#FediParty) is a website which tries to unite all federated social networks under 'Fediverse' name. It depicts the different platforms as countries on a virtual map and offers basic facts and useful links about each one.
+https://docs.gotosocial.org/en/latest/ "GoToSocial is a Fediverse-compatible social media platform server. It's Mastodon API-compatible, but uses far, far less resources. It's written in Golang, and can run for a small user community on a $5/month VPS." (contributed by @vandys@goto.vsta.org)
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
@@ -418,6 +419,8 @@ https://friendi.ca/ #Friendica is a federated social media platform and communic
 ; https://sourcehut.org/ SourceHut is a minimal free and open-source software development platform focused on providing the fastest and lightest, JavaScript-free software forge which supports GIT and Mercurial. It is currently in alpha, but it is ready for production use.
 ; Link of the day 2023-03-24
 ; https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
+https://github.com/fffaraz/awesome-cpp Awesome C++ is "a curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things."
+https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
@@ -431,7 +434,7 @@ https://friendi.ca/ #Friendica is a federated social media platform and communic
 ; Link of the day 2022-07-16
 ; https://morgan3d.github.io/nano/doc/specification.md.html The nano JAMMER is a fantasy console for tiny games. It is perfect for hobby coding, a game programming course, and tweetjams. The nano integrated development environment is free, runs in a browser, and connects to Google Drive. So, you can turn a few spare minutes on any computer or tablet into productive coding time.
 ; Link of the day 2022-07-06
-; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching research and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
+; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
 ; Link of the day 2022-09-22
 ; https://tic80.com/ TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games (contributed by @moddedBear@fosstodon.org).
 ; Link of the day 2022-10-23
@@ -794,6 +797,11 @@ https://friendi.ca/ #Friendica is a federated social media platform and communic
 % Informational/Licenses
 ; Link of the day 2022-11-16
 ; https://creativecommons.org/about/cclicenses/ The website of the Creative Commons licences, which give every person and organization in the world a free, simple, and standardized way to grant copyright permissions for creative and academic works; ensure proper attribution; and allow others to copy, distribute, and make use of those works.
+
+% Informational/History
+http://web.archive.org/web/20230313224817/https://www.osti.gov/opennet/manhattan-project-history/index.htm The Manhattan Project: An Interactive History is a website "intended to provide an overview of the Manhattan Project". It is "the result of a collaborative effort headed by the United States Department of Energy's Office of History and Heritage Resources, with the assistance of graduate fellows in recent American history".
+http://groklaw.net/ Groklaw is a website that covered legal news of interest to the FOSS community, such as the SCO-Linux lawsuits, the EU antitrust case against Microsoft, and the standardization of Office Open XML. It was launched in 2003 as a law blog by Pamela Jones.
+
 
 % Informational/Everyday life
 ; Link of the day 2022-09-25
