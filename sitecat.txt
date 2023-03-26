@@ -414,7 +414,8 @@ https://friendi.ca/ #Friendica is a federated social media platform and communic
 ; https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 ; Link of the day 2022-09-10
 ; https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
-https://sourcehut.org/ SourceHut is a minimal free and open-source software development platform focused on providing the fastest and lightest, JavaScript-free software forge which supports GIT and Mercurial. It is currently in alpha, but it is ready for production use.
+; Link of the day 2023-03-26
+; https://sourcehut.org/ SourceHut is a minimal free and open-source software development platform focused on providing the fastest and lightest, JavaScript-free software forge which supports GIT and Mercurial. It is currently in alpha, but it is ready for production use.
 ; Link of the day 2023-03-24
 ; https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
 
