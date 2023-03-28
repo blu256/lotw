@@ -55,6 +55,7 @@
 ; http://www.theletterspage.ac.uk/ The Letters Page is a literary journal published in the form of letters. "We publish essays, stories, poetry, memoir, travelogue, and criticism; but all in the form of letters. We are interested in the literary traditions of letter-writing, and in the idea of correspondence in a digital age. We would love to hear from you."
 ; Link of the day 2023-01-21
 ; https://www.bulwer-lytton.com/ "Since 1982 the Bulwer Lytton Fiction Contest has challenged participants to write an atrocious opening sentence to the worst novel never written. [...] The contest receives thousands of entries each year, and every summer our Panel of Undistinguished Judges convenes to select winners and dishonorable mentions for such categories as Purpose Prose and Vile Puns."
+https://www.royalroad.com/ Royal Road is a platform that was created "by readers (by fans), because we wanted to read more. We made sure that we have awesome stories to read with easy ways to find them. With a constantly improving set of tools to support the authors on their road to becoming successful" (contributed by @Crab@mstdn.social).
 
 % Arts/Music
 ; Link of the day 2022-07-21
@@ -280,6 +281,7 @@ https://docs.gotosocial.org/en/latest/ "GoToSocial is a Fediverse-compatible soc
 ; https://time.is/ Time.is provides a variety of time and date related services, such as clock accuracycheck, time comparisons, country and calendar information, and can display the time in 7 million locations around the world.
 ; Link of the day 2023-03-20
 ; https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
+https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -628,6 +630,7 @@ https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweig
 ; https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
 ; Link of the day 2023-02-20
 ; http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
+https://esperanto.net/en/ This is a website about Esperanto, "the international language". Esperanto is the most popular constructed language which aims "to be a “bridge” between different language communities". Due to its simple rules, "people usually manage to learn Esperanto several times faster than any other language".
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
