@@ -803,7 +803,7 @@ https://esperanto.net/en/ This is a website about Esperanto, "the international 
 ; https://creativecommons.org/about/cclicenses/ The website of the Creative Commons licences, which give every person and organization in the world a free, simple, and standardized way to grant copyright permissions for creative and academic works; ensure proper attribution; and allow others to copy, distribute, and make use of those works.
 
 % Informational/History
-http://web.archive.org/web/20230313224817/https://www.osti.gov/opennet/manhattan-project-history/index.htm The Manhattan Project: An Interactive History is a website "intended to provide an overview of the Manhattan Project". It is "the result of a collaborative effort headed by the United States Department of Energy's Office of History and Heritage Resources, with the assistance of graduate fellows in recent American history".
+https://www.osti.gov/opennet/manhattan-project-history/index.htm The Manhattan Project: An Interactive History is a website "intended to provide an overview of the Manhattan Project". It is "the result of a collaborative effort headed by the United States Department of Energy's Office of History and Heritage Resources, with the assistance of graduate fellows in recent American history".
 http://groklaw.net/ Groklaw is a website that covered legal news of interest to the FOSS community, such as the SCO-Linux lawsuits, the EU antitrust case against Microsoft, and the standardization of Office Open XML. It was launched in 2003 as a law blog by Pamela Jones.
 
 
