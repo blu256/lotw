@@ -423,7 +423,8 @@ https://freesvg.org/ FreeSVG is a community clipart website which was launched a
 ; Link of the day 2023-03-24
 ; https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
 https://github.com/fffaraz/awesome-cpp Awesome C++ is "a curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things."
-https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
+; Link of the day 2023-03-29
+; https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
