@@ -55,7 +55,8 @@
 ; http://www.theletterspage.ac.uk/ The Letters Page is a literary journal published in the form of letters. "We publish essays, stories, poetry, memoir, travelogue, and criticism; but all in the form of letters. We are interested in the literary traditions of letter-writing, and in the idea of correspondence in a digital age. We would love to hear from you."
 ; Link of the day 2023-01-21
 ; https://www.bulwer-lytton.com/ "Since 1982 the Bulwer Lytton Fiction Contest has challenged participants to write an atrocious opening sentence to the worst novel never written. [...] The contest receives thousands of entries each year, and every summer our Panel of Undistinguished Judges convenes to select winners and dishonorable mentions for such categories as Purpose Prose and Vile Puns."
-https://www.royalroad.com/ Royal Road is a platform that was created "by readers (by fans), because we wanted to read more. We made sure that we have awesome stories to read with easy ways to find them. With a constantly improving set of tools to support the authors on their road to becoming successful" (contributed by @Crab@mstdn.social).
+; Link of the day 2023-03-31
+; https://www.royalroad.com/ Royal Road is a platform that was created "by readers (by fans), because we wanted to read more. We made sure that we have awesome stories to read with easy ways to find them. With a constantly improving set of tools to support the authors on their road to becoming successful" (contributed by @Crab@mstdn.social).
 
 % Arts/Music
 ; Link of the day 2022-07-21
