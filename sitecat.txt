@@ -633,7 +633,8 @@ https://freesvg.org/ FreeSVG is a community clipart website which was launched a
 ; https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
 ; Link of the day 2023-02-20
 ; http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
-https://esperanto.net/en/ This is a website about Esperanto, "the international language". Esperanto is the most popular constructed language which aims "to be a “bridge” between different language communities". Due to its simple rules, "people usually manage to learn Esperanto several times faster than any other language".
+; Link of the day 2023-04-01
+; https://esperanto.net/en/ This is a website about Esperanto, "the international language". Esperanto is the most popular constructed language which aims "to be a “bridge” between different language communities". Due to its simple rules, "people usually manage to learn Esperanto several times faster than any other language".
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
