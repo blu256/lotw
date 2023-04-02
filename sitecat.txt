@@ -252,7 +252,8 @@
 ; https://the-federation.info/ The Federation is a website dedicated to "gathering statistics about nodes in the fediverse". Nodes have to be registered separately in this service in order to participate.
 ; Link of the day 2023-03-25
 ; https://pleroma.social #Pleroma is a Fediverse-compatible social media platform inspired by Twitter. It has a set of features that distinguishes it from other platforms like Mastodon, including emoji reactions, a post length limit of 5000 characters and Markdown post support.
-https://write.tedomum.net/rgx/discover-pleroma This blog post briefly discusses switching to, using and configuring #Pleroma, a popular rich-featured Mastodon alternative. In the addendum you can find posts about finding good Pleroma instances.
+; Link of the day 2023-04-02
+; https://write.tedomum.net/rgx/discover-pleroma This blog post briefly discusses switching to, using and configuring #Pleroma, a popular rich-featured Mastodon alternative. In the addendum you can find posts about finding good Pleroma instances.
 ; Link of the day 2023-03-18
 ; https://misskey-hub.net/en/ #Misskey is an open source, decentralized, Fediverse-compatible social media platform which claims to be "both easy to understand for beginners and has powerful features for advanced users".
 ; Link of the day 2023-03-27
