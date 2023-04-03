@@ -283,7 +283,8 @@ https://docs.gotosocial.org/en/latest/ "GoToSocial is a Fediverse-compatible soc
 ; https://time.is/ Time.is provides a variety of time and date related services, such as clock accuracycheck, time comparisons, country and calendar information, and can display the time in 7 million locations around the world.
 ; Link of the day 2023-03-20
 ; https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
-https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
+; Link of the day 2023-04-03
+; https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
