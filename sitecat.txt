@@ -262,7 +262,8 @@
 ; https://diasporafoundation.org/ #diaspora* is a federated social media platform which appeared in 2010, when a group of friends decided to create a social network that would return control to users. It uses its own protocol, incompatible with most Fedi platforms, and supports Markdown formatting and following hashtags.
 ; Link of the day 2023-03-19
 ; https://fediverse.party/ Fediverse.Party (#FediParty) is a website which tries to unite all federated social networks under 'Fediverse' name. It depicts the different platforms as countries on a virtual map and offers basic facts and useful links about each one.
-https://docs.gotosocial.org/en/latest/ "GoToSocial is a Fediverse-compatible social media platform server. It's Mastodon API-compatible, but uses far, far less resources. It's written in Golang, and can run for a small user community on a $5/month VPS." (contributed by @vandys@goto.vsta.org)
+; Link of the day 2023-04-04
+; https://docs.gotosocial.org/en/latest/ "GoToSocial is a Fediverse-compatible social media platform server. It's Mastodon API-compatible, but uses far, far less resources. It's written in Golang, and can run for a small user community on a $5/month VPS." (contributed by @vandys@goto.vsta.org)
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
