@@ -391,7 +391,8 @@ https://www.geoguessr.com/ #GeoGuessr is a famous online game which throws you i
 ; https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
 ; Link of the week 2022-06-29 (week 26)
 ; https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
-https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide  oth free and paid plans.
+; Link of the day 2023-04-07
+; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide  oth free and paid plans.
 
 % Computers/Nostalgia
 ; Link of the day 2022-07-15
