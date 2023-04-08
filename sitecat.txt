@@ -312,7 +312,8 @@
 % Computers/Video Games
 ; Link of the day 2023-01-25
 ; https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
-https://www.geoguessr.com/ #GeoGuessr is a famous online game which throws you into a random location in the world and you have to figure out where you are by browsing around in Google's Street View mode.
+; Link of the day 2023-04-08
+; https://www.geoguessr.com/ #GeoGuessr is a famous online game which throws you into a random location in the world and you have to figure out where you are by browsing around in Google's Street View mode.
 
 % Computers/Video Games/History
 ; Link of the day 2023-01-05
