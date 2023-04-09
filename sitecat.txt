@@ -314,6 +314,7 @@
 ; https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
 ; Link of the day 2023-04-08
 ; https://www.geoguessr.com/ #GeoGuessr is a famous online game which throws you into a random location in the world and you have to figure out where you are by browsing around in Google's Street View mode.
+https://maze.toys/ This fun little online maze game is a great time-killer!
 
 % Computers/Video Games/History
 ; Link of the day 2023-01-05
@@ -408,6 +409,8 @@
 ; https://www.phonearena.com/news/7-phones-collectors-items-worth-serious-money_id102063 Rare phone models that due to an occasion or another have come written their own history and become precious gems for tech collectors.
 ; Link of the day 2023-01-09
 ; https://www.dosbox.com/ DOSBox is a popular free and open-source DOS emulator which has been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X and others. 'You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!'
+https://infinitemac.org/ "Infinite Mac is a collection of classic Macintosh system releases and software, all easily accessible from the comfort of a (modern) web browser. Pick any version of System Software/Mac OS from the 1980s or 1990s and run it (and major software of that era) within a virtual machine."
+https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast, searchable, and shareable, interface for the collection of Winamp Skins amassed on the Internet Archive."
 
 % Computers/Development
 ; Link of the week 2022-01-31 (week 05)
@@ -434,6 +437,7 @@
 ; https://github.com/fffaraz/awesome-cpp Awesome C++ is "a curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things."
 ; Link of the day 2023-03-29
 ; https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
+https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
@@ -544,6 +548,7 @@
 ; http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
 ; Link of the day 2023-02-02
 ; https://hellosystem.github.io/docs/ helloSystem is an operating system based on FreeBSD that mimicks the Mac user interface. It's "a desktop system for creators with a focus on simplicity, elegance, and usability" and "its design follows the “Less, but better” philosophy".
+http://www.ghostbsd.org/ GhostBSD claims to be "a simple, elegant desktop BSD Operating System" which comes with "commonly used [GTK] software preinstalled".
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
@@ -620,6 +625,7 @@
 ; https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
 ; Link of the day 2023-03-09
 ; https://nojoeschmo.com This website is dedicated to stories of people with "cool and crazy jobs — and how they got them" (submitted by @saoqingniang@go5.dev).
+https://thatsthefinger.com/ [Warning: Mildly Offensive] The URL says it all. Dedicate this page to every jerk out there that tries to make your life more difficult than it should be.
 
 % Fun/Parody
 ; Link of the day 2023-02-13
@@ -742,6 +748,9 @@
 ; http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh? I only hope this guy was not serious...
 ; Link of the day 2022-12-09
 ; https://archive.org/details/palm3_tiktok Did you know that there was a TikTok version for Palm3? I'm totally serious...
+https://longdogechallenge.com/ This one is a loooong Doge!
+https://alwaysjudgeabookbyitscover.com/ "Some books win awards, some win our heart, and others... only serve to confuse." This is a collection of silly books that actually exist. The website justifies its title... "Always Judge a Book by its Cover". You can buy most of them (for whatever reason...) on Amazon.
+https://onesquareminesweeper.com/ Finally a minesweeper game you can win! It consists of only one landmine! Can you find it on this challenging minesweeper board of one square?
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
@@ -805,6 +814,11 @@
 ; Link of the day 2023-03-01
 ; https://litbrick.com/ LitBrick is a web-comic by Jodie Troutman, who started it "in an effort to read the entire Norton Anthology of English Literature". Today it features "comics about all manner of random literature".
 
+
+;;
+;;  Informational
+;;
+
 % Informational
 ; Link of the day 2023-03-05
 ; https://www.tk421.net/librarylink/ "The Library Link of the Day provides you a daily link for keeping up to date with the library profession. Destinations include the latest library news, good reads on the web, and other valuable resources that a library knowledge worker should know about".
@@ -819,16 +833,36 @@
 ; Link of the day 2023-04-05
 ; http://groklaw.net/ Groklaw is a website that covered legal news of interest to the FOSS community, such as the SCO-Linux lawsuits, the EU antitrust case against Microsoft, and the standardization of Office Open XML. It was launched in 2003 as a law blog by Pamela Jones.
 
-
 % Informational/Everyday life
 ; Link of the day 2022-09-25
 ; https://www.fieggen.com/shoelace/index.htm Everything you wanted to know about shoelaces but were afraid to ask about.
+
+
+;;
+;;  Opinions
+;;
+
+% Opinions
+https://www.nohello.com/ Why you shouldn't begin a chat conversation by just saying "Hello".
+
+
+;;
+;;  Science
+;;
 
 % Science/Astronomy
 ; Link of the day 2023-02-18
 ; https://www.astronomyforbeginners.com/ "Astronomy for Beginners is a editorial project designed to help you with your first steps into this incredible yet complex science".
 ; Link of the day 2023-03-07
 ; https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
+
+
+;;
+;;  Technology
+;;
+
+% Technology/Satellite
+https://www.lyngsat.com/ LyngSat is a website dedicated to satellite television. Here you'll find up-to-date information on TV satellites, packages and channels.
 
 % Technology/Trains
 ; Link of the day 2023-02-17
