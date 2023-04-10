@@ -748,7 +748,8 @@ https://thatsthefinger.com/ [Warning: Mildly Offensive] The URL says it all. Ded
 ; http://www.geoffmetcalf.com/bread.html You never expected bread to be dangerous, eh? I only hope this guy was not serious...
 ; Link of the day 2022-12-09
 ; https://archive.org/details/palm3_tiktok Did you know that there was a TikTok version for Palm3? I'm totally serious...
-https://longdogechallenge.com/ This one is a loooong Doge!
+; Link of the day 2023-04-10
+; https://longdogechallenge.com/ This one is a loooong Doge!
 ; Link of the day 2023-04-09
 ; https://alwaysjudgeabookbyitscover.com/ "Some books win awards, some win our heart, and others... only serve to confuse." This is a collection of silly books that actually exist. The website justifies its title... "Always Judge a Book by its Cover". You can buy most of them (for whatever reason...) on Amazon.
 https://onesquareminesweeper.com/ Finally a minesweeper game you can win! It consists of only one landmine! Can you find it on this challenging minesweeper board of one square?
