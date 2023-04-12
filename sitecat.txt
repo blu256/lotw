@@ -437,7 +437,8 @@ https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast,
 ; https://github.com/fffaraz/awesome-cpp Awesome C++ is "a curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things."
 ; Link of the day 2023-03-29
 ; https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
-https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
+; Link of the day 2023-04-12
+; https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
