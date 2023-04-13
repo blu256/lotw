@@ -866,7 +866,8 @@ https://www.nohello.com/ Why you shouldn't begin a chat conversation by just say
 ;;
 
 % Technology/Satellite
-https://www.lyngsat.com/ LyngSat is a website dedicated to satellite television. Here you'll find up-to-date information on TV satellites, packages and channels.
+; Link of the day 2023-04-13
+; https://www.lyngsat.com/ LyngSat is a website dedicated to satellite television. Here you'll find up-to-date information on TV satellites, packages and channels.
 
 % Technology/Trains
 ; Link of the day 2023-02-17
