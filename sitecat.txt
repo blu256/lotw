@@ -754,7 +754,8 @@ http://www.ghostbsd.org/ GhostBSD claims to be "a simple, elegant desktop BSD Op
 ; https://longdogechallenge.com/ This one is a loooong Doge!
 ; Link of the day 2023-04-09
 ; https://alwaysjudgeabookbyitscover.com/ "Some books win awards, some win our heart, and others... only serve to confuse." This is a collection of silly books that actually exist. The website justifies its title... "Always Judge a Book by its Cover". You can buy most of them (for whatever reason...) on Amazon.
-https://onesquareminesweeper.com/ Finally a minesweeper game you can win! It consists of only one landmine! Can you find it on this challenging minesweeper board of one square?
+; Link of the day 2023-04-14
+; https://onesquareminesweeper.com/ Finally a minesweeper game you can win! It consists of only one landmine! Can you find it on this challenging minesweeper board of one square?
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
