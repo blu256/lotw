@@ -549,7 +549,8 @@ https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast,
 ; http://www.freedos.org/ FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
 ; Link of the day 2023-02-02
 ; https://hellosystem.github.io/docs/ helloSystem is an operating system based on FreeBSD that mimicks the Mac user interface. It's "a desktop system for creators with a focus on simplicity, elegance, and usability" and "its design follows the “Less, but better” philosophy".
-http://www.ghostbsd.org/ GhostBSD claims to be "a simple, elegant desktop BSD Operating System" which comes with "commonly used [GTK] software preinstalled".
+; Link of the day 2023-04-15
+; http://www.ghostbsd.org/ GhostBSD claims to be "a simple, elegant desktop BSD Operating System" which comes with "commonly used [GTK] software preinstalled".
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
