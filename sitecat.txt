@@ -410,7 +410,8 @@
 ; https://www.phonearena.com/news/7-phones-collectors-items-worth-serious-money_id102063 Rare phone models that due to an occasion or another have come written their own history and become precious gems for tech collectors.
 ; Link of the day 2023-01-09
 ; https://www.dosbox.com/ DOSBox is a popular free and open-source DOS emulator which has been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X and others. 'You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!'
-https://infinitemac.org/ "Infinite Mac is a collection of classic Macintosh system releases and software, all easily accessible from the comfort of a (modern) web browser. Pick any version of System Software/Mac OS from the 1980s or 1990s and run it (and major software of that era) within a virtual machine."
+; Link of the day 2023-04-17
+; https://infinitemac.org/ "Infinite Mac is a collection of classic Macintosh system releases and software, all easily accessible from the comfort of a (modern) web browser. Pick any version of System Software/Mac OS from the 1980s or 1990s and run it (and major software of that era) within a virtual machine."
 https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast, searchable, and shareable, interface for the collection of Winamp Skins amassed on the Internet Archive."
 
 % Computers/Development
