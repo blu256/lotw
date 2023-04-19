@@ -852,7 +852,8 @@
 ;;
 
 % Opinions
-https://www.nohello.com/ Why you shouldn't begin a chat conversation by just saying "Hello".
+; Link of the day 2023-04-19
+; https://www.nohello.com/ Why you shouldn't begin a chat conversation by just saying "Hello".
 
 
 ;;
