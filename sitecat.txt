@@ -209,6 +209,7 @@
 ; https://windows96.net/ Windows 96 is probably the most impressive imitation of a Windows OS in existance. It truly is a new take on the look and feel of the Windows 9x series and supports not only tablets, but also smartphones!
 ; Link of the day 2022-12-24
 ; https://tilde.club/~blu256/lucky_animal.html Dedicated to Google Docs users: a generator of random anonymous "animal" avatars by yours truly (@blu256@udongein.xyz) in the style of Google Docs, taken a step further.
+https://knome.carlschwan.eu/ Meet KNOME: the project that will revolutionize the Linux desktop! Brought to you by the joint forces of GNOME and KDE and based on the QTK3 toolkit, "this state-o-fart [sic!] user-experience will transport you to the future of user experiences [...]".
 
 % Computers/Fun/Weird
 ; Link of the day 2022-11-24
@@ -442,6 +443,7 @@
 ; https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
 ; Link of the day 2023-04-12
 ; https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
+https://pvs-studio.com/en/blog/posts/cpp/0960/ C++ programmers: can YOU spot the mistakes in others' code? Take this entertaining quiz to see how hard it can be.
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
@@ -632,6 +634,7 @@
 ; https://nojoeschmo.com This website is dedicated to stories of people with "cool and crazy jobs — and how they got them" (submitted by @saoqingniang@go5.dev).
 ; Link of the day 2023-04-11
 ; https://thatsthefinger.com/ [Warning: Mildly Offensive] The URL says it all. Dedicate this page to every jerk out there that tries to make your life more difficult than it should be.
+https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
 
 % Fun/Parody
 ; Link of the day 2023-02-13
@@ -700,6 +703,8 @@
 ; http://www.sacklunch.net/encyclopedia/ This website is an Encyclopedia made up of information from the late 1800s. when the British Empire was at its height, before airplane travel, before automobiles were common and before the western world had been battered by two world wars.
 ; Link of the day 2023-01-30
 ; https://genders.wtf Genders.wtf is a collection of weird gender options in web forms curated by @effy@effy.space. Ever encountered a form where you could select between Male, Female and... Venezuela? You will find this, and even stranger options, collected on this website.
+https://en.wikipedia.org/wiki/Hubert_Blaine_Wolfeschlegelsteinhausenbergerdorff_Sr. This person's name is a story, a tongue-twister and a Guinness World Record for longest personal name.
+https://www.theworldsworstwebsiteever.com/ This, as you might already have guessed it, is the "World's BEST Website Ever". It's so bad it's good, and it prefers to call itself a "sight" instead of a "website". And my, what a sight it is! 💀
 
 % Fun/Collections
 ; Link of the day 2022-08-30
@@ -870,6 +875,9 @@
 ;;
 ;;  Technology
 ;;
+
+% Technology/History
+https://en.wikipedia.org/wiki/DARPA_Grand_Challenge This annual prize competition by the American DARPA started the big race to create autonomous (self-driving) vehicles back in 2004 [pun intended].
 
 % Technology/Satellite
 ; Link of the day 2023-04-13
