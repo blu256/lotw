@@ -877,7 +877,8 @@ https://www.theworldsworstwebsiteever.com/ This, as you might already have guess
 ;;
 
 % Technology/History
-https://en.wikipedia.org/wiki/DARPA_Grand_Challenge This annual prize competition by the American DARPA started the big race to create autonomous (self-driving) vehicles back in 2004 [pun intended].
+; Link of the day 2023-04-21
+; https://en.wikipedia.org/wiki/DARPA_Grand_Challenge This annual prize competition by the American DARPA started the big race to create autonomous (self-driving) vehicles back in 2004 [pun intended].
 
 % Technology/Satellite
 ; Link of the day 2023-04-13
