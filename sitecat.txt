@@ -443,7 +443,8 @@ https://knome.carlschwan.eu/ Meet KNOME: the project that will revolutionize the
 ; https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
 ; Link of the day 2023-04-12
 ; https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
-https://pvs-studio.com/en/blog/posts/cpp/0960/ C++ programmers: can YOU spot the mistakes in others' code? Take this entertaining quiz to see how hard it can be.
+; Link of the day 2023-04-22
+; https://pvs-studio.com/en/blog/posts/cpp/0960/ C++ programmers: can YOU spot the mistakes in others' code? Take this entertaining quiz to see how hard it can be.
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
