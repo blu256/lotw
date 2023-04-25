@@ -209,7 +209,8 @@
 ; https://windows96.net/ Windows 96 is probably the most impressive imitation of a Windows OS in existance. It truly is a new take on the look and feel of the Windows 9x series and supports not only tablets, but also smartphones!
 ; Link of the day 2022-12-24
 ; https://tilde.club/~blu256/lucky_animal.html Dedicated to Google Docs users: a generator of random anonymous "animal" avatars by yours truly (@blu256@udongein.xyz) in the style of Google Docs, taken a step further.
-https://knome.carlschwan.eu/ Meet KNOME: the project that will revolutionize the Linux desktop! Brought to you by the joint forces of GNOME and KDE and based on the QTK3 toolkit, "this state-o-fart [sic!] user-experience will transport you to the future of user experiences [...]".
+; Link of the day 2023-04-25
+; https://knome.carlschwan.eu/ Meet KNOME: the project that will revolutionize the Linux desktop! Brought to you by the joint forces of GNOME and KDE and based on the QTK3 toolkit, "this state-o-fart [sic!] user-experience will transport you to the future of user experiences [...]".
 
 % Computers/Fun/Weird
 ; Link of the day 2022-11-24
