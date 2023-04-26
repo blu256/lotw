@@ -636,7 +636,8 @@
 ; https://nojoeschmo.com This website is dedicated to stories of people with "cool and crazy jobs — and how they got them" (submitted by @saoqingniang@go5.dev).
 ; Link of the day 2023-04-11
 ; https://thatsthefinger.com/ [Warning: Mildly Offensive] The URL says it all. Dedicate this page to every jerk out there that tries to make your life more difficult than it should be.
-https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
+; Link of the day 2023-04-26
+; https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
 
 % Fun/Parody
 ; Link of the day 2023-02-13
