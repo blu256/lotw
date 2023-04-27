@@ -288,6 +288,7 @@
 ; https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
 ; Link of the day 2023-04-03
 ; https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
+https://openstreetmap.org OpenStreetMap is a free online map service. It is a user-editable map maintained by a world-wide community.
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -334,6 +335,7 @@
 % Computers/Video Games/Rogue-like
 ; Link of the day 2023-02-06
 ; https://cataclysmdda.org/ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. "As your game begins, you awaken with hazy memories of violence and terror from when the world suddenly unravelled around you. Now you need to explore your surroundings, and secure food, water and safety. After that, who knows?"
+https://nethack.org NetHack is a single-player dungeon exploration game. What sets it apart is that the emphasis is on discovering the detail of the dungeon. Each game presents a different landscape: there is an unlimited number of variations of the dungeon and its denizens to be discovered by the player.
 
 % Computers/Video Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
