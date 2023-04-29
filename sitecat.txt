@@ -301,7 +301,8 @@ http://www.goosh.org/ Goosh is a web frontend for Google search. But it's not th
 ; https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
 ; Link of the day 2023-04-28
 ; https://openstreetmap.org OpenStreetMap is a free online map service. It is a user-editable map maintained by a world-wide community.
-https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
+; Link of the day 2023-04-29
+; https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
