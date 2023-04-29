@@ -30,6 +30,14 @@
 ; Link of the day 2023-02-28
 ; https://www.awn.com/ "The Animation World Network is the largest animation-related publishing group on the Internet, providing readers from over 151 countries with a wide range of interesting, relevant and helpful information pertaining to all aspects of animation."
 
+% Arts/Cinema
+; Link of the day 2022-12-01
+; https://tvtropes.org/ TV Tropes is a wiki which describe and collect examples of Tropes in Media.  A trope is a narrative device or convention used in storytelling or production of a creative work.
+; Link of the day 2022-12-04
+; https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
+https://www.imdb.com/ IMDb claims to be "the world's most popular and authoritative source for movie, TV and celebrity content, designed to help fans explore the world of movies and shows and decide what to watch."
+https://www.rottentomatoes.com/ "Rotten Tomatoes and the Tomatometer score are the world’s most trusted recommendation resources for quality entertainment. As the leading online aggregator of movie and TV show reviews from critics, we provide fans with a comprehensive guide to what’s Fresh – and what’s Rotten – in theaters and at home."
+
 % Arts/Web Platforms
 ; Link of the day 2022-10-17
 ; https://www.deviantart.com/ DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.
@@ -67,6 +75,7 @@
 % Arts/Music/Making
 ; Link of the day 2022-07-19
 ; https://www.djingpro.com DJingPro is all about the art of being a DJ. It offers free articles and tutorials written by DJs, for DJs.
+http://ardour.org/ Ardour is a professional, FOSS and crossplatform digital audio workspace for "people who want to record, edit, mix and master audio and MIDI projects".
 
 % Arts/Photography
 ; Link of the day 2022-07-30
@@ -120,6 +129,7 @@
 ; https://www.craiyon.com/ Craiyon (DALL·E mini) is a free online AI text-to-image generator. It spits out 9 images based on the prompt you feed it.
 ; Link of the day 2023-02-15
 ; https://catgpt.wvd.io/ If you consider ChatGPT to be boring, then check this out: CatGPT is a ChatGPT clone for our cat friends!
+https://chat.openai.com #ChatGPT barely needs an introduction nowadays. It's a natural language model which can generate text in answer to a user-specified prompt. You need to register with the site to grant access to ChatGPT, though.
 
 % Computers/FOSS
 ; Link of the day 2022-09-11
@@ -244,6 +254,7 @@
 ; https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
 ; Link of the day 2023-03-16
 ; https://oldavista.com Old'aVista is a search engine which imitates AltaVista from 1999. It searches through the Internet Archive for old website versions, covering all your needs for retro web-browsing.
+http://www.goosh.org/ Goosh is a web frontend for Google search. But it's not that simple... Well, actually it's much simpler — it imitates a Unix shell! Combine the simplicity of a CLI with the power of Google and impress your friends and coworkers. Not recommended for private searches though.
 
 % Computers/Internet/Fediverse
 ; Link of the day 2023-02-03
@@ -290,6 +301,7 @@
 ; https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
 ; Link of the day 2023-04-28
 ; https://openstreetmap.org OpenStreetMap is a free online map service. It is a user-editable map maintained by a world-wide community.
+https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -341,7 +353,7 @@
 
 % Computers/Video Games/Simulators
 ; Link of the week 2022-02-14 (week 07)
-; https://simutrans.org Simutrans is a free and open-source transport company simulation game. You start with a limited budget on your way to build the transport empire of your dreams!
+; https://simutrans.org Simutrans (@simutrans@fosstodon.org) is a free and open-source transport company simulation game. You start with a limited budget (or you can always turn on the freeplay mode) on your way to build the transport empire of your dreams!
 ; Link of the day 2022-10-11
 ; https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
 ; Link of the day 2022-09-28
@@ -349,7 +361,7 @@
 ; Link of the day 2022-12-22
 ; https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
 ; Link of the day 2023-01-31
-; https://www.minetest.net/ Minetest is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
+; https://www.minetest.net/ Minetest (@Minetest@fosstodon.org) is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
 
 % Computers/Video Games/Strategies
 ; Link of the day 2022-08-18
@@ -380,6 +392,7 @@
 ; https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 ; Link of the day 2022-09-07
 ; https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
+https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix software packages. It is based on information from more than 1200 official and unofficial software repositories.
 
 % Computers/Linux/Distributions
 ; Link of the day 2023-01-07
@@ -394,6 +407,7 @@
 ; https://www.opensuse.org/ OpenSUSE is a free and open-source Linux distribution. It aims to be easy to use and comes with the powerful YaST system configuration tool.
 ; Link of the day 2023-03-14
 ; https://www.slackware.com/ Slackware is the oldest Linux distribution that's still around. It is said to be the most Unix'y distribution of all.
+https://www.mageia.org Mageia is the successor of the old Mandriva Linux following the same principles of being a user-friendly graphical Linux distribution.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
@@ -402,6 +416,7 @@
 ; https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
 ; Link of the day 2023-04-07
 ; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide  oth free and paid plans.
+https://www.eff.org/ The Electronic Frontier Foundation (@eff@mastodon.social) is "the leading nonprofit organization defending civil liberties in the digital world". Its mission is "to ensure that technology supports freedom, justice, and innovation for all people of the world."
 
 % Computers/Nostalgia
 ; Link of the day 2022-07-15
@@ -506,6 +521,9 @@
 ; https://wiki.archlinux.org/title/List_of_applications This ArchLinux wiki article is a great list of Linux applications sorted by category. There are countless categories and probably anything you might want to do on your machine is covered by a category in this list.
 ; Link of the day 2023-03-02
 ; https://www.blender.org/ Blender is a cross-platform free and open source 3D creation suite. Blender "supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation".
+https://www.gnu.org/ The GNU Project aims to give freedom and control over computers and computing devices back to users, by developing software that is free to run, copy, study and modify. If you're using a *nix system, it's highly likely that some of the system programs were developed by the GNU Project.
+https://www.videolan.org/vlc/ VLC is a powerful free and open-source crossplatform media player which claims to support nearly every media format. It has a skinnable graphical version and also a console client and comes packed with a lot of features.
+https://mpv.io/ MPV is a free, open source and cross-platform command-line media player which supports "a wide variety of media file formats, audio and video codecs, and subtitle types".
 
 % Computers/Software/Communication
 ; Link of the day 2022-07-14
@@ -628,10 +646,6 @@
 ; http://hacks.mit.edu/ The word "hack" at MIT usually refers to a clever, benign, and "ethical" prank or practical joke, which is both challenging for the perpetrators and amusing to the rest. The IHTFP Gallery is dedicated to documenting the history of epic MIT "hacks". 
 ; Link of the day 2022-11-07
 ; https://www.atrixnet.com/bs-generator.html "For the ambitious business professional looking to get ahead in the industry. Dazzle all the execs at your next business meeting" with this so-called Corporate Bullshit generator.
-; Link of the day 2022-12-01
-; https://tvtropes.org/ TV Tropes is a wiki which describe and collect examples of Tropes in Media.  A trope is a narrative device or convention used in storytelling or production of a creative work.
-; Link of the day 2022-12-04
-; https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
 ; Link of the day 2022-12-08
 ; https://www.netfunny.com/rhf This is the website of rec.humor.funny (yes, it used to be a newsgroup). It is a collection of jokes, old and current, and also a description and history of the original newsgroup. It is also the oldest blog on the Internet (or so it claims), launched on August 7, 1987.
 ; Link of the day 2023-01-29
@@ -664,6 +678,7 @@
 ; http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
 ; Link of the day 2023-04-01
 ; https://esperanto.net/en/ This is a website about Esperanto, "the international language". Esperanto is the most popular constructed language which aims "to be a “bridge” between different language communities". Due to its simple rules, "people usually manage to learn Esperanto several times faster than any other language".
+https://www.thefreedictionary.com/ The Free Dictionary is an online dictionary and encyclopedia launched by the American company Farlex in 2003. It aggregates information from various sources, such as The American Heritage Dictionary of the English Language, the Collins English Dictionary and Wikipedia.
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
@@ -806,6 +821,7 @@
 ; https://yewtu.be/watch?v=jIQ6UV2onyI (You're going to get me for this one, I just know it 😅)
 ; Link of the day 2022-11-06
 ; https://yewtu.be/watch?v=q6EoRBvdVPQ Yee!
+https://yewtu.be/watch?v=mB1PuesGGBc A weird green gummy bear in underpants sings and dances a catchy song. Sounds familiar? Yes, it's Gummibär. This initially Hungarian song has became viral and has been translated to more than 20 languages. 
 
 % Fun/Web-Comics
 ; Link of the week 2022-01-17 (week 03)
