@@ -409,7 +409,8 @@ https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix s
 ; https://www.opensuse.org/ OpenSUSE is a free and open-source Linux distribution. It aims to be easy to use and comes with the powerful YaST system configuration tool.
 ; Link of the day 2023-03-14
 ; https://www.slackware.com/ Slackware is the oldest Linux distribution that's still around. It is said to be the most Unix'y distribution of all.
-https://www.mageia.org Mageia is the successor of the old Mandriva Linux following the same principles of being a user-friendly graphical Linux distribution.
+; Link of the day 2023-05-04
+; https://www.mageia.org Mageia is the successor of the old Mandriva Linux following the same principles of being a user-friendly graphical Linux distribution.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
