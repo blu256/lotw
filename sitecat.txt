@@ -255,7 +255,8 @@ https://chat.openai.com #ChatGPT barely needs an introduction nowadays. It's a n
 ; https://search.marginalia.nu/ search.marginalia.nu is an independent DIY search engine that attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. The software for this search engine is all custom-built and the entire search engine is hosted off a single PC in Sweden. (contributed by @samoak@mastodon.coffee)
 ; Link of the day 2023-03-16
 ; https://oldavista.com Old'aVista is a search engine which imitates AltaVista from 1999. It searches through the Internet Archive for old website versions, covering all your needs for retro web-browsing.
-http://www.goosh.org/ Goosh is a web frontend for Google search. But it's not that simple... Well, actually it's much simpler — it imitates a Unix shell! Combine the simplicity of a CLI with the power of Google and impress your friends and coworkers. Not recommended for private searches though.
+; Link of the day 2023-05-05
+; http://www.goosh.org/ Goosh is a web frontend for Google search. But it's not that simple... Well, actually it's much simpler — it imitates a Unix shell! Combine the simplicity of a CLI with the power of Google and impress your friends and coworkers. Not recommended for private searches though.
 
 % Computers/Internet/Fediverse
 ; Link of the day 2023-02-03
