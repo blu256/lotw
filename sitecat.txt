@@ -420,7 +420,8 @@ https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix s
 ; https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
 ; Link of the day 2023-04-07
 ; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide  oth free and paid plans.
-https://www.eff.org/ The Electronic Frontier Foundation (@eff@mastodon.social) is "the leading nonprofit organization defending civil liberties in the digital world". Its mission is "to ensure that technology supports freedom, justice, and innovation for all people of the world."
+; Link of the day 2023-05-06
+; https://www.eff.org/ The Electronic Frontier Foundation (@eff@mastodon.social) is "the leading nonprofit organization defending civil liberties in the digital world". Its mission is "to ensure that technology supports freedom, justice, and innovation for all people of the world."
 
 % Computers/Nostalgia
 ; Link of the day 2022-07-15
