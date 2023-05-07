@@ -35,7 +35,8 @@
 ; https://tvtropes.org/ TV Tropes is a wiki which describe and collect examples of Tropes in Media.  A trope is a narrative device or convention used in storytelling or production of a creative work.
 ; Link of the day 2022-12-04
 ; https://www.the-unknown-movies.com This still maintained website is devoted to "obscure, unknown and little shown" movies. Why? Because "you get the feeling that no one else has seen the movie - like you are an archeologist". Contains interesting and detailed reviews.
-https://www.imdb.com/ IMDb claims to be "the world's most popular and authoritative source for movie, TV and celebrity content, designed to help fans explore the world of movies and shows and decide what to watch."
+; Link of the day 2023-05-07
+; https://www.imdb.com/ IMDb claims to be "the world's most popular and authoritative source for movie, TV and celebrity content, designed to help fans explore the world of movies and shows and decide what to watch."
 ; Link of the day 2023-05-02
 ; https://www.rottentomatoes.com/ "Rotten Tomatoes and the Tomatometer score are the world’s most trusted recommendation resources for quality entertainment. As the leading online aggregator of movie and TV show reviews from critics, we provide fans with a comprehensive guide to what’s Fresh – and what’s Rotten – in theaters and at home."
 
