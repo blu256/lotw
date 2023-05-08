@@ -529,7 +529,8 @@ https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix s
 ; https://www.blender.org/ Blender is a cross-platform free and open source 3D creation suite. Blender "supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation".
 ; Link of the day 2023-05-01
 ; https://www.gnu.org/ The GNU Project aims to give freedom and control over computers and computing devices back to users, by developing software that is free to run, copy, study and modify. If you're using a *nix system, it's highly likely that some of the system programs were developed by the GNU Project.
-https://www.videolan.org/vlc/ VLC is a powerful free and open-source crossplatform media player which claims to support nearly every media format. It has a skinnable graphical version and also a console client and comes packed with a lot of features.
+; Link of the day 2023-05-08
+; https://www.videolan.org/vlc/ VLC is a powerful free and open-source crossplatform media player which claims to support nearly every media format. It has a skinnable graphical version and also a console client and comes packed with a lot of features.
 https://mpv.io/ MPV is a free, open source and cross-platform command-line media player which supports "a wide variety of media file formats, audio and video codecs, and subtitle types".
 
 % Computers/Software/Communication
