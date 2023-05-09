@@ -77,7 +77,8 @@
 % Arts/Music/Making
 ; Link of the day 2022-07-19
 ; https://www.djingpro.com DJingPro is all about the art of being a DJ. It offers free articles and tutorials written by DJs, for DJs.
-http://ardour.org/ Ardour is a professional, FOSS and crossplatform digital audio workspace for "people who want to record, edit, mix and master audio and MIDI projects".
+; Link of the day 2023-05-09
+; http://ardour.org/ Ardour is a professional, FOSS and crossplatform digital audio workspace for "people who want to record, edit, mix and master audio and MIDI projects".
 
 % Arts/Photography
 ; Link of the day 2022-07-30
