@@ -306,6 +306,8 @@ https://chat.openai.com #ChatGPT barely needs an introduction nowadays. It's a n
 ; https://openstreetmap.org OpenStreetMap is a free online map service. It is a user-editable map maintained by a world-wide community.
 ; Link of the day 2023-04-29
 ; https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
+https://12ft.io/ 12ft.io is a useful service which allows you to bypass paywalls by using a copy cached by the Google crawler. Its motto is "Show me a 10ft paywall, I’ll show you a 12ft ladder." (contributed by @salarua@ohai.social)
+https://getethermap.org/ Two links today! Ethermap is a free and open-source service to create custom maps. Apparently its development has stalled. A comparable service by the #OSM community is https://umap.openstreetmap.de/en/ (contributed by @karlos@en.osm.town and @eliasp@mastodon.social)
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
