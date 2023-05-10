@@ -399,7 +399,8 @@ https://getethermap.org/ Two links today! Ethermap is a free and open-source ser
 ; https://distrochooser.de/en This is probably the best Linux distribution picker on the Internet.
 ; Link of the day 2022-09-07
 ; https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
-https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix software packages. It is based on information from more than 1200 official and unofficial software repositories.
+; Link of the day 2023-05-10
+; https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix software packages. It is based on information from more than 1200 official and unofficial software repositories.
 
 % Computers/Linux/Distributions
 ; Link of the day 2023-01-07
