@@ -132,7 +132,8 @@
 ; https://www.craiyon.com/ Craiyon (DALL·E mini) is a free online AI text-to-image generator. It spits out 9 images based on the prompt you feed it.
 ; Link of the day 2023-02-15
 ; https://catgpt.wvd.io/ If you consider ChatGPT to be boring, then check this out: CatGPT is a ChatGPT clone for our cat friends!
-https://chat.openai.com #ChatGPT barely needs an introduction nowadays. It's a natural language model which can generate text in answer to a user-specified prompt. You need to register with the site to grant access to ChatGPT, though.
+; Link of the day 2023-05-13
+; https://chat.openai.com #ChatGPT barely needs an introduction nowadays. It's a natural language model which can generate text in answer to a user-specified prompt. You need to register with the site to grant access to ChatGPT, though.
 
 % Computers/FOSS
 ; Link of the day 2022-09-11
