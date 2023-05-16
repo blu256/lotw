@@ -312,6 +312,8 @@
 ; https://12ft.io/ 12ft.io is a useful service which allows you to bypass paywalls by using a copy cached by the Google crawler. Its motto is "Show me a 10ft paywall, I’ll show you a 12ft ladder." (contributed by @salarua@ohai.social)
 ; Link of the day 2023-05-10
 ; https://getethermap.org/ Two links today! Ethermap is a free and open-source service to create custom maps. Apparently its development has stalled. A comparable service by the #OSM community is https://umap.openstreetmap.de/en/ (contributed by @karlos@en.osm.town and @eliasp@mastodon.social)
+https://storymap.knightlab.com/ "StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events". It is based on #OSM maps and allows you to narrate a story through points on the map.
+https://earth.google.com/ Did you know that #Google Earth now has an online version which works in your browser? (assuming it's Chrome-based, that is...)
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -404,6 +406,7 @@
 ; https://fishshell.com Fish is a fully-equipped command line shell (like bash or zsh) that is smart and user-friendly. Fish supports powerful features like syntax highlighting, autosuggestions, and tab completions that just work, with nothing to learn or configure.
 ; Link of the day 2023-05-10
 ; https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix software packages. It is based on information from more than 1200 official and unofficial software repositories.
+https://wiki.archlinux.org/ The Arch Wiki is one of the best online resources of documentation not only for Arch Linux, but for most Linux distributions out there.
 
 % Computers/Linux/Distributions
 ; Link of the day 2023-01-07
@@ -560,6 +563,7 @@
 ; https://mate-desktop.org/ "The MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems. MATE is under active development to add support for new technologies while preserving a traditional desktop experience."
 ; Link of the day 2022-12-15
 ; https://www.compiz.org/ "Compiz is a compositing manager, which means that it enhances the overall user interaction by adding fancy effects to your windows, from drop shadows to awesome desktop effects like the Desktop Cube or the Expo view." And yes, it still rocks today.
+https://xfce.org/ XFCE is a desktop environment for Unix-like systems which claims to be lightweight and user-friendly.
 
 % Computers/Software/Music
 ; Link of the day 2022-10-24
