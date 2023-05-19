@@ -314,7 +314,8 @@
 ; https://getethermap.org/ Two links today! Ethermap is a free and open-source service to create custom maps. Apparently its development has stalled. A comparable service by the #OSM community is https://umap.openstreetmap.de/en/ (contributed by @karlos@en.osm.town and @eliasp@mastodon.social)
 ; Link of the day 2023-05-17
 ; https://storymap.knightlab.com/ "StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events". It is based on #OSM maps and allows you to narrate a story through points on the map.
-https://earth.google.com/ Did you know that #Google Earth now has an online version which works in your browser? (assuming it's Chrome-based, that is...)
+; Link of the day 2023-05-19
+; https://earth.google.com/ Did you know that #Google Earth now has an online version which works in your browser? (assuming it's Chrome-based, that is...)
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
