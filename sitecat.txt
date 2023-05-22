@@ -231,6 +231,7 @@
 ; https://windowsgb.tripod.com/ Windows Gone Bad is a really dated collection of "Windows bugs, mistakes and screw-ups" from Windows 95 to Windows XP.
 ; Link of the day 2023-02-27
 ; https://web.archive.org/web/20010827013341/http://userfriendly.org/community/ufiles/win1900a.jpg What if Windows Millenium was not Y2K-compliant? A funny background for your retro Windows desktop.
+http://act.mit.edu/cavs This is the "Special Collection" of the MIT's Center for Advanced Visual Studies. It swirls! It rotates! It spins in 3D! And someone actually thought that would be a great idea for navigating a webpage.
 
 % Computers/Internet
 ; Link of the day 2022-12-14
@@ -316,6 +317,7 @@
 ; https://storymap.knightlab.com/ "StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events". It is based on #OSM maps and allows you to narrate a story through points on the map.
 ; Link of the day 2023-05-19
 ; https://earth.google.com/ Did you know that #Google Earth now has an online version which works in your browser? (assuming it's Chrome-based, that is...)
+https://wikishootme.toolforge.org/ "WikiShootMe V3 (WSM) is a tool to show #Wikidata items, #Wikipedia articles, and #Commons images with coordinates, all on the same map" (created by @magnusmanske@wikis.world, contributed by @tiamat271@mastodon.online)
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -484,6 +486,7 @@
 ; https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
 ; Link of the day 2023-04-22
 ; https://pvs-studio.com/en/blog/posts/cpp/0960/ C++ programmers: can YOU spot the mistakes in others' code? Take this entertaining quiz to see how hard it can be.
+http://sourceware.org/ "Sourceware is a Free Software hosting project for core toolchain and developer tools. Sourceware is maintained by volunteers. [...] It is our goal to offer a worry-free, friendly home for Free Software projects."
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
@@ -754,6 +757,7 @@
 ; https://en.wikipedia.org/wiki/Hubert_Blaine_Wolfeschlegelsteinhausenbergerdorff_Sr. This person's name is a story, a tongue-twister and a Guinness World Record for longest personal name.
 ; Link of the day 2023-04-23
 ; https://www.theworldsworstwebsiteever.com/ This, as you might already have guessed it, is the "World's BEST Website Ever". It's so bad it's good, and it prefers to call itself a "sight" instead of a "website". And my, what a sight it is! 💀
+https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles "Strange titles are rarely added to #Wikipedia under the guise of real encyclopedia articles. Occasionally Wikipedians lose their minds (especially on April Fool's Day) and if their posts are good they wind up here. Silliness can come in the form of creativity, insanity, or just boredom".
 
 % Fun/Collections
 ; Link of the day 2022-08-30
@@ -907,9 +911,10 @@
 ;;  Opinions
 ;;
 
-% Opinions
+% Opinions/Society
 ; Link of the day 2023-04-19
 ; https://www.nohello.com/ Why you shouldn't begin a chat conversation by just saying "Hello".
+https://www.fastcompany.com/90629391/guys-is-not-gender-neutral-lets-stop-using-it-like-it-is "A #genderbias expert says that we can all help the English language evolve towards #inclusivity by eliminating the usage of “guys” when referring to people who are not male gender."
 
 
 ;;
@@ -921,6 +926,9 @@
 ; https://www.astronomyforbeginners.com/ "Astronomy for Beginners is a editorial project designed to help you with your first steps into this incredible yet complex science".
 ; Link of the day 2023-03-07
 ; https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
+
+% Scients/Mathematics
+http://cut-the-knot.org/ The Interactive Mathematics Miscellany and Puzzles aims to "make the Internet math-friendly". It is a website created in 1996 by a former Professor of Mathematics. Since he passed away in 2018, the website has been maintained by the Wolfram Foundation.
 
 
 ;;
