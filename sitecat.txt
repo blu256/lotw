@@ -757,7 +757,8 @@ http://sourceware.org/ "Sourceware is a Free Software hosting project for core t
 ; https://en.wikipedia.org/wiki/Hubert_Blaine_Wolfeschlegelsteinhausenbergerdorff_Sr. This person's name is a story, a tongue-twister and a Guinness World Record for longest personal name.
 ; Link of the day 2023-04-23
 ; https://www.theworldsworstwebsiteever.com/ This, as you might already have guessed it, is the "World's BEST Website Ever". It's so bad it's good, and it prefers to call itself a "sight" instead of a "website". And my, what a sight it is! 💀
-https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles "Strange titles are rarely added to #Wikipedia under the guise of real encyclopedia articles. Occasionally Wikipedians lose their minds (especially on April Fool's Day) and if their posts are good they wind up here. Silliness can come in the form of creativity, insanity, or just boredom".
+; Link of the day 2023-05-22
+; https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles "Strange titles are rarely added to #Wikipedia under the guise of real encyclopedia articles. Occasionally Wikipedians lose their minds (especially on April Fool's Day) and if their posts are good they wind up here. Silliness can come in the form of creativity, insanity, or just boredom".
 
 % Fun/Collections
 ; Link of the day 2022-08-30
