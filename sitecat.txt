@@ -930,7 +930,8 @@ https://www.fastcompany.com/90629391/guys-is-not-gender-neutral-lets-stop-using-
 ; https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
 
 % Scients/Mathematics
-http://cut-the-knot.org/ The Interactive Mathematics Miscellany and Puzzles aims to "make the Internet math-friendly". It is a website created in 1996 by a former Professor of Mathematics. Since he passed away in 2018, the website has been maintained by the Wolfram Foundation.
+; Link of the day 2023-05-24
+; http://cut-the-knot.org/ The Interactive Mathematics Miscellany and Puzzles aims to "make the Internet math-friendly". It is a website created in 1996 by a former Professor of Mathematics. Since he passed away in 2018, the website has been maintained by the Wolfram Foundation.
 
 
 ;;
