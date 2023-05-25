@@ -317,7 +317,8 @@ http://act.mit.edu/cavs This is the "Special Collection" of the MIT's Center for
 ; https://storymap.knightlab.com/ "StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events". It is based on #OSM maps and allows you to narrate a story through points on the map.
 ; Link of the day 2023-05-19
 ; https://earth.google.com/ Did you know that #Google Earth now has an online version which works in your browser? (assuming it's Chrome-based, that is...)
-https://wikishootme.toolforge.org/ "WikiShootMe V3 (WSM) is a tool to show #Wikidata items, #Wikipedia articles, and #Commons images with coordinates, all on the same map" (created by @magnusmanske@wikis.world, contributed by @tiamat271@mastodon.online)
+; Link of the day 2023-05-25
+; https://wikishootme.toolforge.org/ "WikiShootMe V3 (WSM) is a tool to show #Wikidata items, #Wikipedia articles, and #Commons images with coordinates, all on the same map" (created by @magnusmanske@wikis.world, contributed by @tiamat271@mastodon.online)
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
