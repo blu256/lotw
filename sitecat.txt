@@ -917,7 +917,8 @@ http://act.mit.edu/cavs This is the "Special Collection" of the MIT's Center for
 % Opinions/Society
 ; Link of the day 2023-04-19
 ; https://www.nohello.com/ Why you shouldn't begin a chat conversation by just saying "Hello".
-https://www.fastcompany.com/90629391/guys-is-not-gender-neutral-lets-stop-using-it-like-it-is "A #genderbias expert says that we can all help the English language evolve towards #inclusivity by eliminating the usage of “guys” when referring to people who are not male gender."
+; Link of the day 2023-05-26
+; https://www.fastcompany.com/90629391/guys-is-not-gender-neutral-lets-stop-using-it-like-it-is "A #genderbias expert says that we can all help the English language evolve towards #inclusivity by eliminating the usage of “guys” when referring to people who are not male gender."
 
 
 ;;
