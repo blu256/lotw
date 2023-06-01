@@ -112,7 +112,8 @@
 ;;
 
 % Computers
-http://cyberpillar.com/landing.htm CyberPillar is a "Bastion of knowledge related to computer security and automated computer services. This site contains many technical details and guides on how to successfully have computers performing actions [...] like network services". Warning: the website's design can harm your eyes and/or aesthetics.
+; Link of the day 2023-06-01
+; http://cyberpillar.com/landing.htm CyberPillar is a "Bastion of knowledge related to computer security and automated computer services. This site contains many technical details and guides on how to successfully have computers performing actions [...] like network services". Warning: the website's design can harm your eyes and/or aesthetics.
 
 % Computers/AI
 ; Link of the day 2022-09-06
