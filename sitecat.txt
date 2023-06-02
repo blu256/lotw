@@ -204,7 +204,8 @@
 ; http://mshiltonj.com/software_wars/ This is a really old but classic collection of maps depicting "the epic struggle of Free and Open Source Software (FOSS) against the Empire of Microsoft". The first one was created back in 1998, and the last update was in 2006.
 ; Link of the day 2023-02-09
 ; https://asciimation.co.nz/ Have you ever wondered how Star Wars would look in ASCII? Like on a really old text-based computer terminal? Well, this site allows you to experience it first-hand. Meet Star Wars: ASCIImation!
-http://foldoc.org/The+Story+of+Mel A Usenet classic. This is a story about Mel, a Real Programmer. "[...] Real Programmers wrote in machine code - not Fortran, not RATFOR, not even assembly language - Machine Code, raw, unadorned, inscrutable hexadecimal numbers, directly. [...]"
+; Link of the day 2023-06-02
+; http://foldoc.org/The+Story+of+Mel A Usenet classic. This is a story about Mel, a Real Programmer. "[...] Real Programmers wrote in machine code - not Fortran, not RATFOR, not even assembly language - Machine Code, raw, unadorned, inscrutable hexadecimal numbers, directly. [...]"
 
 % Computers/Fun/Epic quotes
 ; don't overdo with this category
