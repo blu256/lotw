@@ -960,7 +960,8 @@ http://web.archive.org/web/20150206112856/http://thebiguglywebsite.com/ This is 
 % Technology/Trains
 ; Link of the day 2023-02-17
 ; http://www.trainweb.org/tusp/index.html The Ultimate Steam Page "provides background and technical information on steam locomotive development, an overview of several interesting steam locomotive design engineers, and information on efforts to produce the Ultimate Steam Locomotive".
-https://trains.jo-m.ch/#/trains/list This is a proof-of-concept instance of the Trainbot software (https://github.com/jo-m/trainbot) which watches a piece of train track, detects trains, and stitches together images of them.
+; Link of the day 2023-06-03
+; https://trains.jo-m.ch/#/trains/list This is a proof-of-concept instance of the Trainbot software (https://github.com/jo-m/trainbot) which watches a piece of train track, detects trains, and stitches together images of them.
 
 % Technology/Vintage
 ; Link of the day 2022-12-27
