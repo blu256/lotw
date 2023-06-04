@@ -496,7 +496,8 @@
 ; https://pvs-studio.com/en/blog/posts/cpp/0960/ C++ programmers: can YOU spot the mistakes in others' code? Take this entertaining quiz to see how hard it can be.
 ; Link of the day 2023-05-23
 ; http://sourceware.org/ "Sourceware is a Free Software hosting project for core toolchain and developer tools. Sourceware is maintained by volunteers. [...] It is our goal to offer a worry-free, friendly home for Free Software projects."
-http://prog21.dadgum.com/ "Programming in the Twenty-First Century" is a blog that revolved around programming, creativity and inspiration. Even though it stopped updating in 2017, its 200+ articles certainly provide food for thought and an interesting perspective on information technology.
+; Link of the day 2023-06-04
+; http://prog21.dadgum.com/ "Programming in the Twenty-First Century" is a blog that revolved around programming, creativity and inspiration. Even though it stopped updating in 2017, its 200+ articles certainly provide food for thought and an interesting perspective on information technology.
 
 % Computers/Development/Code golfing
 ; Link of the day 2022-11-08
