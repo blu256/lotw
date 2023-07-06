@@ -39,6 +39,7 @@
 ; https://www.imdb.com/ IMDb claims to be "the world's most popular and authoritative source for movie, TV and celebrity content, designed to help fans explore the world of movies and shows and decide what to watch."
 ; Link of the day 2023-05-02
 ; https://www.rottentomatoes.com/ "Rotten Tomatoes and the Tomatometer score are the world’s most trusted recommendation resources for quality entertainment. As the leading online aggregator of movie and TV show reviews from critics, we provide fans with a comprehensive guide to what’s Fresh – and what’s Rotten – in theaters and at home."
+https://www.themoviedb.org/ "The Movie Database (TMDB) is a community built movie and TV database. Every piece of data has been added by our amazing community dating back to 2008. TMDB's strong international focus and breadth of data is largely unmatched and something we're incredibly proud of. Put simply, we live and breathe community and that's precisely what makes us different."
 
 % Arts/Web Platforms
 ; Link of the day 2022-10-17
@@ -73,6 +74,7 @@
 ; gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
 ; Link of the day 2022-10-27
 ; https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According to this article, the new numbers on music consumption are very ugly and the creative culture is losing its ability to innovate.
+https://kraftwerk.com The website of #Kraftwerk, a German band which pioneered and popularized electronic music in the 70s and influenced modern music in a lot of ways.
 
 % Arts/Music/Making
 ; Link of the day 2022-07-19
@@ -192,6 +194,7 @@
 ; https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and multifaceted project dedicated to "preserving examples of interesting and creative online bots, and providing tutorials and other resources to folks interested in making them". (contributed by @botwiki@mastodon.social)
 ; Link of the day 2023-01-17
 ; https://windows-never-released.fandom.com/ The Windows Never Released Wiki is a place where you can create mockups of operating systems for fun or explore others' mockups (any OS will do, not only Windows).
+https://hacker-simulator.com/ Hacker Simulator is (guess what?) a web-page which makes you look like a cool hacker from some movie. Ok, at least it tries to.
 
 % Computers/Fun/Classics
 ; Link of the day 2022-11-03
@@ -290,6 +293,8 @@
 ; https://fediverse.party/ Fediverse.Party (#FediParty) is a website which tries to unite all federated social networks under 'Fediverse' name. It depicts the different platforms as countries on a virtual map and offers basic facts and useful links about each one.
 ; Link of the day 2023-04-04
 ; https://docs.gotosocial.org/en/latest/ "GoToSocial is a Fediverse-compatible social media platform server. It's Mastodon API-compatible, but uses far, far less resources. It's written in Golang, and can run for a small user community on a $5/month VPS." (contributed by @vandys@goto.vsta.org)
+https://kbin.pub/en This is the website of the kbin project, "an open source reddit-like content aggregator and microblogging platform for the fediverse".
+https://tootfinder.ch/ TootFinder is an opt-in search engine for toots on Mastodon.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
@@ -312,20 +317,17 @@
 ; https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
 ; Link of the day 2023-04-03
 ; https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
-; Link of the day 2023-04-28
-; https://openstreetmap.org OpenStreetMap is a free online map service. It is a user-editable map maintained by a world-wide community.
 ; Link of the day 2023-04-29
 ; https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
 ; Link of the day 2023-05-12
 ; https://12ft.io/ 12ft.io is a useful service which allows you to bypass paywalls by using a copy cached by the Google crawler. Its motto is "Show me a 10ft paywall, I’ll show you a 12ft ladder." (contributed by @salarua@ohai.social)
-; Link of the day 2023-05-10
-; https://getethermap.org/ Two links today! Ethermap is a free and open-source service to create custom maps. Apparently its development has stalled. A comparable service by the #OSM community is https://umap.openstreetmap.de/en/ (contributed by @karlos@en.osm.town and @eliasp@mastodon.social)
 ; Link of the day 2023-05-17
 ; https://storymap.knightlab.com/ "StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events". It is based on #OSM maps and allows you to narrate a story through points on the map.
 ; Link of the day 2023-05-19
 ; https://earth.google.com/ Did you know that #Google Earth now has an online version which works in your browser? (assuming it's Chrome-based, that is...)
 ; Link of the day 2023-05-25
 ; https://wikishootme.toolforge.org/ "WikiShootMe V3 (WSM) is a tool to show #Wikidata items, #Wikipedia articles, and #Commons images with coordinates, all on the same map" (created by @magnusmanske@wikis.world, contributed by @tiamat271@mastodon.online)
+https://botsin.space/@linkoftheweek The Link of the Day is a human-curated bot which... oops! That's me!... Uh... hi there?
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -542,6 +544,7 @@
 ; https://bleepingcomputer.com/ Bleeping Computer is an information security and technology news publication. Since 2004 it has been all about "the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently."
 ; Link of the day 2023-01-16
 ; https://www.theregister.com/ The Register is "a leading and trusted global online enterprise technology news publication reaching roughly 40 million readers worldwide", online since 1998.
+https://www.howtogeek.com/ How-To Geek is an online technology publication written by computer geeks, for computer geeks, featuring articles, in-depth reviews, news and buying guides.
 
 % Computers/Cybersecurity
 ; Link of the day 2022-12-16
@@ -560,6 +563,7 @@
 ; https://www.videolan.org/vlc/ VLC is a powerful free and open-source crossplatform media player which claims to support nearly every media format. It has a skinnable graphical version and also a console client and comes packed with a lot of features.
 ; Link of the day 2023-05-11
 ; https://mpv.io/ MPV is a free, open source and cross-platform command-line media player which supports "a wide variety of media file formats, audio and video codecs, and subtitle types".
+https://lawnchair.app/ Lawnchair (apart from a terrible pun) is a #FOSS launcher for your #Android devices based on the Pixel Launcher by Google, but with additional features and customization options.
 
 % Computers/Software/Communication
 ; Link of the day 2022-07-14
@@ -869,9 +873,9 @@
 
 % Fun/Web-Comics
 ; Link of the week 2022-01-17 (week 03)
-; https://userfriendly.org UserFriendly is (was?) a legendary cult geeky web-comic about the workers of an ISP in the early 00s.
+; https://userfriendly.org UserFriendly was a legendary cult geeky web-comic about the workers of an ISP in the early 00s. It shut down in 2022.
 ; Link of the week 2022-02-21 (week 08)
-; https://gpf-comics.com General Protection Fault (by @gpfjeff@twit.social) is a bizzare, adventurous and fun web-comic with a geeky touch born withinin the eddies of the cyberspace-time continuum.
+; https://gpf-comics.com General Protection Fault (by @gpfjeff@twit.social) is a bizzare, adventurous and fun web-comic with a geeky touch born within the eddies of the cyberspace-time continuum.
 ; Link of the week 2021-12-20 (week 51)
 ; https://nukees.com  Nukees is a web-comic about Gav, a nuclear engineering student and "exasperated cynic-turned-mad-scientist". 
 ; Link of the week 2022-01-03 (week 01)
@@ -889,14 +893,31 @@
 ; Link of the day 2022-08-02
 ; http://newshounds.keenspot.com Newshounds is a classic web-comic about animal reporters who work for a television station. Hilarity ensues as they deal with the exciting routine of a news reporter.
 ; Link of the day 2022-09-03
-; https://dilbert.com Dilbert is the big classic name of web-comics and the stamp of workplace humour. If you haven't read Dilbert, you're missing out an Office Space climate and probably don't know what (or who) PHB stands for!
+; https://dilbert.com Dilbert used to be a classic in the world of web-comics and the stamp of workplace humour with an Office Space climate. The web-comic became subscription-only in 2023 after its author was denounced for expressing
+racist views.
 ; Link of the day 2022-08-24
 ; https://garfieldminusgarfield.net Have you ever imagined how the Garfield comic would be without its protagonist? "Garfield Minus Garfield is a site dedicated to removing Garfield from the Garfield comic strips in order to reveal the existential angst of a certain young Mr. Jon Arbuckle."
 ; Link of the day 2022-10-28
 ; https://www.eviscerati.org/comics/hd/ Help Desk is a webcomic by @ubersoft@mastodon.social revolving around Ubersoft, an evil tech megacorportation, mostly through the eyes of a help desk technician working there.
 ; Link of the day 2023-03-01
 ; https://litbrick.com/ LitBrick is a web-comic by Jodie Troutman, who started it "in an effort to read the entire Norton Anthology of English Literature". Today it features "comics about all manner of random literature".
+https://hiveworkscomics.com/ "Hiveworks is an LGBTQA+ led independent comics publisher and creative studio. We develop and offer a wide array of artist-oriented supportive services for the creation of hundreds of webcomics."
+https://keenspot.com/ Keenspot is one of the oldest webcomics portals still online. It is said to have been "a starting point [...] of many successful webcartoonists over the years".
+https://www.thewotch.com The Wotch is a webcomic about about a teenage witch and her friends who have to deal with school, magical transformations and supernatural emergencies.
 
+
+;;
+;; Hobbies
+;;
+
+% Hobbies/Mapping
+; Link of the day 2023-04-28
+; https://openstreetmap.org OpenStreetMap is a free online map service. It is a user-editable map maintained by a world-wide community.
+; Link of the day 2023-05-10
+; https://getethermap.org/ Two links today! Ethermap is a free and open-source service to create custom maps. Apparently its development has stalled. A comparable service by the #OSM community is https://umap.openstreetmap.de/en/ (contributed by @karlos@en.osm.town and @eliasp@mastodon.social)
+https://learnosm.org/en/beginner/ New to mapping with #OpenStreetMap? This guide is intended to get you started with contributing to #OSM, the popular open-source online map.
+https://streetcomplete.app/ StreetComplete is perhaps the easiest and most fun way to contribute to #OpenStreetMap! It's a #FOSS #Android app which finds missing #OSM data in your vicinity and presents it on a map as quests. Solving these quests awards you points and links to interesting services based on #OSM.
+https://satellitestud.io/osm-haiku/app/ This is an app which "can generate a [haiku] poem about any place in the world. The result is sometimes fun, often weird, most of the time pretty terrible". The... inspiration comes from a point on a #OSM map and the surrounding features.
 
 ;;
 ;;  Informational
@@ -919,6 +940,7 @@
 % Informational/Everyday life
 ; Link of the day 2022-09-25
 ; https://www.fieggen.com/shoelace/index.htm Everything you wanted to know about shoelaces but were afraid to ask about.
+https://www.wikihow.com/Breathe If you ever forget how to breathe (or want to improve your breathing practices), then this WikiHow article is probably for you.
 
 
 ;;
