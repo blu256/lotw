@@ -74,7 +74,8 @@ https://www.themoviedb.org/ "The Movie Database (TMDB) is a community built movi
 ; gemini://midnight.pub/posts/1034 A gemini post about tapes, tape decks and their versatility.
 ; Link of the day 2022-10-27
 ; https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According to this article, the new numbers on music consumption are very ugly and the creative culture is losing its ability to innovate.
-https://kraftwerk.com The website of #Kraftwerk, a German band which pioneered and popularized electronic music in the 70s and influenced modern music in a lot of ways.
+; Link of the day 2023-07-08
+; https://kraftwerk.com The website of #Kraftwerk, a German band which pioneered and popularized electronic music in the 70s and influenced modern music in a lot of ways.
 
 % Arts/Music/Making
 ; Link of the day 2022-07-19
