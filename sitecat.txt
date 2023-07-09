@@ -897,7 +897,8 @@ https://lawnchair.app/ Lawnchair (apart from a terrible pun) is a #FOSS launcher
 ; http://newshounds.keenspot.com Newshounds is a classic web-comic about animal reporters who work for a television station. Hilarity ensues as they deal with the exciting routine of a news reporter.
 ; Link of the day 2022-09-03
 ; https://dilbert.com Dilbert used to be a classic in the world of web-comics and the stamp of workplace humour with an Office Space climate. The web-comic became subscription-only in 2023 after its author was denounced for expressing
-racist views.
+; Link of the day 2023-07-09
+; racist views.
 ; Link of the day 2022-08-24
 ; https://garfieldminusgarfield.net Have you ever imagined how the Garfield comic would be without its protagonist? "Garfield Minus Garfield is a site dedicated to removing Garfield from the Garfield comic strips in order to reveal the existential angst of a certain young Mr. Jon Arbuckle."
 ; Link of the day 2022-10-28
