@@ -195,7 +195,8 @@ https://www.themoviedb.org/ "The Movie Database (TMDB) is a community built movi
 ; https://botwiki.org/ Botwiki (@botwiki@mastodon.social) is an interesting and multifaceted project dedicated to "preserving examples of interesting and creative online bots, and providing tutorials and other resources to folks interested in making them". (contributed by @botwiki@mastodon.social)
 ; Link of the day 2023-01-17
 ; https://windows-never-released.fandom.com/ The Windows Never Released Wiki is a place where you can create mockups of operating systems for fun or explore others' mockups (any OS will do, not only Windows).
-https://hacker-simulator.com/ Hacker Simulator is (guess what?) a web-page which makes you look like a cool hacker from some movie. Ok, at least it tries to.
+; Link of the day 2023-07-09
+; https://hacker-simulator.com/ Hacker Simulator is (guess what?) a web-page which makes you look like a cool hacker from some movie. Ok, at least it tries to.
 
 % Computers/Fun/Classics
 ; Link of the day 2022-11-03
