@@ -568,7 +568,8 @@ https://www.howtogeek.com/ How-To Geek is an online technology publication writt
 ; https://www.videolan.org/vlc/ VLC is a powerful free and open-source crossplatform media player which claims to support nearly every media format. It has a skinnable graphical version and also a console client and comes packed with a lot of features.
 ; Link of the day 2023-05-11
 ; https://mpv.io/ MPV is a free, open source and cross-platform command-line media player which supports "a wide variety of media file formats, audio and video codecs, and subtitle types".
-https://lawnchair.app/ Lawnchair (apart from a terrible pun) is a #FOSS launcher for your #Android devices based on the Pixel Launcher by Google, but with additional features and customization options.
+; Link of the day 2023-07-11
+; https://lawnchair.app/ Lawnchair (apart from a terrible pun) is a #FOSS launcher for your #Android devices based on the Pixel Launcher by Google, but with additional features and customization options.
 
 % Computers/Software/Communication
 ; Link of the day 2022-07-14
