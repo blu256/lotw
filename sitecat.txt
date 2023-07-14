@@ -950,7 +950,8 @@ https://streetcomplete.app/ StreetComplete is perhaps the easiest and most fun w
 % Informational/Everyday life
 ; Link of the day 2022-09-25
 ; https://www.fieggen.com/shoelace/index.htm Everything you wanted to know about shoelaces but were afraid to ask about.
-https://www.wikihow.com/Breathe If you ever forget how to breathe (or want to improve your breathing practices), then this WikiHow article is probably for you.
+; Link of the day 2023-07-14
+; https://www.wikihow.com/Breathe If you ever forget how to breathe (or want to improve your breathing practices), then this WikiHow article is probably for you.
 
 
 ;;
