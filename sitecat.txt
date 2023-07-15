@@ -924,7 +924,8 @@ https://keenspot.com/ Keenspot is one of the oldest webcomics portals still onli
 ; https://openstreetmap.org OpenStreetMap is a free online map service. It is a user-editable map maintained by a world-wide community.
 ; Link of the day 2023-05-10
 ; https://getethermap.org/ Two links today! Ethermap is a free and open-source service to create custom maps. Apparently its development has stalled. A comparable service by the #OSM community is https://umap.openstreetmap.de/en/ (contributed by @karlos@en.osm.town and @eliasp@mastodon.social)
-https://learnosm.org/en/beginner/ New to mapping with #OpenStreetMap? This guide is intended to get you started with contributing to #OSM, the popular open-source online map.
+; Link of the day 2023-07-15
+; https://learnosm.org/en/beginner/ New to mapping with #OpenStreetMap? This guide is intended to get you started with contributing to #OSM, the popular open-source online map.
 https://streetcomplete.app/ StreetComplete is perhaps the easiest and most fun way to contribute to #OpenStreetMap! It's a #FOSS #Android app which finds missing #OSM data in your vicinity and presents it on a map as quests. Solving these quests awards you points and links to interesting services based on #OSM.
 ; Link of the day 2023-07-07
 ; https://satellitestud.io/osm-haiku/app/ This is an app which "can generate a [haiku] poem about any place in the world. The result is sometimes fun, often weird, most of the time pretty terrible". The... inspiration comes from a point on a #OSM map and the surrounding features.
