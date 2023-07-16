@@ -333,7 +333,8 @@ https://kbin.pub/en This is the website of the kbin project, "an open source red
 ; https://wikishootme.toolforge.org/ "WikiShootMe V3 (WSM) is a tool to show #Wikidata items, #Wikipedia articles, and #Commons images with coordinates, all on the same map" (created by @magnusmanske@wikis.world, contributed by @tiamat271@mastodon.online)
 ; Link of the day 2023-07-12
 ; https://botsin.space/@linkoftheweek The Link of the Day is a human-curated bot which... oops! That's me!... Uh... hi there?
-http://shapecatcher.com/ ShapeCatcher is an online service to help you identify a Unicode character. Just draw it in the special box and let ShapeCatcher recognize it! (contributed by @wikinaut@berlin.social).
+; Link of the day 2023-07-16
+; http://shapecatcher.com/ ShapeCatcher is an online service to help you identify a Unicode character. Just draw it in the special box and let ShapeCatcher recognize it! (contributed by @wikinaut@berlin.social).
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
