@@ -296,7 +296,8 @@
 ; https://fediverse.party/ Fediverse.Party (#FediParty) is a website which tries to unite all federated social networks under 'Fediverse' name. It depicts the different platforms as countries on a virtual map and offers basic facts and useful links about each one.
 ; Link of the day 2023-04-04
 ; https://docs.gotosocial.org/en/latest/ "GoToSocial is a Fediverse-compatible social media platform server. It's Mastodon API-compatible, but uses far, far less resources. It's written in Golang, and can run for a small user community on a $5/month VPS." (contributed by @vandys@goto.vsta.org)
-https://kbin.pub/en This is the website of the kbin project, "an open source reddit-like content aggregator and microblogging platform for the fediverse".
+; Link of the day 2023-07-17
+; https://kbin.pub/en This is the website of the kbin project, "an open source reddit-like content aggregator and microblogging platform for the fediverse".
 ; Link of the day 2023-07-06
 ; https://tootfinder.ch/ TootFinder is an opt-in search engine for toots on Mastodon.
 
