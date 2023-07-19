@@ -913,7 +913,8 @@ https://www.howtogeek.com/ How-To Geek is an online technology publication writt
 ; https://litbrick.com/ LitBrick is a web-comic by Jodie Troutman, who started it "in an effort to read the entire Norton Anthology of English Literature". Today it features "comics about all manner of random literature".
 ; Link of the day 2023-07-16
 ; https://hiveworkscomics.com/ "Hiveworks is an LGBTQA+ led independent comics publisher and creative studio. We develop and offer a wide array of artist-oriented supportive services for the creation of hundreds of webcomics."
-https://keenspot.com/ Keenspot is one of the oldest webcomics portals still online. It is said to have been "a starting point [...] of many successful webcartoonists over the years".
+; Link of the day 2023-07-19
+; https://keenspot.com/ Keenspot is one of the oldest webcomics portals still online. It is said to have been "a starting point [...] of many successful webcartoonists over the years".
 ; Link of the day 2023-07-13
 ; https://www.thewotch.com The Wotch is a webcomic about about a teenage witch and her friends who have to deal with school, magical transformations and supernatural emergencies.
 
