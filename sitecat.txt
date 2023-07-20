@@ -552,7 +552,8 @@
 ; https://bleepingcomputer.com/ Bleeping Computer is an information security and technology news publication. Since 2004 it has been all about "the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently."
 ; Link of the day 2023-01-16
 ; https://www.theregister.com/ The Register is "a leading and trusted global online enterprise technology news publication reaching roughly 40 million readers worldwide", online since 1998.
-https://www.howtogeek.com/ How-To Geek is an online technology publication written by computer geeks, for computer geeks, featuring articles, in-depth reviews, news and buying guides.
+; Link of the day 2023-07-20
+; https://www.howtogeek.com/ How-To Geek is an online technology publication written by computer geeks, for computer geeks, featuring articles, in-depth reviews, news and buying guides.
 
 % Computers/Cybersecurity
 ; Link of the day 2022-12-16
