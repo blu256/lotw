@@ -969,7 +969,8 @@ https://ooh.directory "ooh.directory is a place to find good blogs that interest
 ; https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It describes itself as "an unconventional guide to life, the universe, and everything". It's like Wikipedia, but in the spirit of the Hitchhiker's Guide to the Galaxy (it was actually founded by Douglas Adams himself back in 1999, preceding Wikipedia by 2 years).
 ; Link of the day 2023-04-29
 ; https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
-https://www.britannica.com/ Britannica is a general knowledge English-language encyclopædia and the longest-running-in-print encyclopædia in English. Its regularly updated website contains lots of articles on different topics.
+; Link of the day 2023-07-31
+; https://www.britannica.com/ Britannica is a general knowledge English-language encyclopædia and the longest-running-in-print encyclopædia in English. Its regularly updated website contains lots of articles on different topics.
 https://www.urbandictionary.com/ Urban Dictionary is the crowdsourced English-language online dictionary for slang. Running since 1999, the dictionary nowadays contains over seven million word and phrase definitions.
 
 
