@@ -77,6 +77,7 @@
 ; https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption According to this article, the new numbers on music consumption are very ugly and the creative culture is losing its ability to innovate.
 ; Link of the day 2023-07-08
 ; https://kraftwerk.com The website of #Kraftwerk, a German band which pioneered and popularized electronic music in the 70s and influenced modern music in a lot of ways.
+https://www.blackmoresnight.com/ The website of Blackmore's Night, a very special neo-medieval folk rock band with a unique sound.
 
 % Arts/Music/Making
 ; Link of the day 2022-07-19
@@ -237,6 +238,7 @@
 ; https://tilde.club/~blu256/lucky_animal.html Dedicated to Google Docs users: a generator of random anonymous "animal" avatars by yours truly (@blu256@udongein.xyz) in the style of Google Docs, taken a step further.
 ; Link of the day 2023-04-25
 ; https://knome.carlschwan.eu/ Meet KNOME: the project that will revolutionize the Linux desktop! Brought to you by the joint forces of GNOME and KDE and based on the QTK3 toolkit, "this state-o-fart [sic!] user-experience will transport you to the future of user experiences [...]".
+https://github.com/TodePond/C The C Language (previously known as DreamBerd) is a *perfect* programming language created by @TodePond@universeodon.com. It's so advanced that even AI can't handle it!
 
 % Computers/Fun/Weird
 ; Link of the day 2022-11-24
@@ -245,14 +247,13 @@
 ; https://web.archive.org/web/20010827013341/http://userfriendly.org/community/ufiles/win1900a.jpg What if Windows Millenium was not Y2K-compliant? A funny background for your retro Windows desktop.
 ; Link of the day 2023-05-27
 ; http://act.mit.edu/cavs This is the "Special Collection" of the MIT's Center for Advanced Visual Studies. It swirls! It rotates! It spins in 3D! And someone actually thought that would be a great idea for navigating a webpage.
+https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Philosophy principle: "Clicking on the first link in the main text of an English Wikipedia article, and then repeating the process for subsequent articles, usually leads to the Philosophy article".
 
 % Computers/Internet
 ; Link of the day 2022-12-14
 ; https://twitterisgoinggreat.com/ A website dedicated to tracking all the good things™ going on at Twitter after Elon Musk was forced into buying it.
 ; Link of the day 2022-12-26
 ; https://swatch.com/en-en/internet-time.html Did you know that there is an Internet Time, dividing the day into 1000 .beats? Well, actually, it was a failed marketing attempt by Swatch, but it's still a cool idea. Wikipedia is more detailed on that subject: https://en.wikipedia.org/wiki/Swatch_Internet_Time
-; Link of the day 2023-01-14
-; https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It describes itself as "an unconventional guide to life, the universe, and everything". It's like Wikipedia, but in the spirit of the Hitchhiker's Guide to the Galaxy (it was actually founded by Douglas Adams himself back in 1999, preceding Wikipedia by 2 years).
 ; Link of the day 2023-01-20
 ; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
 ; Link of the day 2023-02-11
@@ -322,8 +323,6 @@
 ; https://www.earthcam.com EarthCam.com is a global network of live streaming webcams "built as a way to transport people to interesting and unique locations around the world that may be difficult or impossible to experience in person".
 ; Link of the day 2023-04-03
 ; https://freesvg.org/ FreeSVG is a community clipart website which was launched after OpenClipart went down. It claims to be a "safe haven for all public domain clipart content in SVG vector format".
-; Link of the day 2023-04-29
-; https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
 ; Link of the day 2023-05-12
 ; https://12ft.io/ 12ft.io is a useful service which allows you to bypass paywalls by using a copy cached by the Google crawler. Its motto is "Show me a 10ft paywall, I’ll show you a 12ft ladder." (contributed by @salarua@ohai.social)
 ; Link of the day 2023-05-17
@@ -396,6 +395,7 @@
 ; https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
 ; Link of the day 2023-01-31
 ; https://www.minetest.net/ Minetest (@Minetest@fosstodon.org) is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
+https://www.openttd.org/ "#OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features."
 
 % Computers/Video Games/Strategies
 ; Link of the day 2022-08-18
@@ -409,7 +409,7 @@
 
 % Computers/Video Games/Interactive Fiction
 ; Link of the day 2022-08-04
-; https://twinery.org/ Twine is an online tool for creating simple, hypertextual, interactive and nonlinear stories. Twine publishes directly to HTML, so you can post your work nearly anywhere. Anything you create with it is completely free to use any way you like, including for commercial purposes. 
+; https://twinery.org/ Twine is an online tool for creating simple, hypertextual, interactive and nonlinear stories. Twine publishes directly to HTML, so you can post your work nearly anywhere. Anything you create with it is completely free to use any way you like, including for commercial purposes.
 ; Link of the day 2022-07-08
 ; https://ifdb.org/ The Interactive Fiction Database is an IF game catalog and recommendation engine. IFDB is a Wiki-style community project: members can add new game listings, write reviews, exchange game recommendations, and more.
 
@@ -453,9 +453,10 @@
 ; Link of the week 2022-06-29 (week 26)
 ; https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
 ; Link of the day 2023-04-07
-; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide  oth free and paid plans.
+; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide both free and paid plans.
 ; Link of the day 2023-05-06
 ; https://www.eff.org/ The Electronic Frontier Foundation (@eff@mastodon.social) is "the leading nonprofit organization defending civil liberties in the digital world". Its mission is "to ensure that technology supports freedom, justice, and innovation for all people of the world."
+http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choose?": This is an article which takes a deep dive into more than 30 e-mail providers' privacy practices, including "privacy-oriented" providers like ProtonMail.
 
 % Computers/Nostalgia
 ; Link of the day 2022-07-15
@@ -708,6 +709,7 @@
 ; https://thatsthefinger.com/ [Warning: Mildly Offensive] The URL says it all. Dedicate this page to every jerk out there that tries to make your life more difficult than it should be.
 ; Link of the day 2023-04-26
 ; https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
+https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
 
 % Fun/Parody
 ; Link of the day 2023-02-13
@@ -786,6 +788,7 @@
 ; https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles "Strange titles are rarely added to #Wikipedia under the guise of real encyclopedia articles. Occasionally Wikipedians lose their minds (especially on April Fool's Day) and if their posts are good they wind up here. Silliness can come in the form of creativity, insanity, or just boredom".
 ; Link of the day 2023-06-05
 ; http://web.archive.org/web/20150206112856/http://thebiguglywebsite.com/ This is not some minor and utterly unimportant ugly website. This is *THE* *BIG* *UGLY* *WEBSITE*. Get the difference? I don't.
+https://rotatingsandwiches.com/ Rotating Sandwiches ­ that's it. Winner of #TinyAwards 2023.
 
 % Fun/Collections
 ; Link of the day 2022-08-30
@@ -812,6 +815,7 @@
 ; https://miningartifacts.homestead.com This is a website dedicated to mining history, to those who "daily faced the danger, uncertainty, darkness, dampness, heat and cold of mining". Contains a lot of vintage photographs and a big collection of mining equipment.
 ; Link of the day 2023-02-25
 ; https://www.danacountryman.com/danacovers/danacovers.html Dana Countryman's Virtual Museum of Unusual #LP Cover Art is just like what it sounds: a virtual collection of unusual covers from the old times where music would be sold in albums recorded on #vinyl discs.
+https://ooh.directory "ooh.directory is a place to find good blogs that interest you". It's a collection of almost 2 thousand #blogs on every topic.
 
 % Fun/Collections/Weird
 ; Link of the day 2022-08-25
@@ -960,6 +964,14 @@
 ; Link of the day 2023-07-14
 ; https://www.wikihow.com/Breathe If you ever forget how to breathe (or want to improve your breathing practices), then this WikiHow article is probably for you.
 
+% Informational/Encyclopædias
+; Link of the day 2023-01-14
+; https://h2g2.com/ H2G2 is a collaborative online encyclopedia project. It describes itself as "an unconventional guide to life, the universe, and everything". It's like Wikipedia, but in the spirit of the Hitchhiker's Guide to the Galaxy (it was actually founded by Douglas Adams himself back in 1999, preceding Wikipedia by 2 years).
+; Link of the day 2023-04-29
+; https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
+https://www.britannica.com/ Britannica is a general knowledge English-language encyclopædia and the longest-running-in-print encyclopædia in English. Its regularly updated website contains lots of articles on different topics.
+https://www.urbandictionary.com/ Urban Dictionary is the crowdsourced English-language online dictionary for slang. Running since 1999, the dictionary nowadays contains over seven million word and phrase definitions.
+
 
 ;;
 ;;  Opinions
@@ -971,7 +983,6 @@
 ; Link of the day 2023-05-26
 ; https://www.fastcompany.com/90629391/guys-is-not-gender-neutral-lets-stop-using-it-like-it-is "A #genderbias expert says that we can all help the English language evolve towards #inclusivity by eliminating the usage of “guys” when referring to people who are not male gender."
 
-
 ;;
 ;;  Science
 ;;
@@ -982,6 +993,9 @@
 ; Link of the day 2023-03-07
 ; https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
 
+% Science/Geography
+https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world A detailed and illustrated article on why most maps actually distort our picture of the world. Have you ever realized that Africa is, in fact, about as wide as Russia?
+
 % Scients/Mathematics
 ; Link of the day 2023-05-24
 ; http://cut-the-knot.org/ The Interactive Mathematics Miscellany and Puzzles aims to "make the Internet math-friendly". It is a website created in 1996 by a former Professor of Mathematics. Since he passed away in 2018, the website has been maintained by the Wolfram Foundation.
@@ -990,6 +1004,9 @@
 ;;
 ;;  Technology
 ;;
+
+% Technology
+http://solarprotocol.net/index.html #SolarProtocol is a web platform hosted across a network of solar-powered servers in different parts of the world. The servers coordinate to serve a website from whichever of them is enjoying the most sunshine at the time.
 
 % Technology/History
 ; Link of the day 2023-04-21
