@@ -815,7 +815,8 @@ https://rotatingsandwiches.com/ Rotating Sandwiches ­ that's it. Winner of #Tin
 ; https://miningartifacts.homestead.com This is a website dedicated to mining history, to those who "daily faced the danger, uncertainty, darkness, dampness, heat and cold of mining". Contains a lot of vintage photographs and a big collection of mining equipment.
 ; Link of the day 2023-02-25
 ; https://www.danacountryman.com/danacovers/danacovers.html Dana Countryman's Virtual Museum of Unusual #LP Cover Art is just like what it sounds: a virtual collection of unusual covers from the old times where music would be sold in albums recorded on #vinyl discs.
-https://ooh.directory "ooh.directory is a place to find good blogs that interest you". It's a collection of almost 2 thousand #blogs on every topic.
+; Link of the day 2023-08-01
+; https://ooh.directory "ooh.directory is a place to find good blogs that interest you". It's a collection of almost 2 thousand #blogs on every topic.
 
 % Fun/Collections/Weird
 ; Link of the day 2022-08-25
