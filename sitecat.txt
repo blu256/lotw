@@ -1008,7 +1008,8 @@ https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world 
 ;;
 
 % Technology
-http://solarprotocol.net/index.html #SolarProtocol is a web platform hosted across a network of solar-powered servers in different parts of the world. The servers coordinate to serve a website from whichever of them is enjoying the most sunshine at the time.
+; Link of the day 2023-08-02
+; http://solarprotocol.net/index.html #SolarProtocol is a web platform hosted across a network of solar-powered servers in different parts of the world. The servers coordinate to serve a website from whichever of them is enjoying the most sunshine at the time.
 
 % Technology/History
 ; Link of the day 2023-04-21
