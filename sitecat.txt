@@ -710,7 +710,8 @@ http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choo
 ; https://thatsthefinger.com/ [Warning: Mildly Offensive] The URL says it all. Dedicate this page to every jerk out there that tries to make your life more difficult than it should be.
 ; Link of the day 2023-04-26
 ; https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
-https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
+; Link of the day 2023-08-04
+; https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
 
 % Fun/Parody
 ; Link of the day 2023-02-13
