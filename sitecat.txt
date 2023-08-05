@@ -998,7 +998,8 @@ https://www.urbandictionary.com/ Urban Dictionary is the crowdsourced English-la
 ; https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
 
 % Science/Geography
-https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world A detailed and illustrated article on why most maps actually distort our picture of the world. Have you ever realized that Africa is, in fact, about as wide as Russia?
+; Link of the day 2023-08-05
+; https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world A detailed and illustrated article on why most maps actually distort our picture of the world. Have you ever realized that Africa is, in fact, about as wide as Russia?
 
 % Scients/Mathematics
 ; Link of the day 2023-05-24
