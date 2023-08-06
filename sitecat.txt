@@ -239,7 +239,8 @@
 ; https://tilde.club/~blu256/lucky_animal.html Dedicated to Google Docs users: a generator of random anonymous "animal" avatars by yours truly (@blu256@udongein.xyz) in the style of Google Docs, taken a step further.
 ; Link of the day 2023-04-25
 ; https://knome.carlschwan.eu/ Meet KNOME: the project that will revolutionize the Linux desktop! Brought to you by the joint forces of GNOME and KDE and based on the QTK3 toolkit, "this state-o-fart [sic!] user-experience will transport you to the future of user experiences [...]".
-https://github.com/TodePond/C The C Language (previously known as DreamBerd) is a *perfect* programming language created by @TodePond@universeodon.com. It's so advanced that even AI can't handle it!
+; Link of the day 2023-08-06
+; https://github.com/TodePond/C The C Language (previously known as DreamBerd) is a *perfect* programming language created by @TodePond@universeodon.com. It's so advanced that even AI can't handle it!
 
 % Computers/Fun/Weird
 ; Link of the day 2022-11-24
