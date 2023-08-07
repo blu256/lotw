@@ -260,8 +260,8 @@ https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Phi
 ; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
 ; Link of the day 2023-02-11
 ; https://theforest.link/ "Surfing the web is becoming increasingly boring. What used to be a wild trip through stormy waters has now become a journey on a cruise ship where everything is planned and there's no longer place for craziness. This site is our attempt try bring some of that unpredictability back."
-; Link of the day 2023-03-22
-; https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
+https://indieweb.org/ "The IndieWeb is a community of independent & personal websites connected by simple standards, based on the principles of: owning your domain & using it as your primary identity, publishing on your own site (optionally syndicating elsewhere), and owning your data."
+https://small-tech.org/ An independent, two-person, not-for-profit dedicated to building the Small Web. It is run by @laura@mastodon.laurakalbag.com and @aral@mastodon.ar.al.
 
 
 % Computers/Internet/Search engines
@@ -337,6 +337,8 @@ https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Phi
 ; https://botsin.space/@linkoftheweek The Link of the Day is a human-curated bot which... oops! That's me!... Uh... hi there?
 ; Link of the day 2023-07-16
 ; http://shapecatcher.com/ ShapeCatcher is an online service to help you identify a Unicode character. Just draw it in the special box and let ShapeCatcher recognize it! (contributed by @wikinaut@berlin.social).
+; Link of the day 2023-03-22
+; https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -422,6 +424,7 @@ https://www.openttd.org/ "#OpenTTD is an open source simulation game based upon 
 ; http://textfiles.com/ Textfiles.com is an enormous collection of #textfiles from the 1980's, the dawn of modern computing history. "The focus is on mid-1980's textfiles and the world as it was then, but even these files are sometime retooled 1960s and 1970s works, and offshoots of this culture exist to this day."
 ; Link of the day 2023-03-06
 ; http://lecture.eingang.org/ A 1994 lecture on computers history, which itself belongs to history. An online presentation and a nostalgia trip complete with a 90s look and feel.
+https://www.webdesignmuseum.org/ "The Web Design Museum exhibits thousands of websites that chronicle forgotten trends in web design from its beginnings in the 1990s to the mid-00s". It's a big and well-organized collection which is fun to explore and includes quizes!
 
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
@@ -545,6 +548,7 @@ http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choo
 ; https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
 ; Link of the day 2023-02-19
 ; http://augmented-ui.com/ Augmented-ui is a retrofuturistic CSS style for UI elements which presents itself as "high tech, low effort". It certainly looks like something taken out of a sci-fi movie!
+https://sfpc.study "The School for Poetic Computation (SFPC) is an experimental school in New York founded in 2013. Our school supports interdisciplinary study in art, code, hardware and critical theory."
 
 % Computers/Publications
 ; Link of the week 2022-05-02 (week 18)
@@ -557,6 +561,7 @@ http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choo
 ; https://www.theregister.com/ The Register is "a leading and trusted global online enterprise technology news publication reaching roughly 40 million readers worldwide", online since 1998.
 ; Link of the day 2023-07-20
 ; https://www.howtogeek.com/ How-To Geek is an online technology publication written by computer geeks, for computer geeks, featuring articles, in-depth reviews, news and buying guides.
+https://thehtml.review/ "The html review is an annual journal of literature made to exist on the web". It includes "poetry, fiction, non-fiction, graphic storytelling, and experiments " presented in a way that highlight the possibilities of the web as a storytelling and art medium.
 
 % Computers/Cybersecurity
 ; Link of the day 2022-12-16
@@ -635,6 +640,8 @@ http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choo
 ; https://hellosystem.github.io/docs/ helloSystem is an operating system based on FreeBSD that mimicks the Mac user interface. It's "a desktop system for creators with a focus on simplicity, elegance, and usability" and "its design follows the “Less, but better” philosophy".
 ; Link of the day 2023-04-15
 ; http://www.ghostbsd.org/ GhostBSD claims to be "a simple, elegant desktop BSD Operating System" which comes with "commonly used [GTK] software preinstalled".
+https://aros.sourceforge.io/ "The AROS Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with #AmigaOS at the API level, while improving on it in many areas."
+https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
@@ -713,12 +720,13 @@ http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choo
 ; https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
 ; Link of the day 2023-08-04
 ; https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
+https://cityquiz.io/ "How many cities can you name? Test your geography skills. Free to play. No sign-up needed."
 
 % Fun/Parody
 ; Link of the day 2023-02-13
 ; https://parody.fandom.com/wiki/Parody_Wiki "The Parody Wiki is just like it sounds, a #parody site that lets you make up anything and do random stuff. Anything goes! A parody [...] is an imitative work created to mock, comment on or trivialize an original work, its subject, author, style, or some other target, by means of satiric or ironic imitation. In other words, make it funny!"
 ; Link of the day 2023-03-15
-; https://boodlebox.neocities.org/blinkexchange/blink The Internet Blink Exchange is a parody of link exchange websites. Instead of providing you ad space for your website banner, it offers you the unique opportunity to place *its* banner on *your* website for free! 
+; https://boodlebox.neocities.org/blinkexchange/blink The Internet Blink Exchange is a parody of link exchange websites. Instead of providing you ad space for your website banner, it offers you the unique opportunity to place *its* banner on *your* website for free!
 
 % Fun/Language
 ; Link of the day 2022-11-09
@@ -792,6 +800,8 @@ http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choo
 ; Link of the day 2023-06-05
 ; http://web.archive.org/web/20150206112856/http://thebiguglywebsite.com/ This is not some minor and utterly unimportant ugly website. This is *THE* *BIG* *UGLY* *WEBSITE*. Get the difference? I don't.
 https://rotatingsandwiches.com/ Rotating Sandwiches ­ that's it. Winner of #TinyAwards 2023.
+https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword needs since 1999!
+https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for the ambitious business professional looking to get ahead in the industry". Includes a big table of words that can be used to create such B.S.
 
 % Fun/Collections
 ; Link of the day 2022-08-30
