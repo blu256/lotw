@@ -985,7 +985,8 @@ https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for th
 ; https://www.wikipedia.org/ Today's LOTD is devoted to #Wikipedia — the user-editable free encyclopedia which we all too often take for granted - along with the plethora of sibling projects, such as Wikidata, Wiktionary and the Commons.
 ; Link of the day 2023-07-31
 ; https://www.britannica.com/ Britannica is a general knowledge English-language encyclopædia and the longest-running-in-print encyclopædia in English. Its regularly updated website contains lots of articles on different topics.
-https://www.urbandictionary.com/ Urban Dictionary is the crowdsourced English-language online dictionary for slang. Running since 1999, the dictionary nowadays contains over seven million word and phrase definitions.
+; Link of the day 2023-08-07
+; https://www.urbandictionary.com/ Urban Dictionary is the crowdsourced English-language online dictionary for slang. Running since 1999, the dictionary nowadays contains over seven million word and phrase definitions.
 
 
 ;;
