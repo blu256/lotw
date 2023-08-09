@@ -462,7 +462,8 @@ https://www.webdesignmuseum.org/ "The Web Design Museum exhibits thousands of we
 ; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide both free and paid plans.
 ; Link of the day 2023-05-06
 ; https://www.eff.org/ The Electronic Frontier Foundation (@eff@mastodon.social) is "the leading nonprofit organization defending civil liberties in the digital world". Its mission is "to ensure that technology supports freedom, justice, and innovation for all people of the world."
-http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choose?": This is an article which takes a deep dive into more than 30 e-mail providers' privacy practices, including "privacy-oriented" providers like ProtonMail.
+; Link of the day 2023-08-09
+; http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choose?": This is an article which takes a deep dive into more than 30 e-mail providers' privacy practices, including "privacy-oriented" providers like ProtonMail.
 
 % Computers/Nostalgia
 ; Link of the day 2022-07-15
