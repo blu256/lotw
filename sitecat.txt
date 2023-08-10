@@ -801,7 +801,8 @@ https://cityquiz.io/ "How many cities can you name? Test your geography skills. 
 ; https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles "Strange titles are rarely added to #Wikipedia under the guise of real encyclopedia articles. Occasionally Wikipedians lose their minds (especially on April Fool's Day) and if their posts are good they wind up here. Silliness can come in the form of creativity, insanity, or just boredom".
 ; Link of the day 2023-06-05
 ; http://web.archive.org/web/20150206112856/http://thebiguglywebsite.com/ This is not some minor and utterly unimportant ugly website. This is *THE* *BIG* *UGLY* *WEBSITE*. Get the difference? I don't.
-https://rotatingsandwiches.com/ Rotating Sandwiches ­ that's it. Winner of #TinyAwards 2023.
+; Link of the day 2023-08-10
+; https://rotatingsandwiches.com/ Rotating Sandwiches ­ that's it. Winner of #TinyAwards 2023.
 https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword needs since 1999!
 https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for the ambitious business professional looking to get ahead in the industry". Includes a big table of words that can be used to create such B.S.
 
