@@ -260,7 +260,8 @@ https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Phi
 ; https://bringback.blog/ This page argues that we should "Bring Back Blogging" and RSS in view of #Twitter's collapse. Imagine "perusing our RSS readers over morning coffee, passing the coolest links among coworkers and friends".
 ; Link of the day 2023-02-11
 ; https://theforest.link/ "Surfing the web is becoming increasingly boring. What used to be a wild trip through stormy waters has now become a journey on a cruise ship where everything is planned and there's no longer place for craziness. This site is our attempt try bring some of that unpredictability back."
-https://indieweb.org/ "The IndieWeb is a community of independent & personal websites connected by simple standards, based on the principles of: owning your domain & using it as your primary identity, publishing on your own site (optionally syndicating elsewhere), and owning your data."
+; Link of the day 2023-08-11
+; https://indieweb.org/ "The IndieWeb is a community of independent & personal websites connected by simple standards, based on the principles of: owning your domain & using it as your primary identity, publishing on your own site (optionally syndicating elsewhere), and owning your data."
 ; Link of the day 2023-08-08
 ; https://small-tech.org/ An independent, two-person, not-for-profit dedicated to building the Small Web. It is run by @laura@mastodon.laurakalbag.com and @aral@mastodon.ar.al.
 
