@@ -805,7 +805,8 @@ https://cityquiz.io/ "How many cities can you name? Test your geography skills. 
 ; Link of the day 2023-08-10
 ; https://rotatingsandwiches.com/ Rotating Sandwiches ­ that's it. Winner of #TinyAwards 2023.
 https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword needs since 1999!
-https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for the ambitious business professional looking to get ahead in the industry". Includes a big table of words that can be used to create such B.S.
+; Link of the day 2023-08-12
+; https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for the ambitious business professional looking to get ahead in the industry". Includes a big table of words that can be used to create such B.S.
 
 % Fun/Collections
 ; Link of the day 2022-08-30
