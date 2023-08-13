@@ -644,7 +644,8 @@ https://thehtml.review/ "The html review is an annual journal of literature made
 ; Link of the day 2023-04-15
 ; http://www.ghostbsd.org/ GhostBSD claims to be "a simple, elegant desktop BSD Operating System" which comes with "commonly used [GTK] software preinstalled".
 https://aros.sourceforge.io/ "The AROS Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with #AmigaOS at the API level, while improving on it in many areas."
-https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
+; Link of the day 2023-08-13
+; https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
