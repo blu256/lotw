@@ -806,7 +806,8 @@ https://cityquiz.io/ "How many cities can you name? Test your geography skills. 
 ; http://web.archive.org/web/20150206112856/http://thebiguglywebsite.com/ This is not some minor and utterly unimportant ugly website. This is *THE* *BIG* *UGLY* *WEBSITE*. Get the difference? I don't.
 ; Link of the day 2023-08-10
 ; https://rotatingsandwiches.com/ Rotating Sandwiches ­ that's it. Winner of #TinyAwards 2023.
-https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword needs since 1999!
+; Link of the day 2023-08-15
+; https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword needs since 1999!
 ; Link of the day 2023-08-12
 ; https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for the ambitious business professional looking to get ahead in the industry". Includes a big table of words that can be used to create such B.S.
 
