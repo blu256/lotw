@@ -726,7 +726,8 @@ https://aros.sourceforge.io/ "The AROS Research Operating System is a lightweigh
 ; https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
 ; Link of the day 2023-08-04
 ; https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
-https://cityquiz.io/ "How many cities can you name? Test your geography skills. Free to play. No sign-up needed."
+; Link of the day 2023-08-17
+; https://cityquiz.io/ "How many cities can you name? Test your geography skills. Free to play. No sign-up needed."
 
 % Fun/Parody
 ; Link of the day 2023-02-13
