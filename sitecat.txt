@@ -645,7 +645,8 @@ https://sfpc.study "The School for Poetic Computation (SFPC) is an experimental 
 ; https://hellosystem.github.io/docs/ helloSystem is an operating system based on FreeBSD that mimicks the Mac user interface. It's "a desktop system for creators with a focus on simplicity, elegance, and usability" and "its design follows the “Less, but better” philosophy".
 ; Link of the day 2023-04-15
 ; http://www.ghostbsd.org/ GhostBSD claims to be "a simple, elegant desktop BSD Operating System" which comes with "commonly used [GTK] software preinstalled".
-https://aros.sourceforge.io/ "The AROS Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with #AmigaOS at the API level, while improving on it in many areas."
+; Link of the day 2023-08-18
+; https://aros.sourceforge.io/ "The AROS Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with #AmigaOS at the API level, while improving on it in many areas."
 ; Link of the day 2023-08-13
 ; https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
 
