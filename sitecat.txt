@@ -401,7 +401,8 @@ https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Phi
 ; https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
 ; Link of the day 2023-01-31
 ; https://www.minetest.net/ Minetest (@Minetest@fosstodon.org) is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
-https://www.openttd.org/ "#OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features."
+; Link of the day 2023-08-19
+; https://www.openttd.org/ "#OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features."
 
 % Computers/Video Games/Strategies
 ; Link of the day 2022-08-18
