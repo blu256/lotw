@@ -249,7 +249,8 @@
 ; https://web.archive.org/web/20010827013341/http://userfriendly.org/community/ufiles/win1900a.jpg What if Windows Millenium was not Y2K-compliant? A funny background for your retro Windows desktop.
 ; Link of the day 2023-05-27
 ; http://act.mit.edu/cavs This is the "Special Collection" of the MIT's Center for Advanced Visual Studies. It swirls! It rotates! It spins in 3D! And someone actually thought that would be a great idea for navigating a webpage.
-https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Philosophy principle: "Clicking on the first link in the main text of an English Wikipedia article, and then repeating the process for subsequent articles, usually leads to the Philosophy article".
+; Link of the day 2023-08-21
+; https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Philosophy principle: "Clicking on the first link in the main text of an English Wikipedia article, and then repeating the process for subsequent articles, usually leads to the Philosophy article".
 
 % Computers/Internet
 ; Link of the day 2022-12-14
