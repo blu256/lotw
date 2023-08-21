@@ -943,7 +943,7 @@ https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword 
 ; https://keenspot.com/ Keenspot is one of the oldest webcomics portals still online. It is said to have been "a starting point [...] of many successful webcartoonists over the years".
 ; Link of the day 2023-07-13
 ; https://www.thewotch.com The Wotch is a webcomic about about a teenage witch and her friends who have to deal with school, magical transformations and supernatural emergencies.
-https://www.thefarside.com/ Daily changing comics from Gary Larson (wouldn't really call it a webcomic)
+https://www.thefarside.com/ Daily changing comics from Gary Larson (wouldn't really call it a webcomic) (contributed by @pink@norden.social)
 
 
 ;;
@@ -961,7 +961,7 @@ https://www.thefarside.com/ Daily changing comics from Gary Larson (wouldn't rea
 ; https://streetcomplete.app/ StreetComplete is perhaps the easiest and most fun way to contribute to #OpenStreetMap! It's a #FOSS #Android app which finds missing #OSM data in your vicinity and presents it on a map as quests. Solving these quests awards you points and links to interesting services based on #OSM.
 ; Link of the day 2023-07-07
 ; https://satellitestud.io/osm-haiku/app/ This is an app which "can generate a [haiku] poem about any place in the world. The result is sometimes fun, often weird, most of the time pretty terrible". The... inspiration comes from a point on a #OSM map and the surrounding features.
-https://geohashing.site/geohashing/Main_Page If Geocaching is not exciting anymore (based on a XKCD Webcomic)
+https://geohashing.site/geohashing/Main_Page If Geocaching is not exciting anymore (based on a XKCD Webcomic) (contributed by @pink@norden.social)
 
 ;;
 ;;  Informational
@@ -1017,7 +1017,7 @@ https://geohashing.site/geohashing/Main_Page If Geocaching is not exciting anymo
 ; https://www.astronomyforbeginners.com/ "Astronomy for Beginners is a editorial project designed to help you with your first steps into this incredible yet complex science".
 ; Link of the day 2023-03-07
 ; https://sten.astronomycafe.net/ The Astronomy Cafe is an astronomy blog run by Dr. Sten Odenwald, astronomer and educator with the NASA Heliophysics Education Consortium.
-https://apod.nasa.gov/apod/astropix.html NASAs Astronomy Picture of the Day with explanations (Alternative: The Mastodon Bot @APoD@botsin.space)
+https://apod.nasa.gov/apod/astropix.html NASAs Astronomy Picture of the Day with explanations (Alternative: The Mastodon Bot @APoD@botsin.space) (contributed by @pink@norden.social)
 
 % Science/Geography
 ; Link of the day 2023-08-05
