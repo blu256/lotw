@@ -955,7 +955,8 @@ https://neal.fun/deep-sea What's there in deep sea? Find out the oceans' deepest
 ; https://keenspot.com/ Keenspot is one of the oldest webcomics portals still online. It is said to have been "a starting point [...] of many successful webcartoonists over the years".
 ; Link of the day 2023-07-13
 ; https://www.thewotch.com The Wotch is a webcomic about about a teenage witch and her friends who have to deal with school, magical transformations and supernatural emergencies.
-https://www.thefarside.com/ Daily changing comics from Gary Larson (wouldn't really call it a webcomic) (contributed by @pink@norden.social)
+; Link of the day 2023-08-24
+; https://www.thefarside.com/ Daily changing comics from Gary Larson (wouldn't really call it a webcomic) (contributed by @pink@norden.social)
 
 
 ;;
