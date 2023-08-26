@@ -975,7 +975,8 @@ https://neal.fun/deep-sea What's there in deep sea? Find out the oceans' deepest
 ; https://streetcomplete.app/ StreetComplete is perhaps the easiest and most fun way to contribute to #OpenStreetMap! It's a #FOSS #Android app which finds missing #OSM data in your vicinity and presents it on a map as quests. Solving these quests awards you points and links to interesting services based on #OSM.
 ; Link of the day 2023-07-07
 ; https://satellitestud.io/osm-haiku/app/ This is an app which "can generate a [haiku] poem about any place in the world. The result is sometimes fun, often weird, most of the time pretty terrible". The... inspiration comes from a point on a #OSM map and the surrounding features.
-https://geohashing.site/geohashing/Main_Page If Geocaching is not exciting anymore (based on a XKCD Webcomic) (contributed by @pink@norden.social)
+; Link of the day 2023-08-26
+; https://geohashing.site/geohashing/Main_Page If Geocaching is not exciting anymore (based on a XKCD Webcomic) (contributed by @pink@norden.social)
 
 ;;
 ;;  Informational
