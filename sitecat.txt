@@ -767,7 +767,8 @@ https://pointless.com This website will take you to an entirely pointless websit
 ; http://www.slightlyinteresting.com/forest/ Plant a forest straight in your browser! Watch your trees grow, then move them around at will, constructing your very own enchanted forest.
 ; Link of the day 2022-10-12
 ; http://web.archive.org/web/20220808235949/https://www.bbc.com/future/bespoke/story/20150306-journey-to-the-centre-of-earth/index.html How far would you have to travel to reach the Earth's core? And what would you see along the way? Discover what lies beneath. A BBC Future project.
-https://neal.fun/deep-sea What's there in deep sea? Find out the oceans' deepest secrets (pun intended) by scrolling down this page.
+; Link of the day 2023-08-27
+; https://neal.fun/deep-sea What's there in deep sea? Find out the oceans' deepest secrets (pun intended) by scrolling down this page.
 
 % Fun/Satire
 ; Link of the day 2022-12-21
