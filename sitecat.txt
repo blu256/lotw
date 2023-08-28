@@ -251,7 +251,8 @@
 ; http://act.mit.edu/cavs This is the "Special Collection" of the MIT's Center for Advanced Visual Studies. It swirls! It rotates! It spins in 3D! And someone actually thought that would be a great idea for navigating a webpage.
 ; Link of the day 2023-08-21
 ; https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy The #Wikipedia Philosophy principle: "Clicking on the first link in the main text of an English Wikipedia article, and then repeating the process for subsequent articles, usually leads to the Philosophy article".
-https://pointless.com This website will take you to an entirely pointless website... and then another one... and another one...
+; Link of the day 2023-08-28
+; https://pointless.com This website will take you to an entirely pointless website... and then another one... and another one...
 
 % Computers/Internet
 ; Link of the day 2022-12-14
