@@ -308,6 +308,7 @@
 ; https://kbin.pub/en This is the website of the kbin project, "an open source reddit-like content aggregator and microblogging platform for the fediverse".
 ; Link of the day 2023-07-06
 ; https://tootfinder.ch/ TootFinder is an opt-in search engine for toots on Mastodon.
+https://instances.social instances.social is a quiz-like tool which can help you to choose a #Mastodon instance that will suit your preferences most.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
@@ -344,6 +345,7 @@
 ; http://shapecatcher.com/ ShapeCatcher is an online service to help you identify a Unicode character. Just draw it in the special box and let ShapeCatcher recognize it! (contributed by @wikinaut@berlin.social).
 ; Link of the day 2023-03-22
 ; https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
+https://mynoise.net/NoiseMachines/tinRoofRainNoiseGenerator.php "There are as many rain sounds as there are different surfaces. This is a nice rain noise generator, and the website provides yet more. Try combining with Jungle Life sound generator for a truly immersive experience of rain" (contributed by @saoqingniang@go5.dev)
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -725,19 +727,22 @@
 ; Link of the day 2023-01-29
 ; https://www.darkroastedblend.com/ "[Dark Roasted Blend] is the online magazine to complement your daily coffee ritual, specializing in unique/eclectic, "weird & wonderful" content. Featuring fascinating art, travel and technology, DRB presents plenty of wonders and tons of fascinating info! Follow us on Twitter and Facebook for your regular 'wonder and caffeine' kick."
 ; Link of the day 2023-03-09
-; https://nojoeschmo.com This website is dedicated to stories of people with "cool and crazy jobs — and how they got them" (submitted by @saoqingniang@go5.dev).
+; https://nojoeschmo.com This website is dedicated to stories of people with "cool and crazy jobs — and how they got them" (contributed by @saoqingniang@go5.dev).
 ; Link of the day 2023-04-11
 ; https://thatsthefinger.com/ [Warning: Mildly Offensive] The URL says it all. Dedicate this page to every jerk out there that tries to make your life more difficult than it should be.
 ; Link of the day 2023-04-26
 ; https://guinnessworldrecords.com/ This is the website of #Guinness World Records, an annually (since 1955) published book dedicated to world records of human achievements and extremes of the natural world.
 ; Link of the day 2023-08-04
 ; https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
-; Link of the day 2023-08-17
-; https://cityquiz.io/ "How many cities can you name? Test your geography skills. Free to play. No sign-up needed."
 ; Link of the day 2023-08-23
 ; https://s3.mirror.co.uk/click-the-colour-and-not-the-word/index.html A challenging little game... "Five levels. Increasing distractions. Against the clock. All you have to do: click the colour and not the word."
+
+% Fun/Little games
+; Link of the day 2023-08-17
+; https://cityquiz.io/ "How many cities can you name? Test your geography skills. Free to play. No sign-up needed."
 ; Link of the day 2023-08-25
 ; https://snake.googlemaps.com/ Did you know there is an official loosely #GoogleMaps-themed snake game? Initially an April Fools 2019 joke, it still remains online to this day.
+https://metazooa.com Metazooa is a fun wordle-like game for guessing an animal by going down the tree of species classification (so you know the closest common ancestor of all your guesses and the animal you need to guess). (contributed by @goldstein@im-in.space)
 
 % Fun/Parody
 ; Link of the day 2023-02-13
