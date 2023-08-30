@@ -345,7 +345,8 @@ https://instances.social instances.social is a quiz-like tool which can help you
 ; http://shapecatcher.com/ ShapeCatcher is an online service to help you identify a Unicode character. Just draw it in the special box and let ShapeCatcher recognize it! (contributed by @wikinaut@berlin.social).
 ; Link of the day 2023-03-22
 ; https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
-https://mynoise.net/NoiseMachines/tinRoofRainNoiseGenerator.php "There are as many rain sounds as there are different surfaces. This is a nice rain noise generator, and the website provides yet more. Try combining with Jungle Life sound generator for a truly immersive experience of rain" (contributed by @saoqingniang@go5.dev)
+; Link of the day 2023-08-30
+; https://mynoise.net/NoiseMachines/tinRoofRainNoiseGenerator.php "There are as many rain sounds as there are different surfaces. This is a nice rain noise generator, and the website provides yet more. Try combining with Jungle Life sound generator for a truly immersive experience of rain" (contributed by @saoqingniang@go5.dev)
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
