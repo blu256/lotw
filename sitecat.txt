@@ -308,7 +308,8 @@
 ; https://kbin.pub/en This is the website of the kbin project, "an open source reddit-like content aggregator and microblogging platform for the fediverse".
 ; Link of the day 2023-07-06
 ; https://tootfinder.ch/ TootFinder is an opt-in search engine for toots on Mastodon.
-https://instances.social instances.social is a quiz-like tool which can help you to choose a #Mastodon instance that will suit your preferences most.
+; Link of the day 2023-08-31
+; https://instances.social instances.social is a quiz-like tool which can help you to choose a #Mastodon instance that will suit your preferences most.
 
 % Computers/Internet/Feeds
 ; Link of the week 2022-03-14 (week 11)
