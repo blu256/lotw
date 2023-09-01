@@ -744,7 +744,8 @@
 ; https://cityquiz.io/ "How many cities can you name? Test your geography skills. Free to play. No sign-up needed."
 ; Link of the day 2023-08-25
 ; https://snake.googlemaps.com/ Did you know there is an official loosely #GoogleMaps-themed snake game? Initially an April Fools 2019 joke, it still remains online to this day.
-https://metazooa.com Metazooa is a fun wordle-like game for guessing an animal by going down the tree of species classification (so you know the closest common ancestor of all your guesses and the animal you need to guess). (contributed by @goldstein@im-in.space)
+; Link of the day 2023-09-01
+; https://metazooa.com Metazooa is a fun wordle-like game for guessing an animal by going down the tree of species classification (so you know the closest common ancestor of all your guesses and the animal you need to guess). (contributed by @goldstein@im-in.space)
 
 % Fun/Parody
 ; Link of the day 2023-02-13
