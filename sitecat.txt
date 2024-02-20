@@ -1110,7 +1110,8 @@ https://electronicsclub.info/ Electronics Club is "a website for anyone wishing 
 % Technology/History
 ; Link of the day 2023-04-21
 ; https://en.wikipedia.org/wiki/DARPA_Grand_Challenge This annual prize competition by the American DARPA started the big race to create autonomous (self-driving) vehicles back in 2004 [pun intended].
-http://www.digicamhistory.com/ DigiCamHistory.com is "the first ever, and still by far the most complete virtual history museum of film cameras to digital photography and space exploration imagers on the web"
+; Link of the day 2024-02-20
+; http://www.digicamhistory.com/ DigiCamHistory.com is "the first ever, and still by far the most complete virtual history museum of film cameras to digital photography and space exploration imagers on the web"
 
 % Technology/Satellite
 ; Link of the day 2023-04-13
