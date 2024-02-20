@@ -145,6 +145,87 @@
 ; Link of the day 2023-05-13
 ; https://chat.openai.com #ChatGPT barely needs an introduction nowadays. It's a natural language model which can generate text in answer to a user-specified prompt. You need to register with the site to grant access to ChatGPT, though.
 
+% Computers/Android
+https://lineageos.org/ LineageOS is the most popular free and open-source Android distribution for various devices based on the Android Open-Source Project.
+
+% Computers/Cybersecurity
+; Link of the day 2022-12-16
+; https://it.tamu.edu/missinglink “The Missing Link – A Cybersecurity Mystery” is an online game that was created by the Division of Information Technology as part of National Cybersecurity Awareness Month. The game will test your cyber smarts and teach useful tips for staying safe online. More cybersecurity games are available at https://u.tamu.edu/games.
+
+% Computers/Development
+; Link of the week 2022-01-31 (week 05)
+; https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
+; Link of the week 2022-06-06 (week 23)
+; https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
+; Link of the day 2022-09-02
+; https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
+; Link of the week 2022-04-11 (week 15)
+; https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
+; Link of the week 2022-04-25 (week 17)
+; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
+; Link of the day 2022-07-09
+; https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
+; Link of the day 2022-07-24
+; https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
+; Link of the day 2022-09-10
+; https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
+; Link of the day 2023-03-26
+; https://sourcehut.org/ SourceHut is a minimal free and open-source software development platform focused on providing the fastest and lightest, JavaScript-free software forge which supports GIT and Mercurial. It is currently in alpha, but it is ready for production use.
+; Link of the day 2023-03-24
+; https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
+; Link of the day 2023-03-30
+; https://github.com/fffaraz/awesome-cpp Awesome C++ is "a curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things."
+; Link of the day 2023-03-29
+; https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
+; Link of the day 2023-04-12
+; https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
+; Link of the day 2023-04-22
+; https://pvs-studio.com/en/blog/posts/cpp/0960/ C++ programmers: can YOU spot the mistakes in others' code? Take this entertaining quiz to see how hard it can be.
+; Link of the day 2023-05-23
+; http://sourceware.org/ "Sourceware is a Free Software hosting project for core toolchain and developer tools. Sourceware is maintained by volunteers. [...] It is our goal to offer a worry-free, friendly home for Free Software projects."
+; Link of the day 2023-06-04
+; http://prog21.dadgum.com/ "Programming in the Twenty-First Century" is a blog that revolved around programming, creativity and inspiration. Even though it stopped updating in 2017, its 200+ articles certainly provide food for thought and an interesting perspective on information technology.
+
+% Computers/Development/Code golfing
+; Link of the day 2022-11-08
+; https://js1k.com/ The JavaScript code golfing competition.  It runs yearly, usually in or around February/March. You must submit a self-contained demo in 1024 bytes of pure JS, which in turn may use various web technologies (submitted by @1ynx@tech.lgbt).
+; Link of the day 2022-10-06
+; https://ioccc.org/ The site of the International Obfuscated C Code Contest, whose goals are (among others) to show the importance of programming style, in an ironic way; to stress C compilers with unusual code; to illustrate some of the subtleties of the C language and to provide a safe forum for poor C code.
+
+% Computers/Development/Games
+; Link of the day 2022-07-13
+; https://script-8.github.io SCRIPT-8 is a fantasy computer for making, sharing, and playing tiny retro-looking games (called cassettes). It's free, browser-based, and open-source. Cassettes are written in JavaScript.
+; Link of the day 2022-07-16
+; https://morgan3d.github.io/nano/doc/specification.md.html The nano JAMMER is a fantasy console for tiny games. It is perfect for hobby coding, a game programming course, and tweetjams. The nano integrated development environment is free, runs in a browser, and connects to Google Drive. So, you can turn a few spare minutes on any computer or tablet into productive coding time.
+; Link of the day 2022-07-06
+; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
+; Link of the day 2022-09-22
+; https://tic80.com/ TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games (contributed by @moddedBear@fosstodon.org).
+; Link of the day 2022-10-23
+; https://godotengine.org/ Godot is a popular FOSS game engine which provides a huge set of common tools, so you can just focus on making your 2D or 3D game without reinventing the wheel.
+
+% Computers/Development/Frameworks
+https://flutter.dev/ Flutter is a multiplatform open-source UI application framework which allows you to create desktop, mobile and web applicaations from a single codebase.
+https://www.qt.io/ Qt is a powerful cross-plaform object-oriented GUI framework for the desktop, Android devices and embedded systems.
+https://www.gtk.org GTK is a free and open-source GUI toolkit used by many Linux applications.
+
+% Computer/Development/Web
+; Link of the week 2022-04-04 (week 14)
+; https://idlewords.com/talks/website_obesity.htm Wonder in what ways the modern web sucks? Here's one talk on the problem of website obesity.
+; Link of the week 2022-05-30 (week 22)
+; https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications.
+; Link of the day 2022-09-09
+; https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/ You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
+; Link of the day 2022-07-20
+; https://meiert.com/en/blog/minimal-web-development/ A short guide to the philosophy of minimal web development.
+; Link of the day 2022-07-02
+; https://jdan.github.io/98.css/ 98.css is a "design system for building faithful recreations of old UIs". It is a CSS library for building interfaces that have the look and feel of Windows 98.
+; Link of the day 2022-07-23
+; https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
+; Link of the day 2023-02-19
+; http://augmented-ui.com/ Augmented-ui is a retrofuturistic CSS style for UI elements which presents itself as "high tech, low effort". It certainly looks like something taken out of a sci-fi movie!
+; Link of the day 2023-08-20
+; https://sfpc.study "The School for Poetic Computation (SFPC) is an experimental school in New York founded in 2013. Our school supports interdisciplinary study in art, code, hardware and critical theory."
 % Computers/FOSS
 ; Link of the day 2022-09-11
 ; https://staltz.com/time-till-open-source-alternative.html "Open source is coming for your business. [...] In this blog post, I’ll prove this to you with data. I present a measurement I call “Time Till Open Source Alternative” (TTOSA) which represents how long a proprietary software lasted without a direct open source alternative."
@@ -267,7 +348,7 @@
 ; https://indieweb.org/ "The IndieWeb is a community of independent & personal websites connected by simple standards, based on the principles of: owning your domain & using it as your primary identity, publishing on your own site (optionally syndicating elsewhere), and owning your data."
 ; Link of the day 2023-08-08
 ; https://small-tech.org/ An independent, two-person, not-for-profit dedicated to building the Small Web. It is run by @laura@mastodon.laurakalbag.com and @aral@mastodon.ar.al.
-
+https://www.tomshardware.com/news/yes-a-pigeon-is-still-faster-than-gigabit-fiber-internet Is a pigeon with a flash drive faster than gigabit fiber Internet? The answer might surprise you.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
@@ -348,6 +429,9 @@
 ; https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
 ; Link of the day 2023-08-30
 ; https://mynoise.net/NoiseMachines/tinRoofRainNoiseGenerator.php "There are as many rain sounds as there are different surfaces. This is a nice rain noise generator, and the website provides yet more. Try combining with Jungle Life sound generator for a truly immersive experience of rain" (contributed by @saoqingniang@go5.dev)
+https://www.spaceweather.com/ SpaceWeather is a daily updated news and information website about "the Sun-Earth environment" and weather conditions in space. It has a refreshingly old-style look and feel to it and its archives span back to 2001.
+https://www.tosdr.org/ “I have read and agree to the Terms” is the biggest lie on the web. This service (appropriately called "Terms of Service - Didn't Read) attempts to fix that by providing TL;DR versions of Terms of Service of popular applications, websites and companies and rating them according to how invasive they are.
+https://disroot.org Disroot (@disroot@nixnet.social) is "a platform providing online services based on principles of freedom, privacy, federation and decentralization. No tracking, no ads, no profiling, no data mining!"
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
@@ -371,62 +455,6 @@
 ; Link of the day 2023-02-23
 ; https://sillydog.org/netscape-vault SillyDog701's Netscape Vault is a collection of pages devoted to the old Netscape browsers. It features the Netscape Browser Archive, as well as everything you might want to know about the history of #Netscape and #Mozilla.
 
-% Computers/Video Games
-; Link of the day 2023-01-25
-; https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
-; Link of the day 2023-04-08
-; https://www.geoguessr.com/ #GeoGuessr is a famous online game which throws you into a random location in the world and you have to figure out where you are by browsing around in Google's Street View mode.
-; Link of the day 2023-04-16
-; https://maze.toys/ This fun little online maze game is a great time-killer!
-
-% Computers/Video Games/History
-; Link of the day 2023-01-05
-; http://www.vgmuseum.com/ The Video Game Museum is a virtual museum of over 13,000 video games on 50 platforms, complete with descriptions, screenshots, game ads and other assets.
-; Link of the day 2023-01-02
-; https://classic.minecraft.net/ Did you know that you can officially play Minecraft Classic in your browser? It's not much, but it has multiplayer!
-; Link of the day 2023-01-26
-; https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend The story behind Minecraft's End Poem, which its author had written for a friend. The poem was deliberately released into public domain by its author in December 2022.
-
-% Computers/Video Games/Retro Gaming
-; Link of the day 2023-01-27
-; https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
-
-% Computers/Video Games/Rogue-like
-; Link of the day 2023-02-06
-; https://cataclysmdda.org/ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. "As your game begins, you awaken with hazy memories of violence and terror from when the world suddenly unravelled around you. Now you need to explore your surroundings, and secure food, water and safety. After that, who knows?"
-; Link of the day 2023-04-27
-; https://nethack.org NetHack is a single-player dungeon exploration game. What sets it apart is that the emphasis is on discovering the detail of the dungeon. Each game presents a different landscape: there is an unlimited number of variations of the dungeon and its denizens to be discovered by the player.
-
-% Computers/Video Games/Simulators
-; Link of the week 2022-02-14 (week 07)
-; https://simutrans.org Simutrans (@simutrans@fosstodon.org) is a free and open-source transport company simulation game. You start with a limited budget (or you can always turn on the freeplay mode) on your way to build the transport empire of your dreams!
-; Link of the day 2022-10-11
-; https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
-; Link of the day 2022-09-28
-; https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answers, and help the kingdom grow! "Sort-the-court" is a free-to-play Unity game played in your browser which can also be downloaded for Linux, Mac and Windows.
-; Link of the day 2022-12-22
-; https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
-; Link of the day 2023-01-31
-; https://www.minetest.net/ Minetest (@Minetest@fosstodon.org) is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
-; Link of the day 2023-08-19
-; https://www.openttd.org/ "#OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features."
-
-% Computers/Video Games/Strategies
-; Link of the day 2022-08-18
-; https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
-; Link of the day 2022-12-25
-; https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
-; Link of the day 2023-01-19
-; https://webdiplomacy.net/ webDiplomacy is a web version of the popular turn-based strategy Diplomacy. The objective of Diplomacy is to be the first nation to own half of the supply centers in the game. ""Luck plays no part in Diplomacy. Cunning and cleverness, honesty and perfectly-timed betrayal are the tools needed to outwit your fellow players."
-; Link of the day 2023-02-16
-; https://www.nationstates.net NationStates is an amazing multiplayer government simulation browser game created and developed by Max Barry. It has a sizable online community, which frequently engages in roleplay, and an accompanying forum board. Since its launch in 2002, over 8.37 million user-created nations have been created!
-
-% Computers/Video Games/Interactive Fiction
-; Link of the day 2022-08-04
-; https://twinery.org/ Twine is an online tool for creating simple, hypertextual, interactive and nonlinear stories. Twine publishes directly to HTML, so you can post your work nearly anywhere. Anything you create with it is completely free to use any way you like, including for commercial purposes.
-; Link of the day 2022-07-08
-; https://ifdb.org/ The Interactive Fiction Database is an IF game catalog and recommendation engine. IFDB is a Wiki-style community project: members can add new game listings, write reviews, exchange game recommendations, and more.
-
 % Computers/History
 ; Link of the week 2022-03-07 (week 10)
 ; https://toastytech.com/guis/index.html Nathan Lineback's legendary GUI gallery.
@@ -436,6 +464,11 @@
 ; http://lecture.eingang.org/ A 1994 lecture on computers history, which itself belongs to history. An online presentation and a nostalgia trip complete with a 90s look and feel.
 ; Link of the day 2023-08-14
 ; https://www.webdesignmuseum.org/ "The Web Design Museum exhibits thousands of websites that chronicle forgotten trends in web design from its beginnings in the 1990s to the mid-00s". It's a big and well-organized collection which is fun to explore and includes quizes!
+http://www.columbia.edu/cu/computinghistory/ "From the beginning up to about 1960, Columbia University was a major contributor to the development of electronic computing as we know it today. But Columbia's role is little known — especially at Columbia itself. This website, which would be nearly 500 pages long if printed, attempts to fill in the blanks."
+
+% Computers/Learning
+; Link of the day 2023-03-21
+; https://www.markdownguide.org/ "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document."
 
 % Computers/Linux
 ; Link of the week 2022-06-24 (week 25)
@@ -446,6 +479,7 @@
 ; https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix software packages. It is based on information from more than 1200 official and unofficial software repositories.
 ; Link of the day 2023-05-18
 ; https://wiki.archlinux.org/ The Arch Wiki is one of the best online resources of documentation not only for Arch Linux, but for most Linux distributions out there.
+https://makelinux.github.io/kernel/map/ Yes, the Linux kernel actually has its own map! "The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code."
 
 % Computers/Linux/Distributions
 ; Link of the day 2023-01-07
@@ -462,18 +496,7 @@
 ; https://www.slackware.com/ Slackware is the oldest Linux distribution that's still around. It is said to be the most Unix'y distribution of all.
 ; Link of the day 2023-05-04
 ; https://www.mageia.org Mageia is the successor of the old Mandriva Linux following the same principles of being a user-friendly graphical Linux distribution.
-
-% Computers/Privacy
-; Link of the day 2022-09-16
-; https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
-; Link of the week 2022-06-29 (week 26)
-; https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
-; Link of the day 2023-04-07
-; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide both free and paid plans.
-; Link of the day 2023-05-06
-; https://www.eff.org/ The Electronic Frontier Foundation (@eff@mastodon.social) is "the leading nonprofit organization defending civil liberties in the digital world". Its mission is "to ensure that technology supports freedom, justice, and innovation for all people of the world."
-; Link of the day 2023-08-09
-; http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choose?": This is an article which takes a deep dive into more than 30 e-mail providers' privacy practices, including "privacy-oriented" providers like ProtonMail.
+https://q4os.org/ Q4OS (@q4os@floss.social) is a "fast and friendly, desktop oriented operating system based on Debian Linux" which includes the #TDE and #KDE Plasma desktops, homegrown utilities as well as custom usability tweaks.
 
 % Computers/Nostalgia
 ; Link of the day 2022-07-15
@@ -492,76 +515,19 @@
 ; https://infinitemac.org/ "Infinite Mac is a collection of classic Macintosh system releases and software, all easily accessible from the comfort of a (modern) web browser. Pick any version of System Software/Mac OS from the 1980s or 1990s and run it (and major software of that era) within a virtual machine."
 ; Link of the day 2023-04-18
 ; https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast, searchable, and shareable, interface for the collection of Winamp Skins amassed on the Internet Archive."
+https://github.com/jcs/progman Achieve the perfect Linux for Workgroups look with this X11 window manager! "Hot Dog Stand" theme included, for those who know.
 
-% Computers/Development
-; Link of the week 2022-01-31 (week 05)
-; https://thedailywtf.com/ "The Daily WTF is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices".
-; Link of the week 2022-06-06 (week 23)
-; https://www.darkpatterns.org/ DarkPatterns.org is a website about "dark patterns" — tricks used in websites and apps that make you do things that you didn't mean to.
-; Link of the day 2022-09-02
-; https://joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/ An interesting take on sensible UI design by a seasoned software developer.
-; Link of the week 2022-04-11 (week 15)
-; https://joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ The absolute minimum every software developer absolutely, positively must know about Unicode and character sets. A well-written, absolutely, positively explanative article about Unicode, code pages and the encodings mess.
-; Link of the week 2022-04-25 (week 17)
-; https://unicode-table.com/ Unicode Table is (guess what?) an online unicode character map. It allows several ways of looking for and discovering all kinds of Unicode characters (emojis included) which are divided into sets and colletions.
-; Link of the day 2022-07-09
-; https://what.thedailywtf.com/topic/15001/enlightened The tragical story of a programmer who had to put up with a terrible GUI toolkit.
-; Link of the day 2022-07-24
-; https://projecteuler.net/ Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. The motivation for Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
-; Link of the day 2022-09-10
-; https://thedailywtf.com/articles/classic-wtf-very-very-well-documented What happens when your boss requires 8 **meters** of documentation for your application.
-; Link of the day 2023-03-26
-; https://sourcehut.org/ SourceHut is a minimal free and open-source software development platform focused on providing the fastest and lightest, JavaScript-free software forge which supports GIT and Mercurial. It is currently in alpha, but it is ready for production use.
-; Link of the day 2023-03-24
-; https://gitea.io Gitea (@gitea@social.gitea.io) is "a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
-; Link of the day 2023-03-30
-; https://github.com/fffaraz/awesome-cpp Awesome C++ is "a curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things."
-; Link of the day 2023-03-29
-; https://forgejo.org/ Forgejo (@forgejo@floss.social) is "a self-hosted lightweight software forge". It's a soft fork of Gitea focused on "scaling, federation and privacy".
-; Link of the day 2023-04-12
-; https://git-scm.com/ " Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance."
-; Link of the day 2023-04-22
-; https://pvs-studio.com/en/blog/posts/cpp/0960/ C++ programmers: can YOU spot the mistakes in others' code? Take this entertaining quiz to see how hard it can be.
-; Link of the day 2023-05-23
-; http://sourceware.org/ "Sourceware is a Free Software hosting project for core toolchain and developer tools. Sourceware is maintained by volunteers. [...] It is our goal to offer a worry-free, friendly home for Free Software projects."
-; Link of the day 2023-06-04
-; http://prog21.dadgum.com/ "Programming in the Twenty-First Century" is a blog that revolved around programming, creativity and inspiration. Even though it stopped updating in 2017, its 200+ articles certainly provide food for thought and an interesting perspective on information technology.
-
-% Computers/Development/Code golfing
-; Link of the day 2022-11-08
-; https://js1k.com/ The JavaScript code golfing competition.  It runs yearly, usually in or around February/March. You must submit a self-contained demo in 1024 bytes of pure JS, which in turn may use various web technologies (submitted by @1ynx@tech.lgbt).
-; Link of the day 2022-10-06
-; https://ioccc.org/ The site of the International Obfuscated C Code Contest, whose goals are (among others) to show the importance of programming style, in an ironic way; to stress C compilers with unusual code; to illustrate some of the subtleties of the C language and to provide a safe forum for poor C code.
-
-% Computers/Development/Games
-; Link of the day 2022-07-13
-; https://script-8.github.io SCRIPT-8 is a fantasy computer for making, sharing, and playing tiny retro-looking games (called cassettes). It's free, browser-based, and open-source. Cassettes are written in JavaScript.
-; Link of the day 2022-07-16
-; https://morgan3d.github.io/nano/doc/specification.md.html The nano JAMMER is a fantasy console for tiny games. It is perfect for hobby coding, a game programming course, and tweetjams. The nano integrated development environment is free, runs in a browser, and connects to Google Drive. So, you can turn a few spare minutes on any computer or tablet into productive coding time.
-; Link of the day 2022-07-06
-; https://studycrafter.com/ StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together. It is intended for teaching and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world.
-; Link of the day 2022-09-22
-; https://tic80.com/ TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games (contributed by @moddedBear@fosstodon.org).
-; Link of the day 2022-10-23
-; https://godotengine.org/ Godot is a popular FOSS game engine which provides a huge set of common tools, so you can just focus on making your 2D or 3D game without reinventing the wheel.
-
-% Computer/Development/Web
-; Link of the week 2022-04-04 (week 14)
-; https://idlewords.com/talks/website_obesity.htm Wonder in what ways the modern web sucks? Here's one talk on the problem of website obesity.
-; Link of the week 2022-05-30 (week 22)
-; https://caniuse.com CanIUse is the ultimate authority for web designers and developers. It provides comprehensive compatibility tables for many features of the HTML, CSS and JS specifications.
-; Link of the day 2022-09-09
-; https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/ You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
-; Link of the day 2022-07-20
-; https://meiert.com/en/blog/minimal-web-development/ A short guide to the philosophy of minimal web development.
-; Link of the day 2022-07-02
-; https://jdan.github.io/98.css/ 98.css is a "design system for building faithful recreations of old UIs". It is a CSS library for building interfaces that have the look and feel of Windows 98.
-; Link of the day 2022-07-23
-; https://nearcyan.com/you-probably-dont-need-recaptcha/ Webmasters, you probably don't actually need reCAPTCHA to stop spam on your websites.
-; Link of the day 2023-02-19
-; http://augmented-ui.com/ Augmented-ui is a retrofuturistic CSS style for UI elements which presents itself as "high tech, low effort". It certainly looks like something taken out of a sci-fi movie!
-; Link of the day 2023-08-20
-; https://sfpc.study "The School for Poetic Computation (SFPC) is an experimental school in New York founded in 2013. Our school supports interdisciplinary study in art, code, hardware and critical theory."
+% Computers/Privacy
+; Link of the day 2022-09-16
+; https://privacyguide.org/ Privacy Guides is a socially motivated website that provides information for protecting your data security and privacy. (Contributed by @elitejake@fosstodon.org)
+; Link of the week 2022-06-29 (week 26)
+; https://contrachrome.com/ Contra Chrome is a small and complete web-comic on the privacy problems in Chrome and other Google products.
+; Link of the day 2023-04-07
+; https://www.proton.me #Proton is a provider of mail, calendar, drive and VPN services focused on privacy. They provide both free and paid plans.
+; Link of the day 2023-05-06
+; https://www.eff.org/ The Electronic Frontier Foundation (@eff@mastodon.social) is "the leading nonprofit organization defending civil liberties in the digital world". Its mission is "to ensure that technology supports freedom, justice, and innovation for all people of the world."
+; Link of the day 2023-08-09
+; http://digdeeper.club/articles/email.xhtml "E-mail providers - which one to choose?": This is an article which takes a deep dive into more than 30 e-mail providers' privacy practices, including "privacy-oriented" providers like ProtonMail.
 
 % Computers/Publications
 ; Link of the week 2022-05-02 (week 18)
@@ -576,10 +542,6 @@
 ; https://www.howtogeek.com/ How-To Geek is an online technology publication written by computer geeks, for computer geeks, featuring articles, in-depth reviews, news and buying guides.
 ; Link of the day 2023-08-16
 ; https://thehtml.review/ "The html review is an annual journal of literature made to exist on the web". It includes "poetry, fiction, non-fiction, graphic storytelling, and experiments " presented in a way that highlight the possibilities of the web as a storytelling and art medium.
-
-% Computers/Cybersecurity
-; Link of the day 2022-12-16
-; https://it.tamu.edu/missinglink “The Missing Link – A Cybersecurity Mystery” is an online game that was created by the Division of Information Technology as part of National Cybersecurity Awareness Month. The game will test your cyber smarts and teach useful tips for staying safe online. More cybersecurity games are available at https://u.tamu.edu/games.
 
 % Computers/Software
 ; Link of the day 2022-09-21
@@ -658,20 +620,79 @@
 ; https://aros.sourceforge.io/ "The AROS Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with #AmigaOS at the API level, while improving on it in many areas."
 ; Link of the day 2023-08-13
 ; https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
+http://www.templeos.org/ TempleOS is... well, TempleOS. One cannot just describe what it is, they have to see it for themself.
+https://lineageos.org/ 
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
 ; https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9 The rise and decline of an undoubtedly legendary web browser, Mozilla Firefox.
 ; Link of the day 2023-02-22
 ; https://neustadt.fr/essays/against-a-user-hostile-web/ This essay argues that "we're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people. We need to stop it."
+http://www.codersnotes.com/notes/a-constructive-look-at-templeos/ "A constructive look at TempleOS" tries to look only at the good stuff that TempleOS can offer, and it actually has quite a few amazing features that today's operating systems could only dream of.
+
+% Computers/Video Games
+; Link of the day 2023-01-25
+; https://libregamewiki.org/Main_Page This wiki is devoted to free (libre) games. Each of these games is free as in freedom, both the code and its assets, and correspond to the four basic freedoms of Free Software.
+; Link of the day 2023-04-08
+; https://www.geoguessr.com/ #GeoGuessr is a famous online game which throws you into a random location in the world and you have to figure out where you are by browsing around in Google's Street View mode.
+; Link of the day 2023-04-16
+; https://maze.toys/ This fun little online maze game is a great time-killer!
+
+% Computers/Video Games/Gaming
+https://open-source-gaming-tournament.com/ The Open Source Gaming Tournament is a project by "a passionate team of gamers and developers who are dedicated to promoting and supporting open source games".
+
+% Computers/Video Games/History
+; Link of the day 2023-01-05
+; http://www.vgmuseum.com/ The Video Game Museum is a virtual museum of over 13,000 video games on 50 platforms, complete with descriptions, screenshots, game ads and other assets.
+; Link of the day 2023-01-02
+; https://classic.minecraft.net/ Did you know that you can officially play Minecraft Classic in your browser? It's not much, but it has multiplayer!
+; Link of the day 2023-01-26
+; https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend The story behind Minecraft's End Poem, which its author had written for a friend. The poem was deliberately released into public domain by its author in December 2022.
+
+% Computers/Video Games/Retro Gaming
+; Link of the day 2023-01-27
+; https://www.vogons.org/ VOGONS is an active forum dedicated to running vintage video games on newer systems, and everything around them.
+https://yewtu.be/watch?v=icVy7Ve6y6A This is where the meme phrase "All your base are belong to us" comes from. For great justice!
+
+% Computers/Video Games/Rogue-like
+; Link of the day 2023-02-06
+; https://cataclysmdda.org/ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. "As your game begins, you awaken with hazy memories of violence and terror from when the world suddenly unravelled around you. Now you need to explore your surroundings, and secure food, water and safety. After that, who knows?"
+; Link of the day 2023-04-27
+; https://nethack.org NetHack is a single-player dungeon exploration game. What sets it apart is that the emphasis is on discovering the detail of the dungeon. Each game presents a different landscape: there is an unlimited number of variations of the dungeon and its denizens to be discovered by the player.
+
+% Computers/Video Games/Simulators
+; Link of the week 2022-02-14 (week 07)
+; https://simutrans.org Simutrans (@simutrans@fosstodon.org) is a free and open-source transport company simulation game. You start with a limited budget (or you can always turn on the freeplay mode) on your way to build the transport empire of your dreams!
+; Link of the day 2022-10-11
+; https://supertuxkart.net/Main_Page SuperTuxKart is a 3D free and open-source arcade racer with a variety of characters, tracks, and modes to play. Characters are based on the mascots of popular FOSS projects.
+; Link of the day 2022-09-28
+; https://graebor.itch.io/sort-the-court Give your decree in simple yes or no answers, and help the kingdom grow! "Sort-the-court" is a free-to-play Unity game played in your browser which can also be downloaded for Linux, Mac and Windows.
+; Link of the day 2022-12-22
+; https://www.libretrainsim.org/ Libre TrainSim is a new free and open source project creating a completly new, fully free train simulator using the Godot Engine. Currently in a very early stage, but you can already drive some trains!
+; Link of the day 2023-01-31
+; https://www.minetest.net/ Minetest (@Minetest@fosstodon.org) is a popular free and open-source game and game engine similar to Minecraft. There are different modes of play ("games") included, and it comes with a single-click downloader for community-made mods, add-ons and texture packs.
+; Link of the day 2023-08-19
+; https://www.openttd.org/ "#OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features."
+
+% Computers/Video Games/Strategies
+; Link of the day 2022-08-18
+; https://www.wesnoth.org/ The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history.
+; Link of the day 2022-12-25
+; https://www.widelands.org/ "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials."
+; Link of the day 2023-01-19
+; https://webdiplomacy.net/ webDiplomacy is a web version of the popular turn-based strategy Diplomacy. The objective of Diplomacy is to be the first nation to own half of the supply centers in the game. ""Luck plays no part in Diplomacy. Cunning and cleverness, honesty and perfectly-timed betrayal are the tools needed to outwit your fellow players."
+; Link of the day 2023-02-16
+; https://www.nationstates.net NationStates is an amazing multiplayer government simulation browser game created and developed by Max Barry. It has a sizable online community, which frequently engages in roleplay, and an accompanying forum board. Since its launch in 2002, over 8.37 million user-created nations have been created!
+
+% Computers/Video Games/Interactive Fiction
+; Link of the day 2022-08-04
+; https://twinery.org/ Twine is an online tool for creating simple, hypertextual, interactive and nonlinear stories. Twine publishes directly to HTML, so you can post your work nearly anywhere. Anything you create with it is completely free to use any way you like, including for commercial purposes.
+; Link of the day 2022-07-08
+; https://ifdb.org/ The Interactive Fiction Database is an IF game catalog and recommendation engine. IFDB is a Wiki-style community project: members can add new game listings, write reviews, exchange game recommendations, and more.
 
 % Computers/UX
 ; Link of the week 2021-11-29 (week 48)
 ; https://archive.org/details/iconbookvisualsy00hort/ The Icon Book, by William K. Horton, is a handbook on best practices concerning icon design for user interfaces.
-
-% Computers/Learning
-; Link of the day 2023-03-21
-; https://www.markdownguide.org/ "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document."
 
 
 ;;
@@ -758,18 +779,21 @@
 ; http://www.wordsmith.org/ Wordsmith is all about words: pangrams, anagrams, palindromes and the "A word a day" newsletter, since 1994!
 ; Link of the day 2022-11-26
 ; http://13d.org/esofword/ This is the Archive of Endangered, Special or Fun Words. It contains a lot of mind-boggling words that you might never hear or read, but which nonetheless do exist out there, as well as some words which are special or fun in their own ways. Some words are a combination of all those.
-; Link of the day 2022-12-19
-; https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
 ; Link of the day 2023-02-08
 ; https://omniglot.com Omniglot is an encyclopedia of writing systems and languages. You can use it to learn about languages, to learn alphabets and other writing systems, and to learn phrases, numbers and other things in many languages. It also includes a lot of fun stuff, like idioms in different languages of the world.
 ; Link of the day 2023-02-12
 ; https://omniglot.com/language/idioms/incomprehensible.php Ever wondered how the phrase "It's all Greek to me" sounds in Greek? Or in any other language in the world? This page contains a table of similar idioms, with their respective translations in English.
 ; Link of the day 2023-02-20
 ; http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
-; Link of the day 2023-04-01
-; https://esperanto.net/en/ This is a website about Esperanto, "the international language". Esperanto is the most popular constructed language which aims "to be a “bridge” between different language communities". Due to its simple rules, "people usually manage to learn Esperanto several times faster than any other language".
 ; Link of the day 2023-04-30
 ; https://www.thefreedictionary.com/ The Free Dictionary is an online dictionary and encyclopedia launched by the American company Farlex in 2003. It aggregates information from various sources, such as The American Heritage Dictionary of the English Language, the Collins English Dictionary and Wikipedia.
+
+% Fun/Language/Conlangs
+; Link of the day 2022-12-19
+; https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
+; Link of the day 2023-04-01
+; https://esperanto.net/en/ This is a website about Esperanto, "the international language". Esperanto is the most popular constructed language which aims "to be a “bridge” between different language communities". Due to its simple rules, "people usually manage to learn Esperanto several times faster than any other language".
+https://database.conlang.org/ The Conlang Database is, in its own words, "a database website which aims to build a searchable list of all conlangs of which we can find evidence".
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
@@ -832,6 +856,7 @@
 ; https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword needs since 1999!
 ; Link of the day 2023-08-12
 ; https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for the ambitious business professional looking to get ahead in the industry". Includes a big table of words that can be used to create such B.S.
+http://www.imitationpickles.org/starwars/1088543526/ Get ready for some real weirdness: this is not the Star Wars we all know and love.
 
 % Fun/Collections
 ; Link of the day 2022-08-30
@@ -894,6 +919,7 @@
 ; https://alwaysjudgeabookbyitscover.com/ "Some books win awards, some win our heart, and others... only serve to confuse." This is a collection of silly books that actually exist. The website justifies its title... "Always Judge a Book by its Cover". You can buy most of them (for whatever reason...) on Amazon.
 ; Link of the day 2023-04-14
 ; https://onesquareminesweeper.com/ Finally a minesweeper game you can win! It consists of only one landmine! Can you find it on this challenging minesweeper board of one square?
+https://gail.com/ If you mistype "gmail.com", a surprise may await you. Be sure to check out the source code of that page for a chance of yet another surprise.
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
@@ -1024,14 +1050,30 @@
 
 
 ;;
+;; History
+;;
+
+% History/Mythology
+http://www.germanicmythology.com/ This website is dedicated to Germanic mythology with a collection of resources for researchers.
+
+
+;;
 ;;  Opinions
 ;;
 
-% Opinions/Society
+% Opinions
+https://yewtu.be/watch?v=dQw4w9WgXcQ This is the ultimate link; the most copied link in history of mankind. Go ahead, click it.
+
+% Opinions/Satire
+http://user.pa.net/~nrwing/whataguy/banbread/ Somebody actually proposed to ban bread. Meet the "Ban Bread Now Foundation".
+
+% Opinions/Netiquette
 ; Link of the day 2023-04-19
 ; https://www.nohello.com/ Why you shouldn't begin a chat conversation by just saying "Hello".
 ; Link of the day 2023-05-26
 ; https://www.fastcompany.com/90629391/guys-is-not-gender-neutral-lets-stop-using-it-like-it-is "A #genderbias expert says that we can all help the English language evolve towards #inclusivity by eliminating the usage of “guys” when referring to people who are not male gender."
+https://useplaintext.email/ This website is a primer to plaintext email. Why plaintext email? Because "many people, particularly in technical communities, strongly prefer or even require the use of plain text email from participants"
+https://www.rfc-editor.org/rfc/rfc1855 The original Netiquette RFC "provides a minimum set of guidelines […] in a bulleted format". It's not really long, and it is required knowledge for good online communication.
 
 ;;
 ;;  Science
@@ -1062,9 +1104,13 @@
 ; Link of the day 2023-08-02
 ; http://solarprotocol.net/index.html #SolarProtocol is a web platform hosted across a network of solar-powered servers in different parts of the world. The servers coordinate to serve a website from whichever of them is enjoying the most sunshine at the time.
 
+% Technology/Electronics
+https://electronicsclub.info/ Electronics Club is "a website for anyone wishing to learn about electronics or build simple projects, written for beginners but used by many others as a quick reference."
+
 % Technology/History
 ; Link of the day 2023-04-21
 ; https://en.wikipedia.org/wiki/DARPA_Grand_Challenge This annual prize competition by the American DARPA started the big race to create autonomous (self-driving) vehicles back in 2004 [pun intended].
+http://www.digicamhistory.com/ DigiCamHistory.com is "the first ever, and still by far the most complete virtual history museum of film cameras to digital photography and space exploration imagers on the web"
 
 % Technology/Satellite
 ; Link of the day 2023-04-13
@@ -1075,6 +1121,7 @@
 ; http://www.trainweb.org/tusp/index.html The Ultimate Steam Page "provides background and technical information on steam locomotive development, an overview of several interesting steam locomotive design engineers, and information on efforts to produce the Ultimate Steam Locomotive".
 ; Link of the day 2023-06-03
 ; https://trains.jo-m.ch/#/trains/list This is a proof-of-concept instance of the Trainbot software (https://github.com/jo-m/trainbot) which watches a piece of train track, detects trains, and stitches together images of them.
+https://www.simsig.co.uk/ SimSig is a realistic freely available railway signal box simulator for the PC (perhaps the only one in its kind) with multiplayer and several free scenarios.
 
 % Technology/Vintage
 ; Link of the day 2022-12-27
