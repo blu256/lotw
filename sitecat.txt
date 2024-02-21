@@ -207,7 +207,8 @@ https://lineageos.org/ LineageOS is the most popular free and open-source Androi
 % Computers/Development/Frameworks
 https://flutter.dev/ Flutter is a multiplatform open-source UI application framework which allows you to create desktop, mobile and web applicaations from a single codebase.
 https://www.qt.io/ Qt is a powerful cross-plaform object-oriented GUI framework for the desktop, Android devices and embedded systems.
-https://www.gtk.org GTK is a free and open-source GUI toolkit used by many Linux applications.
+; Link of the day 2024-02-21
+; https://www.gtk.org GTK is a free and open-source GUI toolkit used by many Linux applications.
 
 % Computer/Development/Web
 ; Link of the week 2022-04-04 (week 14)
