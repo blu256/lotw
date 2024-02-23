@@ -349,7 +349,8 @@ https://www.qt.io/ Qt is a powerful cross-plaform object-oriented GUI framework 
 ; https://indieweb.org/ "The IndieWeb is a community of independent & personal websites connected by simple standards, based on the principles of: owning your domain & using it as your primary identity, publishing on your own site (optionally syndicating elsewhere), and owning your data."
 ; Link of the day 2023-08-08
 ; https://small-tech.org/ An independent, two-person, not-for-profit dedicated to building the Small Web. It is run by @laura@mastodon.laurakalbag.com and @aral@mastodon.ar.al.
-https://www.tomshardware.com/news/yes-a-pigeon-is-still-faster-than-gigabit-fiber-internet Is a pigeon with a flash drive faster than gigabit fiber Internet? The answer might surprise you.
+; Link of the day 2024-02-23
+; https://www.tomshardware.com/news/yes-a-pigeon-is-still-faster-than-gigabit-fiber-internet Is a pigeon with a flash drive faster than gigabit fiber Internet? The answer might surprise you.
 
 % Computers/Internet/Search engines
 ; Link of the week 2021-11-15
