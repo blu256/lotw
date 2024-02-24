@@ -922,7 +922,8 @@ http://www.imitationpickles.org/starwars/1088543526/ Get ready for some real wei
 ; https://alwaysjudgeabookbyitscover.com/ "Some books win awards, some win our heart, and others... only serve to confuse." This is a collection of silly books that actually exist. The website justifies its title... "Always Judge a Book by its Cover". You can buy most of them (for whatever reason...) on Amazon.
 ; Link of the day 2023-04-14
 ; https://onesquareminesweeper.com/ Finally a minesweeper game you can win! It consists of only one landmine! Can you find it on this challenging minesweeper board of one square?
-https://gail.com/ If you mistype "gmail.com", a surprise may await you. Be sure to check out the source code of that page for a chance of yet another surprise.
+; Link of the day 2024-02-24
+; https://gail.com/ If you mistype "gmail.com", a surprise may await you. Be sure to check out the source code of that page for a chance of yet another surprise.
 
 % Fun/Radio
 ; Link of the week 2022-01-24 (week 04)
