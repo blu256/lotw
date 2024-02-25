@@ -431,7 +431,8 @@ https://www.qt.io/ Qt is a powerful cross-plaform object-oriented GUI framework 
 ; https://www.piskelapp.com/ Piskel is an open-source online editor for animated sprites and pixel art. It allows you to create animations in your browser with real-time preview and comes with a cross-platform offline version.
 ; Link of the day 2023-08-30
 ; https://mynoise.net/NoiseMachines/tinRoofRainNoiseGenerator.php "There are as many rain sounds as there are different surfaces. This is a nice rain noise generator, and the website provides yet more. Try combining with Jungle Life sound generator for a truly immersive experience of rain" (contributed by @saoqingniang@go5.dev)
-https://www.spaceweather.com/ SpaceWeather is a daily updated news and information website about "the Sun-Earth environment" and weather conditions in space. It has a refreshingly old-style look and feel to it and its archives span back to 2001.
+; Link of the day 2024-02-25
+; https://www.spaceweather.com/ SpaceWeather is a daily updated news and information website about "the Sun-Earth environment" and weather conditions in space. It has a refreshingly old-style look and feel to it and its archives span back to 2001.
 https://www.tosdr.org/ “I have read and agree to the Terms” is the biggest lie on the web. This service (appropriately called "Terms of Service - Didn't Read) attempts to fix that by providing TL;DR versions of Terms of Service of popular applications, websites and companies and rating them according to how invasive they are.
 https://disroot.org Disroot (@disroot@nixnet.social) is "a platform providing online services based on principles of freedom, privacy, federation and decentralization. No tracking, no ads, no profiling, no data mining!"
 
