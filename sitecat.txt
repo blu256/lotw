@@ -499,7 +499,8 @@ https://makelinux.github.io/kernel/map/ Yes, the Linux kernel actually has its o
 ; https://www.slackware.com/ Slackware is the oldest Linux distribution that's still around. It is said to be the most Unix'y distribution of all.
 ; Link of the day 2023-05-04
 ; https://www.mageia.org Mageia is the successor of the old Mandriva Linux following the same principles of being a user-friendly graphical Linux distribution.
-https://q4os.org/ Q4OS (@q4os@floss.social) is a "fast and friendly, desktop oriented operating system based on Debian Linux" which includes the #TDE and #KDE Plasma desktops, homegrown utilities as well as custom usability tweaks.
+; Link of the day 2024-02-26
+; https://q4os.org/ Q4OS (@q4os@floss.social) is a "fast and friendly, desktop oriented operating system based on Debian Linux" which includes the #TDE and #KDE Plasma desktops, homegrown utilities as well as custom usability tweaks.
 
 % Computers/Nostalgia
 ; Link of the day 2022-07-15
