@@ -1080,7 +1080,8 @@ http://user.pa.net/~nrwing/whataguy/banbread/ Somebody actually proposed to ban 
 ; Link of the day 2023-05-26
 ; https://www.fastcompany.com/90629391/guys-is-not-gender-neutral-lets-stop-using-it-like-it-is "A #genderbias expert says that we can all help the English language evolve towards #inclusivity by eliminating the usage of “guys” when referring to people who are not male gender."
 https://useplaintext.email/ This website is a primer to plaintext email. Why plaintext email? Because "many people, particularly in technical communities, strongly prefer or even require the use of plain text email from participants"
-https://www.rfc-editor.org/rfc/rfc1855 The original Netiquette RFC "provides a minimum set of guidelines […] in a bulleted format". It's not really long, and it is required knowledge for good online communication.
+; Link of the day 2024-02-28
+; https://www.rfc-editor.org/rfc/rfc1855 The original Netiquette RFC "provides a minimum set of guidelines […] in a bulleted format". It's not really long, and it is required knowledge for good online communication.
 
 ;;
 ;;  Science
