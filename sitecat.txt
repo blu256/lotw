@@ -434,7 +434,8 @@ https://www.qt.io/ Qt is a powerful cross-plaform object-oriented GUI framework 
 ; Link of the day 2024-02-25
 ; https://www.spaceweather.com/ SpaceWeather is a daily updated news and information website about "the Sun-Earth environment" and weather conditions in space. It has a refreshingly old-style look and feel to it and its archives span back to 2001.
 https://www.tosdr.org/ “I have read and agree to the Terms” is the biggest lie on the web. This service (appropriately called "Terms of Service - Didn't Read) attempts to fix that by providing TL;DR versions of Terms of Service of popular applications, websites and companies and rating them according to how invasive they are.
-https://disroot.org Disroot (@disroot@nixnet.social) is "a platform providing online services based on principles of freedom, privacy, federation and decentralization. No tracking, no ads, no profiling, no data mining!"
+; Link of the day 2024-02-29
+; https://disroot.org Disroot (@disroot@nixnet.social) is "a platform providing online services based on principles of freedom, privacy, federation and decentralization. No tracking, no ads, no profiling, no data mining!"
 
 % Computers/Internet/History
 ; Link of the day 2022-12-15
