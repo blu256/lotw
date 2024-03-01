@@ -520,7 +520,8 @@ https://makelinux.github.io/kernel/map/ Yes, the Linux kernel actually has its o
 ; https://infinitemac.org/ "Infinite Mac is a collection of classic Macintosh system releases and software, all easily accessible from the comfort of a (modern) web browser. Pick any version of System Software/Mac OS from the 1980s or 1990s and run it (and major software of that era) within a virtual machine."
 ; Link of the day 2023-04-18
 ; https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast, searchable, and shareable, interface for the collection of Winamp Skins amassed on the Internet Archive."
-https://github.com/jcs/progman Achieve the perfect Linux for Workgroups look with this X11 window manager! "Hot Dog Stand" theme included, for those who know.
+; Link of the day 2024-03-01
+; https://github.com/jcs/progman Achieve the perfect Linux for Workgroups look with this X11 window manager! "Hot Dog Stand" theme included, for those who know.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
