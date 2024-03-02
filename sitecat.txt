@@ -468,7 +468,8 @@ https://www.tosdr.org/ “I have read and agree to the Terms” is the biggest l
 ; http://lecture.eingang.org/ A 1994 lecture on computers history, which itself belongs to history. An online presentation and a nostalgia trip complete with a 90s look and feel.
 ; Link of the day 2023-08-14
 ; https://www.webdesignmuseum.org/ "The Web Design Museum exhibits thousands of websites that chronicle forgotten trends in web design from its beginnings in the 1990s to the mid-00s". It's a big and well-organized collection which is fun to explore and includes quizes!
-http://www.columbia.edu/cu/computinghistory/ "From the beginning up to about 1960, Columbia University was a major contributor to the development of electronic computing as we know it today. But Columbia's role is little known — especially at Columbia itself. This website, which would be nearly 500 pages long if printed, attempts to fill in the blanks."
+; Link of the day 2024-03-02
+; http://www.columbia.edu/cu/computinghistory/ "From the beginning up to about 1960, Columbia University was a major contributor to the development of electronic computing as we know it today. But Columbia's role is little known — especially at Columbia itself. This website, which would be nearly 500 pages long if printed, attempts to fill in the blanks."
 
 % Computers/Learning
 ; Link of the day 2023-03-21
