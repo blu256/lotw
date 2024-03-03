@@ -484,7 +484,8 @@ https://www.tosdr.org/ “I have read and agree to the Terms” is the biggest l
 ; https://pkgs.org pkgs.org provides a simple searchable index of Linux and *nix software packages. It is based on information from more than 1200 official and unofficial software repositories.
 ; Link of the day 2023-05-18
 ; https://wiki.archlinux.org/ The Arch Wiki is one of the best online resources of documentation not only for Arch Linux, but for most Linux distributions out there.
-https://makelinux.github.io/kernel/map/ Yes, the Linux kernel actually has its own map! "The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code."
+; Link of the day 2024-03-03
+; https://makelinux.github.io/kernel/map/ Yes, the Linux kernel actually has its own map! "The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code."
 
 % Computers/Linux/Distributions
 ; Link of the day 2023-01-07
