@@ -1074,7 +1074,8 @@ http://www.germanicmythology.com/ This website is dedicated to Germanic mytholog
 ;;
 
 % Opinions
-https://yewtu.be/watch?v=dQw4w9WgXcQ This is the ultimate link; the most copied link in history of mankind. Go ahead, click it.
+; Link of the day 2024-03-04
+; https://yewtu.be/watch?v=dQw4w9WgXcQ This is the ultimate link; the most copied link in history of mankind. Go ahead, click it.
 
 % Opinions/Satire
 http://user.pa.net/~nrwing/whataguy/banbread/ Somebody actually proposed to ban bread. Meet the "Ban Bread Now Foundation".
