@@ -797,7 +797,8 @@ https://open-source-gaming-tournament.com/ The Open Source Gaming Tournament is 
 ; http://worldwidewords.org/ "The English language is forever changing. New words appear; old ones fall out of use or alter their meanings. World Wide Words tries to record at least a part of this shifting wordscape by featuring new words, word histories, words in the news, and the curiosities of native English speech."
 ; Link of the day 2023-04-30
 ; https://www.thefreedictionary.com/ The Free Dictionary is an online dictionary and encyclopedia launched by the American company Farlex in 2003. It aggregates information from various sources, such as The American Heritage Dictionary of the English Language, the Collins English Dictionary and Wikipedia.
-https://www.endangeredalphabets.com/ The Endangered Alphabets Project is a federal 501c3 nonprofit based in Vermont. Its mission is to preserve and revitalize endangered cultures by researching, cataloging, and promoting their indigenous writing systems, and using them to create educational materials, games, and artwork.
+; Link of the day 2024-03-05
+; https://www.endangeredalphabets.com/ The Endangered Alphabets Project is a federal 501c3 nonprofit based in Vermont. Its mission is to preserve and revitalize endangered cultures by researching, cataloging, and promoting their indigenous writing systems, and using them to create educational materials, games, and artwork.
 
 % Fun/Language/Conlangs
 ; Link of the day 2022-12-19
