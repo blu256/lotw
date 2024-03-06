@@ -648,7 +648,8 @@ http://www.codersnotes.com/notes/a-constructive-look-at-templeos/ "A constructiv
 ; https://maze.toys/ This fun little online maze game is a great time-killer!
 
 % Computers/Video Games/Gaming
-https://open-source-gaming-tournament.com/ The Open Source Gaming Tournament is a project by "a passionate team of gamers and developers who are dedicated to promoting and supporting open source games".
+; Link of the day 2024-03-06
+; https://open-source-gaming-tournament.com/ The Open Source Gaming Tournament is a project by "a passionate team of gamers and developers who are dedicated to promoting and supporting open source games".
 
 % Computers/Video Games/History
 ; Link of the day 2023-01-05
