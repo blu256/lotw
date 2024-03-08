@@ -637,7 +637,8 @@ https://lineageos.org/
 ; https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9 The rise and decline of an undoubtedly legendary web browser, Mozilla Firefox.
 ; Link of the day 2023-02-22
 ; https://neustadt.fr/essays/against-a-user-hostile-web/ This essay argues that "we're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people. We need to stop it."
-http://www.codersnotes.com/notes/a-constructive-look-at-templeos/ "A constructive look at TempleOS" tries to look only at the good stuff that TempleOS can offer, and it actually has quite a few amazing features that today's operating systems could only dream of.
+; Link of the day 2024-03-08
+; http://www.codersnotes.com/notes/a-constructive-look-at-templeos/ "A constructive look at TempleOS" tries to look only at the good stuff that TempleOS can offer, and it actually has quite a few amazing features that today's operating systems could only dream of.
 
 % Computers/Video Games
 ; Link of the day 2023-01-25
