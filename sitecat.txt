@@ -870,7 +870,8 @@ https://database.conlang.org/ The Conlang Database is, in its own words, "a data
 ; https://1728.org/buzzword.htm A buzzword generator, serving your nifty buzzword needs since 1999!
 ; Link of the day 2023-08-12
 ; https://www.atrixnet.com/bs-generator.html The Corporate B.S. Generator, "for the ambitious business professional looking to get ahead in the industry". Includes a big table of words that can be used to create such B.S.
-http://www.imitationpickles.org/starwars/1088543526/ Get ready for some real weirdness: this is not the Star Wars we all know and love.
+; Link of the day 2024-03-11
+; http://www.imitationpickles.org/starwars/1088543526/ Get ready for some real weirdness: this is not the Star Wars we all know and love.
 
 % Fun/Collections
 ; Link of the day 2022-08-30
