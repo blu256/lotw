@@ -146,7 +146,8 @@
 ; https://chat.openai.com #ChatGPT barely needs an introduction nowadays. It's a natural language model which can generate text in answer to a user-specified prompt. You need to register with the site to grant access to ChatGPT, though.
 
 % Computers/Android
-https://lineageos.org/ LineageOS is the most popular free and open-source Android distribution for various devices based on the Android Open-Source Project.
+; Link of the day 2024-03-12
+; https://lineageos.org/ LineageOS is the most popular free and open-source Android distribution for various devices based on the Android Open-Source Project.
 
 % Computers/Cybersecurity
 ; Link of the day 2022-12-16
