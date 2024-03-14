@@ -1072,7 +1072,8 @@ https://database.conlang.org/ The Conlang Database is, in its own words, "a data
 ;;
 
 % History/Mythology
-http://www.germanicmythology.com/ This website is dedicated to Germanic mythology with a collection of resources for researchers.
+; Link of the day 2024-03-14
+; http://www.germanicmythology.com/ This website is dedicated to Germanic mythology with a collection of resources for researchers.
 
 
 ;;
