@@ -1128,7 +1128,8 @@ https://database.conlang.org/ The Conlang Database is, in its own words, "a data
 ; http://solarprotocol.net/index.html #SolarProtocol is a web platform hosted across a network of solar-powered servers in different parts of the world. The servers coordinate to serve a website from whichever of them is enjoying the most sunshine at the time.
 
 % Technology/Electronics
-https://electronicsclub.info/ Electronics Club is "a website for anyone wishing to learn about electronics or build simple projects, written for beginners but used by many others as a quick reference."
+; Link of the day 2024-03-15
+; https://electronicsclub.info/ Electronics Club is "a website for anyone wishing to learn about electronics or build simple projects, written for beginners but used by many others as a quick reference."
 
 % Technology/History
 ; Link of the day 2023-04-21
