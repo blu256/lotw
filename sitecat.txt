@@ -206,7 +206,8 @@
 ; https://godotengine.org/ Godot is a popular FOSS game engine which provides a huge set of common tools, so you can just focus on making your 2D or 3D game without reinventing the wheel.
 
 % Computers/Development/Frameworks
-https://flutter.dev/ Flutter is a multiplatform open-source UI application framework which allows you to create desktop, mobile and web applicaations from a single codebase.
+; Link of the day 2024-03-17
+; https://flutter.dev/ Flutter is a multiplatform open-source UI application framework which allows you to create desktop, mobile and web applicaations from a single codebase.
 ; Link of the day 2024-03-13
 ; https://www.qt.io/ Qt is a powerful cross-plaform object-oriented GUI framework for the desktop, Android devices and embedded systems.
 ; Link of the day 2024-02-21
