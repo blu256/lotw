@@ -811,7 +811,8 @@ https://lineageos.org/
 ; https://conlang.org/ Conlang.org is a site devoted to constructed languages (conlangs), such as Esperanto, Lojban or even Klingon, and people who invent them (could be you!). Check out this website to learn more about conlangs.
 ; Link of the day 2023-04-01
 ; https://esperanto.net/en/ This is a website about Esperanto, "the international language". Esperanto is the most popular constructed language which aims "to be a “bridge” between different language communities". Due to its simple rules, "people usually manage to learn Esperanto several times faster than any other language".
-https://database.conlang.org/ The Conlang Database is, in its own words, "a database website which aims to build a searchable list of all conlangs of which we can find evidence".
+; Link of the day 2024-03-18
+; https://database.conlang.org/ The Conlang Database is, in its own words, "a database website which aims to build a searchable list of all conlangs of which we can find evidence".
 
 % Fun/Interactive
 ; Link of the day 2022-08-27
