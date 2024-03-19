@@ -634,7 +634,8 @@
 ; https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
 ; Link of the day 2024-02-27
 ; http://www.templeos.org/ TempleOS is... well, TempleOS. One cannot just describe what it is, they have to see it for themself.
-https://lineageos.org/ 
+; Link of the day 2024-03-19
+; https://lineageos.org/ 
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
