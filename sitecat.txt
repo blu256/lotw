@@ -304,7 +304,8 @@
 ; https://windows-never-released.fandom.com/ The Windows Never Released Wiki is a place where you can create mockups of operating systems for fun or explore others' mockups (any OS will do, not only Windows).
 ; Link of the day 2023-07-09
 ; https://hacker-simulator.com/ Hacker Simulator is (guess what?) a web-page which makes you look like a cool hacker from some movie. Ok, at least it tries to.
-https://qr.blinry.org Ever needed to decode a QR code with no QR code scanner in hand? Good news - you won't need one ever again! (well, maybe). This website can teach you how to read a QR code without a device, all by yourself!
+; Link of the day 2024-04-13
+; https://qr.blinry.org Ever needed to decode a QR code with no QR code scanner in hand? Good news - you won't need one ever again! (well, maybe). This website can teach you how to read a QR code without a device, all by yourself!
 
 % Computers/Fun/Classics
 ; Link of the day 2022-11-03
