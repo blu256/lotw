@@ -2,6 +2,25 @@
 ; -------------------
 ;  Curator:  blu.256 <blu256@proton.me>
 ;
+;  --- CURATORS WANTED -----------------------------------------------------------------------
+;  Since you're here anyway... Would you be interested to become a LOTD curator?
+;  The difference between a curator and a contributor is that a curator can directly
+;  add links to this file to keep the bot going strong! Of course, you must have
+;  contributed at least 10 accepted links to be eligible.
+;
+;  Personally I don't always have the time to maintain this list, so there are time
+;  periods when the bot just stands still. It makes me feel guilty but I am really
+;  busy nowadays. If there were multiple curators, it would make things much easier.
+;  Also, it might make people want to contribute more. Right now there are way too
+;  few contributions, so most links come from my own research.
+;
+;  If you are interested, please contact me.
+;
+;  Keep in mind that curators also have to follow the rules.
+;  You can find the content policy at the address below:
+;  https://github.com/blu256/lotw/blob/master/README.md
+; --------------------------------------------------------------------------------------------
+;
 ;  Syntax:
 ;   * Lines that begin with ';' are comments.
 ;   * Lines that begin with '%' denote categories in a hierarchical structure.
@@ -285,6 +304,7 @@
 ; https://windows-never-released.fandom.com/ The Windows Never Released Wiki is a place where you can create mockups of operating systems for fun or explore others' mockups (any OS will do, not only Windows).
 ; Link of the day 2023-07-09
 ; https://hacker-simulator.com/ Hacker Simulator is (guess what?) a web-page which makes you look like a cool hacker from some movie. Ok, at least it tries to.
+https://qr.blinry.org Ever needed to decode a QR code with no QR code scanner in hand? Good news - you won't need one ever again! (well, maybe). This website can teach you how to read a QR code without a device, all by yourself!
 
 % Computers/Fun/Classics
 ; Link of the day 2022-11-03
@@ -368,6 +388,8 @@
 ; https://oldavista.com Old'aVista is a search engine which imitates AltaVista from 1999. It searches through the Internet Archive for old website versions, covering all your needs for retro web-browsing.
 ; Link of the day 2023-05-05
 ; http://www.goosh.org/ Goosh is a web frontend for Google search. But it's not that simple... Well, actually it's much simpler — it imitates a Unix shell! Combine the simplicity of a CLI with the power of Google and impress your friends and coworkers. Not recommended for private searches though.
+https://www.startpage.com/ StartPage is a Dutch search engine which claims that it allows users to obtain Google Search results while protecting users' privacy by not storing personal information or search data and removing all trackers.
+https://duckduckgo.com DuckDuckGo is an American search engine which claims to be private by not tracking your searches or browsing history. It also produces a browser and an extension that assumedly blocks third-party trackers.
 
 % Computers/Internet/Fediverse
 ; Link of the day 2023-02-03
@@ -490,6 +512,7 @@
 ; https://wiki.archlinux.org/ The Arch Wiki is one of the best online resources of documentation not only for Arch Linux, but for most Linux distributions out there.
 ; Link of the day 2024-03-03
 ; https://makelinux.github.io/kernel/map/ Yes, the Linux kernel actually has its own map! "The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code."
+https://animeshz.github.io/site/blogs/void-linux.html "Void Linux, is arguably one of the most underrated Linux distributions with incredible scripting potential. The article delves deep into some of my favorite features of it."
 
 % Computers/Linux/Distributions
 ; Link of the day 2023-01-07
@@ -528,6 +551,7 @@
 ; https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast, searchable, and shareable, interface for the collection of Winamp Skins amassed on the Internet Archive."
 ; Link of the day 2024-03-01
 ; https://github.com/jcs/progman Achieve the perfect Linux for Workgroups look with this X11 window manager! "Hot Dog Stand" theme included, for those who know.
+https://github.com/buserror/libmui libmui is a widget library for Linux which emulates the look and feel of classic Mac OS and GS/OS.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
@@ -554,6 +578,7 @@
 ; https://www.howtogeek.com/ How-To Geek is an online technology publication written by computer geeks, for computer geeks, featuring articles, in-depth reviews, news and buying guides.
 ; Link of the day 2023-08-16
 ; https://thehtml.review/ "The html review is an annual journal of literature made to exist on the web". It includes "poetry, fiction, non-fiction, graphic storytelling, and experiments " presented in a way that highlight the possibilities of the web as a storytelling and art medium.
+https://www.pcworld.com/ "PCWorld is your source for the latest technology news, product reviews, buying guides, and how-to advice for PC users. Whether you need a new laptop, monitor, VPN, or antivirus, PCWorld has you covered."
 
 % Computers/Software
 ; Link of the day 2022-09-21
@@ -615,7 +640,7 @@
 
 % Computers/Software/OS
 ; Link of the week 2022-06-27 (week 26)
-; https://haiku-os.org HaikuOS is a project of a personal single-user operating system which follows the philosophy of BeOS.
+; https://haiku-os.org Haiku is a project of a personal single-user operating system which follows the philosophy of BeOS.
 ; Link of the week 2022-05-23 (week 21)
 ; https://openbsd.org OpenBSD is a free operating system with a heavy emphasis on security and cryptography. It is probably the only OS project where releases are celebrated with distinct artwork and/or a song!
 ; Link of the day 2022-07-01
@@ -634,8 +659,9 @@
 ; https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
 ; Link of the day 2024-02-27
 ; http://www.templeos.org/ TempleOS is... well, TempleOS. One cannot just describe what it is, they have to see it for themself.
-; Link of the day 2024-03-19
-; https://lineageos.org/ 
+https://lineageos.org/ #LineageOS is a popular free and open-source Android distribution.
+https://github.com/migueletto/PumpkinOS PumpkinOS is a re-implementation of PalmOS that can run on modern architectures.
+https://archive.org/details/the-beos-bible The BeOS bible is the definitive book about BeOS. It provides insight in its distinctive features, its history and the people behind it. A must read for all BeOS and Haiku fans!
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
@@ -776,6 +802,7 @@
 ; https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
 ; Link of the day 2023-08-23
 ; https://s3.mirror.co.uk/click-the-colour-and-not-the-word/index.html A challenging little game... "Five levels. Increasing distractions. Against the clock. All you have to do: click the colour and not the word."
+https://web.archive.org/web/20070521042812/http://public.srce.hr/~zheimer/blank.htm This description has been intentionally left blank.
 
 % Fun/Little games
 ; Link of the day 2023-08-17
@@ -806,6 +833,7 @@
 ; https://www.thefreedictionary.com/ The Free Dictionary is an online dictionary and encyclopedia launched by the American company Farlex in 2003. It aggregates information from various sources, such as The American Heritage Dictionary of the English Language, the Collins English Dictionary and Wikipedia.
 ; Link of the day 2024-03-05
 ; https://www.endangeredalphabets.com/ The Endangered Alphabets Project is a federal 501c3 nonprofit based in Vermont. Its mission is to preserve and revitalize endangered cultures by researching, cataloging, and promoting their indigenous writing systems, and using them to create educational materials, games, and artwork.
+https://www.nordicnames.de/ Nordic Names is a useful resource for information about names used in Nordic countries, including their etymology and popularity. (Contributed by @headword@lingo.lol)
 
 % Fun/Language/Conlangs
 ; Link of the day 2022-12-19
@@ -1032,7 +1060,7 @@
 ; Link of the day 2023-07-18
 ; https://streetcomplete.app/ StreetComplete is perhaps the easiest and most fun way to contribute to #OpenStreetMap! It's a #FOSS #Android app which finds missing #OSM data in your vicinity and presents it on a map as quests. Solving these quests awards you points and links to interesting services based on #OSM.
 ; Link of the day 2023-07-07
-; https://satellitestud.io/osm-haiku/app/ This is an app which "can generate a [haiku] poem about any place in the world. The result is sometimes fun, often weird, most of the time pretty terrible". The... inspiration comes from a point on a #OSM map and the surrounding features.
+; https://satellitestud.iow/osm-haiku/app/ This is an app which "can generate a [haiku] poem about any place in the world. The result is sometimes fun, often weird, most of the time pretty terrible". The... inspiration comes from a point on a #OSM map and the surrounding features.
 ; Link of the day 2023-08-26
 ; https://geohashing.site/geohashing/Main_Page If Geocaching is not exciting anymore (based on a XKCD Webcomic) (contributed by @pink@norden.social)
 
