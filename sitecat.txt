@@ -834,7 +834,8 @@ https://web.archive.org/web/20070521042812/http://public.srce.hr/~zheimer/blank.
 ; https://www.thefreedictionary.com/ The Free Dictionary is an online dictionary and encyclopedia launched by the American company Farlex in 2003. It aggregates information from various sources, such as The American Heritage Dictionary of the English Language, the Collins English Dictionary and Wikipedia.
 ; Link of the day 2024-03-05
 ; https://www.endangeredalphabets.com/ The Endangered Alphabets Project is a federal 501c3 nonprofit based in Vermont. Its mission is to preserve and revitalize endangered cultures by researching, cataloging, and promoting their indigenous writing systems, and using them to create educational materials, games, and artwork.
-https://www.nordicnames.de/ Nordic Names is a useful resource for information about names used in Nordic countries, including their etymology and popularity. (Contributed by @headword@lingo.lol)
+; Link of the day 2024-04-14
+; https://www.nordicnames.de/ Nordic Names is a useful resource for information about names used in Nordic countries, including their etymology and popularity. (Contributed by @headword@lingo.lol)
 
 % Fun/Language/Conlangs
 ; Link of the day 2022-12-19
