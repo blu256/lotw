@@ -661,7 +661,8 @@ https://www.pcworld.com/ "PCWorld is your source for the latest technology news,
 ; Link of the day 2024-02-27
 ; http://www.templeos.org/ TempleOS is... well, TempleOS. One cannot just describe what it is, they have to see it for themself.
 https://lineageos.org/ #LineageOS is a popular free and open-source Android distribution.
-https://github.com/migueletto/PumpkinOS PumpkinOS is a re-implementation of PalmOS that can run on modern architectures.
+; Link of the day 2024-04-15
+; https://github.com/migueletto/PumpkinOS PumpkinOS is a re-implementation of PalmOS that can run on modern architectures.
 https://archive.org/details/the-beos-bible The BeOS bible is the definitive book about BeOS. It provides insight in its distinctive features, its history and the people behind it. A must read for all BeOS and Haiku fans!
 
 % Computers/Software/Opinions
