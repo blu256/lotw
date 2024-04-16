@@ -513,7 +513,8 @@ https://duckduckgo.com DuckDuckGo is an American search engine which claims to b
 ; https://wiki.archlinux.org/ The Arch Wiki is one of the best online resources of documentation not only for Arch Linux, but for most Linux distributions out there.
 ; Link of the day 2024-03-03
 ; https://makelinux.github.io/kernel/map/ Yes, the Linux kernel actually has its own map! "The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code."
-https://animeshz.github.io/site/blogs/void-linux.html "Void Linux, is arguably one of the most underrated Linux distributions with incredible scripting potential. The article delves deep into some of my favorite features of it."
+; Link of the day 2024-04-16
+; https://animeshz.github.io/site/blogs/void-linux.html "Void Linux, is arguably one of the most underrated Linux distributions with incredible scripting potential. The article delves deep into some of my favorite features of it."
 
 % Computers/Linux/Distributions
 ; Link of the day 2023-01-07
