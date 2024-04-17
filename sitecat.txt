@@ -664,7 +664,8 @@ https://www.pcworld.com/ "PCWorld is your source for the latest technology news,
 https://lineageos.org/ #LineageOS is a popular free and open-source Android distribution.
 ; Link of the day 2024-04-15
 ; https://github.com/migueletto/PumpkinOS PumpkinOS is a re-implementation of PalmOS that can run on modern architectures.
-https://archive.org/details/the-beos-bible The BeOS bible is the definitive book about BeOS. It provides insight in its distinctive features, its history and the people behind it. A must read for all BeOS and Haiku fans!
+; Link of the day 2024-04-17
+; https://archive.org/details/the-beos-bible The BeOS bible is the definitive book about BeOS. It provides insight in its distinctive features, its history and the people behind it. A must read for all BeOS and Haiku fans!
 
 % Computers/Software/Opinions
 ; Link of the day 2022-08-12
