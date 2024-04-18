@@ -806,7 +806,8 @@ https://lineageos.org/ #LineageOS is a popular free and open-source Android dist
 ; https://tinyawards.net/ "#TinyAwards is a small prize awarded by an equally-small selection committee of online makers to the website which we feel best embodies the idea of a small, playful and heartfelt web."
 ; Link of the day 2023-08-23
 ; https://s3.mirror.co.uk/click-the-colour-and-not-the-word/index.html A challenging little game... "Five levels. Increasing distractions. Against the clock. All you have to do: click the colour and not the word."
-https://web.archive.org/web/20070521042812/http://public.srce.hr/~zheimer/blank.htm This description has been intentionally left blank.
+; Link of the day 2024-04-18
+; https://web.archive.org/web/20070521042812/http://public.srce.hr/~zheimer/blank.htm This description has been intentionally left blank.
 
 % Fun/Little games
 ; Link of the day 2023-08-17
