@@ -581,7 +581,8 @@ https://github.com/buserror/libmui libmui is a widget library for Linux which em
 ; https://www.howtogeek.com/ How-To Geek is an online technology publication written by computer geeks, for computer geeks, featuring articles, in-depth reviews, news and buying guides.
 ; Link of the day 2023-08-16
 ; https://thehtml.review/ "The html review is an annual journal of literature made to exist on the web". It includes "poetry, fiction, non-fiction, graphic storytelling, and experiments " presented in a way that highlight the possibilities of the web as a storytelling and art medium.
-https://www.pcworld.com/ "PCWorld is your source for the latest technology news, product reviews, buying guides, and how-to advice for PC users. Whether you need a new laptop, monitor, VPN, or antivirus, PCWorld has you covered."
+; Link of the day 2024-04-20
+; https://www.pcworld.com/ "PCWorld is your source for the latest technology news, product reviews, buying guides, and how-to advice for PC users. Whether you need a new laptop, monitor, VPN, or antivirus, PCWorld has you covered."
 
 % Computers/Software
 ; Link of the day 2022-09-21
