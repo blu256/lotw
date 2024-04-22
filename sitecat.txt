@@ -664,7 +664,8 @@ https://github.com/buserror/libmui libmui is a widget library for Linux which em
 ; https://vmwaros.blogspot.com/ "Icaros Desktop is an Amiga-like operating system for the PC platform, with a full desktop environment, distributed on a bootable media. It's based on AROS. Icaros Desktop runs native AROS applications but also the original #Amiga ones under emulation, transparently integrating them onto its desktop."
 ; Link of the day 2024-02-27
 ; http://www.templeos.org/ TempleOS is... well, TempleOS. One cannot just describe what it is, they have to see it for themself.
-https://lineageos.org/ #LineageOS is a popular free and open-source Android distribution.
+; Link of the day 2024-04-22
+; https://lineageos.org/ #LineageOS is a popular free and open-source Android distribution.
 ; Link of the day 2024-04-15
 ; https://github.com/migueletto/PumpkinOS PumpkinOS is a re-implementation of PalmOS that can run on modern architectures.
 ; Link of the day 2024-04-17
