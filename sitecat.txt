@@ -555,7 +555,8 @@
 ; https://skins.webamp.org/ "The Winamp Skin Museum is an attempt to build a fast, searchable, and shareable, interface for the collection of Winamp Skins amassed on the Internet Archive."
 ; Link of the day 2024-03-01
 ; https://github.com/jcs/progman Achieve the perfect Linux for Workgroups look with this X11 window manager! "Hot Dog Stand" theme included, for those who know.
-https://github.com/buserror/libmui libmui is a widget library for Linux which emulates the look and feel of classic Mac OS and GS/OS.
+; Link of the day 2024-04-23
+; https://github.com/buserror/libmui libmui is a widget library for Linux which emulates the look and feel of classic Mac OS and GS/OS.
 
 % Computers/Privacy
 ; Link of the day 2022-09-16
